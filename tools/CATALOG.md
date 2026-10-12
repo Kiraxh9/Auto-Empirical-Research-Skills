@@ -6,7 +6,7 @@ Curated, license- and maintenance-aware index of **software tools** for automate
 
 ## Summary
 
-**334 tools** across 6 categories.
+**335 tools** across 6 categories.
 
 | Category | Count |
 |---|---:|
@@ -14,19 +14,19 @@ Curated, license- and maintenance-aware index of **software tools** for automate
 | Econometrics & quasi-experimental libraries | 170 |
 | Causal discovery / structure learning | 25 |
 | Autonomous research & data-science agents | 51 |
-| MCP servers (data & stats execution) | 48 |
+| MCP servers (data & stats execution) | 49 |
 | Benchmarks & datasets | 9 |
 
 | By language | Tools | | By maintenance | Tools | | By license | Tools |
 |---|---:|:-:|---|---:|:-:|---|---:|
-| Python | 164 |  | 🟢 active | 181 |  | permissive (MIT/BSD/Apache/…) | 183 |
+| Python | 164 |  | 🟢 active | 182 |  | permissive (MIT/BSD/Apache/…) | 184 |
 | R | 109 |  | 🟡 maintained | 94 |  | copyleft (GPL/AGPL/LGPL/CeCILL) | 104 |
 | Stata | 53 |  | 🔴 dormant | 59 |  | unverified / unmapped | 39 |
 | TypeScript | 16 |  |  |  |  | proprietary / non-OSI / custom | 8 |
 | Julia | 11 |  |  |  |  |  |  |
 | C++ | 6 |  |  |  |  |  |  |
+| JavaScript | 4 |  |  |  |  |  |  |
 | Java | 3 |  |  |  |  |  |  |
-| JavaScript | 3 |  |  |  |  |  |  |
 
 > `last_activity` and `stars_approx` are point-in-time snapshots from the curation pass (see [`README.md`](README.md) for caveats). Status: 🟢 active ≈ commit within ~6 months · 🟡 maintained ≈ within ~2 years · 🔴 dormant ≈ older.
 
@@ -327,7 +327,7 @@ Curated, license- and maintenance-aware index of **software tools** for automate
 | [The Virtual Lab](https://github.com/zou-group/virtual-lab) | Python | MIT | 🟡 maintained · 2025-12 | Team of LLM agents (AI PI, domain researchers, scientific critic) that hold structured meetings to autonomously design scientific pipelines, demonstrated by designing new SARS-CoV-2 nanobodies. |
 | [Virtual Scientists (VirSci)](https://github.com/InternScience/Virtual-Scientists) | Python | Apache-2.0 | 🟡 maintained · 2025-07 | Multi-agent 'science of science' system (ACL 2025) that simulates teams of scientist agents through team organization and inter/intra-team discussion to autonomously generate and evaluate novel research ideas. |
 
-## MCP servers (data & stats execution) (48)
+## MCP servers (data & stats execution) (49)
 
 | Tool | Lang | License | Status | Data source / what it serves |
 |---|---|---|---|---|
@@ -348,6 +348,7 @@ Curated, license- and maintenance-aware index of **software tools** for automate
 | [FinanceMCP (Tushare + Binance)](https://github.com/guangxiangdebizi/FinanceMCP) | JavaScript | MIT | 🟢 active · 2026-05 | Tushare (China A-shares, macro) + Binance (crypto) |
 | [FRED MCP Server (stefanoamorelli)](https://github.com/stefanoamorelli/fred-mcp-server) | TypeScript | AGPL-3.0 | 🟢 active · 2026-05 | FRED (Federal Reserve Economic Data, 800k+ series) |
 | [IMF Data MCP Server](https://github.com/c-cf/imf-data-mcp) | Python | Apache-2.0 | 🟢 active · 2026-04 | IMF (data.imf.org SDMX API) |
+| [Invokely MCP Connector](https://github.com/estevecastells/invokely-mcp-connector) | JavaScript | MIT | 🟢 active · 2026-10 | Official statistics from public agencies, including Eurostat, national statistical offices, central banks and the World Bank, served through Invokely's hosted MCP |
 | [Jupyter MCP Server (Datalayer)](https://github.com/datalayer/jupyter-mcp-server) | Python | BSD-3-Clause | 🟢 active · 2026-05 | MCP server for Jupyter that lets an agent execute notebook cells and run Python/code in a live kernel with multimodal output. |
 | [MCP-DBLP](https://github.com/szeider/mcp-dblp) | Python | MIT | 🟢 active · 2026-04 | DBLP (computer-science bibliography) |
 | [mcp-fred (cfdude)](https://github.com/cfdude/mcp-fred) | Python | unverified | 🟢 active · 2026-03 | FRED (Federal Reserve Economic Data) |

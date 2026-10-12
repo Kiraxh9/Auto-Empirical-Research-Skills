@@ -16,7 +16,7 @@
 
 <!-- BEGIN GENERATED: summary (scripts/build-tools-catalog.py) -->
 
-**334 tools** across 6 categories.
+**335 tools** across 6 categories.
 
 | Category | Count |
 |---|---:|
@@ -24,19 +24,19 @@
 | Econometrics & quasi-experimental libraries | 170 |
 | Causal discovery / structure learning | 25 |
 | Autonomous research & data-science agents | 51 |
-| MCP servers (data & stats execution) | 48 |
+| MCP servers (data & stats execution) | 49 |
 | Benchmarks & datasets | 9 |
 
 | By language | Tools | | By maintenance | Tools | | By license | Tools |
 |---|---:|:-:|---|---:|:-:|---|---:|
-| Python | 164 |  | 🟢 active | 181 |  | permissive (MIT/BSD/Apache/…) | 183 |
+| Python | 164 |  | 🟢 active | 182 |  | permissive (MIT/BSD/Apache/…) | 184 |
 | R | 109 |  | 🟡 maintained | 94 |  | copyleft (GPL/AGPL/LGPL/CeCILL) | 104 |
 | Stata | 53 |  | 🔴 dormant | 59 |  | unverified / unmapped | 39 |
 | TypeScript | 16 |  |  |  |  | proprietary / non-OSI / custom | 8 |
 | Julia | 11 |  |  |  |  |  |  |
 | C++ | 6 |  |  |  |  |  |  |
+| JavaScript | 4 |  |  |  |  |  |  |
 | Java | 3 |  |  |  |  |  |  |
-| JavaScript | 3 |  |  |  |  |  |  |
 
 <!-- END GENERATED: summary -->
 

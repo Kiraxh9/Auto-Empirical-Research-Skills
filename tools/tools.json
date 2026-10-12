@@ -5556,6 +5556,29 @@
     {
       "automation_level": "mcp-server",
       "category": "mcp-server",
+      "data_source": "Official statistics from public agencies, including Eurostat, national statistical offices, central banks and the World Bank, served through Invokely's hosted MCP",
+      "description": "MIT-licensed Node.js stdio adapter that forwards MCP calls to Invokely's hosted official-statistics service; the backend source is separate.",
+      "homepage": "https://invokely.ai/docs",
+      "id": "invokely-mcp-connector",
+      "languages": [
+        "javascript"
+      ],
+      "last_activity": "2026-10",
+      "license": "MIT",
+      "maintained": "active",
+      "name": "Invokely MCP Connector",
+      "owner_repo": "estevecastells/invokely-mcp-connector",
+      "stars_approx": 0,
+      "subcategory": [
+        "economic-data",
+        "government-data"
+      ],
+      "url": "https://github.com/estevecastells/invokely-mcp-connector",
+      "verified": true
+    },
+    {
+      "automation_level": "mcp-server",
+      "category": "mcp-server",
       "data_source": null,
       "description": "MCP server for Jupyter that lets an agent execute notebook cells and run Python/code in a live kernel with multimodal output.",
       "homepage": null,
