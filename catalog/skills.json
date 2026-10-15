@@ -1308,6 +1308,23 @@
       "source_confidence": "high",
       "source_url": "https://github.com/brycewang-stanford/p-hacking-skills",
       "sync": "manual"
+    },
+    {
+      "commercial_use": "share-alike",
+      "has_license": false,
+      "has_readme": true,
+      "id": "74-fxmacrodata",
+      "license": "CC-BY-SA-4.0 (repository default)",
+      "path": "skills/74-fxmacrodata",
+      "primary_skill": {
+        "description": "Use when an empirical macro, monetary or international-finance project needs official-source series (policy rates, CPI, GDP, payrolls, unemployment, bond yields), their release timestamps and revision vintages, the official release calendar, or daily FX rates for 22 currencies, pulled reproducibly into CSV through the FXMacroData REST API.",
+        "name": "fxmacrodata-macro-data",
+        "path": "skills/74-fxmacrodata/fxmacrodata-macro-data/SKILL.md"
+      },
+      "skill_count": 1,
+      "source_confidence": "high",
+      "source_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "sync": "manual"
     }
   ],
   "generated_by": "scripts/build-catalog.py",
@@ -19304,6 +19321,21 @@
       "name": "phack-polyglot",
       "path": "skills/73-brycewang-p-hacking-skills/skills/10-phack-polyglot/SKILL.md",
       "qualified_name": "73-brycewang-p-hacking-skills::phack-polyglot"
+    },
+    {
+      "collection": "74-fxmacrodata",
+      "description": "Use when an empirical macro, monetary or international-finance project needs official-source series (policy rates, CPI, GDP, payrolls, unemployment, bond yields), their release timestamps and revision vintages, the official release calendar, or daily FX rates for 22 currencies, pulled reproducibly into CSV through the FXMacroData REST API.",
+      "frontmatter_fields": [
+        "description",
+        "name"
+      ],
+      "has_description": true,
+      "has_frontmatter": true,
+      "has_name": true,
+      "line_count": 95,
+      "name": "fxmacrodata-macro-data",
+      "path": "skills/74-fxmacrodata/fxmacrodata-macro-data/SKILL.md",
+      "qualified_name": "74-fxmacrodata::fxmacrodata-macro-data"
     }
   ],
   "summary": {
@@ -19312,7 +19344,7 @@
     "missing_frontmatter": 0,
     "missing_name": 0,
     "oversized_skill_files_over_500_lines": 83,
-    "skill_files": 1107,
-    "top_level_collections": 77
+    "skill_files": 1108,
+    "top_level_collections": 78
   }
 }
