@@ -159,6 +159,7 @@ benchmark-refresh:
 test:
 	python3 -m unittest discover -s tests -p "test_*.py"
 	python3 -m unittest discover -s skills/72-kaggle-research/kaggle-research/tests -p "test_*.py"
+	python3 -m unittest discover -s skills/74-fxmacrodata/fxmacrodata-macro-data/tests -p "test_*.py"
 
 # Compile all repo-owned Python tooling with the active interpreter. In CI this
 # runs on the Python 3.9/3.12 matrix and catches syntax drift in scripts that
@@ -169,6 +170,7 @@ python-compat:
 	# scripts; they belong on the compat matrix like everything else.
 	python3 -m py_compile demo-notebooks/*.py demo-notebooks/*/*.py
 	python3 -m py_compile skills/72-kaggle-research/kaggle-research/scripts/*.py skills/72-kaggle-research/kaggle-research/scripts/kaggle_runtime/*.py skills/72-kaggle-research/kaggle-research/tests/*.py
+	python3 -m py_compile skills/74-fxmacrodata/fxmacrodata-macro-data/scripts/*.py skills/74-fxmacrodata/fxmacrodata-macro-data/tests/*.py
 	# The de-AIGC provenance scrubber is first-party, stdlib-only Python 3.9+.
 	python3 -m py_compile skills/48-de-AIGC-skills/scripts/*.py
 

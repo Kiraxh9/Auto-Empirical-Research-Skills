@@ -26,6 +26,7 @@
 | [`59` openalex-skill](../../skills/59-shiquda-openalex-skill/) | Query 240M+ scholarly works via OpenAlex | Treat literature metadata as a structured data source |
 | [`43` research-plugins](../../skills/43-wentorai-research-plugins/) | 478 research plugins: visualisation, domains, infrastructure | Pick specialised retrieval/cleaning plugins by data type |
 | [⭐ `72` Kaggle Research](../../skills/72-kaggle-research/) | Policy-enforced official Kaggle CLI integration with audit records and artifact hashes | Discover datasets, competitions, kernels, and models; download public data into a bounded output root |
+| [`74` FXMacroData Macro Data](../../skills/74-fxmacrodata/) | Official macro series, release timestamps and revision vintages, release calendars and FX for 22 currencies | Build country-month or event-window panels of policy rates, CPI, GDP and payrolls; restrict to values public at each date |
 
 ---
 

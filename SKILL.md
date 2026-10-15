@@ -8,7 +8,7 @@ license: CC-BY-SA-4.0
 
 Use this root skill when the full AERS repository has been installed as a single skill folder. Treat it as a router and catalog, not as a request to load every vendored `SKILL.md`.
 
-The catalog holds **1,107 skills across 77 vendored collections**. Never read them all — route to one, then load only that skill's `SKILL.md`.
+The catalog holds **1,108 skills across 78 vendored collections**. Never read them all — route to one, then load only that skill's `SKILL.md`.
 
 ## Workflow
 
@@ -72,6 +72,7 @@ This table is a shortcut to the most common starting points, **not a complete in
 | Game theory / theory papers | `skills/65-game-theory-paper-writer/` |
 | Qualitative / thematic analysis | `skills/53-keemanxp-thematic-analysis-skill/` |
 | Data acquisition (Kaggle, SEC filings, open data) | `skills/72-kaggle-research/`, `skills/57-dgunning-edgartools/`, `skills/59-shiquda-openalex-skill/` |
+| Official macro series, release dates and vintages, FX rates | `skills/74-fxmacrodata/` |
 | Literature review | `skills/36-taoyunudt-literature-review-skill/`, `skills/52-keemanxp-slr-prisma/`, `skills/59-shiquda-openalex-skill/` |
 | Lit-review tool selection / PDF→Markdown / cited Q&A over PDFs / PRISMA screening runners | `skills/71-brycewang-lit-review-agent-tools/` |
 | Citation checking | `skills/62-PHY041-claude-skill-citation-checker/` |
@@ -112,7 +113,7 @@ The orchestrator is **not** the right entry point for a single-task ask (e.g. "f
 - Whole-repo imports are supported by this root `SKILL.md` as a lightweight compatibility entry point.
 - Individual skill installs are still preferred when a runtime expects one folder per skill. Copy the folder that directly contains the target `SKILL.md`.
 - Do not copy the repository root into a runtime and expect every child skill to become individually registered unless that runtime explicitly supports recursive skill discovery.
-- **Do not flat-install the whole catalog** (e.g. symlinking every child folder into `~/.claude/skills`). Every registered skill's description is loaded at session start — about 64k tokens for all 1,107 here — and runtimes truncate long skill listings, so matching gets *worse*, not better. Use a plugin, this router, or a handful of copied skills.
+- **Do not flat-install the whole catalog** (e.g. symlinking every child folder into `~/.claude/skills`). Every registered skill's description is loaded at session start — about 64k tokens for all 1,108 here — and runtimes truncate long skill listings, so matching gets *worse*, not better. Use a plugin, this router, or a handful of copied skills.
 - **Name collisions:** the catalog contains 47 bare `name`s shared across collections (e.g. `data-analysis`, `lit-review`, `proofread`); `catalog/curation.json` names one preferred copy of each, which `scripts/find-skill.py` returns. When a runtime registers skills by flat name, install one collection at a time, or disambiguate with the globally-unique `qualified_name` field in `catalog/skills.json` (`<collection>::<name>`, e.g. `12-pedrohcgs-claude-code-my-workflow::data-analysis`), or the full `skills/<collection>/.../SKILL.md` path.
 
 ## Key Files

@@ -22,7 +22,7 @@ repos:
         entry: make test
         language: system
         pass_filenames: false
-        files: ^(tests/|eval-harness/|benchmark/|scripts/|aers_score/|demo-notebooks/|skills/72-kaggle-research/)
+        files: ^(tests/|eval-harness/|benchmark/|scripts/|aers_score/|demo-notebooks/|skills/72-kaggle-research/|skills/74-fxmacrodata/)
       - id: aers-python-compat
         name: AERS Python tooling compile
         entry: make python-compat
@@ -31,7 +31,7 @@ repos:
         # Keep in step with the python-compat target's globs — a directory the
         # target compiles but this pattern omits is a compile check that never
         # runs on the commit that broke it. tests/test_repo_tools.py pins this.
-        files: ^(tests/|eval-harness/|benchmark/|scripts/|aers_score/|demo-notebooks/|skills/72-kaggle-research/|Makefile)
+        files: ^(tests/|eval-harness/|benchmark/|scripts/|aers_score/|demo-notebooks/|skills/72-kaggle-research/|skills/74-fxmacrodata/|Makefile)
       - id: aers-benchmark
         name: AERS benchmark (strict)
         entry: bash -c 'python3 benchmark/check_benchmark.py --lint >/dev/null && python3 benchmark/reference_pipeline.py --check >/dev/null && python3 benchmark/check_benchmark.py --strict --fail-on-partial --fail-on-orphan-results >/dev/null'
