@@ -47,12 +47,14 @@ Add to `~/.claude/settings.json`:
 |----------|--------------|-----------|
 | **OpenAI** | `https://api.openai.com/v1` | `gpt-4o`, `o3` |
 | **DeepSeek** | `https://api.deepseek.com/v1` | `deepseek-chat`, `deepseek-reasoner` |
-| **MiniMax** | `https://api.minimax.io/v1` | `MiniMax-M3` |
+| **MiniMax** | `https://api.minimax.io/v1` | `MiniMax-M3.1-Flash` (default), `MiniMax-M3` |
 | **Kimi (Moonshot)** | `https://api.moonshot.cn/v1` | `moonshot-v1-8k`, `moonshot-v1-32k` |
 | **ZhiPu (GLM)** | `https://open.bigmodel.cn/api/paas/v4` | `glm-4`, `glm-4-plus` |
 | **SiliconFlow** | `https://api.siliconflow.cn/v1` | `Qwen/Qwen2.5-72B-Instruct` |
 | **阿里云百炼** | `https://dashscope.aliyuncs.com/compatible-mode/v1` | `qwen-max` |
 | **零一万物** | `https://api.lingyiwanwu.com/v1` | `yi-large` |
+
+For a new MiniMax configuration with no selected model, use `MiniMax-M3.1-Flash`. Keep an existing `LLM_MODEL` or explicitly requested custom model unchanged, including when resuming a review. The curl examples use Python 3 to JSON-encode the selected `LLM_MODEL`.
 
 ## API Call Method
 
@@ -73,7 +75,7 @@ curl -s "${LLM_BASE_URL}/chat/completions" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer ${LLM_API_KEY}" \
   -d '{
-    "model": "${LLM_MODEL}",
+    "model": '"$(python3 -c 'import json, sys; print(json.dumps(sys.argv[1]))' "$LLM_MODEL")"',
     "messages": [
       {"role": "system", "content": "You are a senior ML reviewer..."},
       {"role": "user", "content": "[review prompt]"}
@@ -137,7 +139,7 @@ curl -s "${LLM_BASE_URL}/chat/completions" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer ${LLM_API_KEY}" \
   -d '{
-    "model": "${LLM_MODEL}",
+    "model": '"$(python3 -c 'import json, sys; print(json.dumps(sys.argv[1]))' "$LLM_MODEL")"',
     "messages": [
       {"role": "system", "content": "You are a senior ML reviewer (NeurIPS/ICML level)."},
       {"role": "user", "content": "[Full review prompt]"}

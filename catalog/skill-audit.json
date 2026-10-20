@@ -4255,7 +4255,7 @@
       "has_description": true,
       "has_frontmatter": true,
       "has_name": true,
-      "line_count": 242,
+      "line_count": 244,
       "name": "auto-review-loop-llm",
       "path": "skills/42-wanshuiyin-ARIS/skills/auto-review-loop-llm/SKILL.md"
     },
@@ -4265,7 +4265,7 @@
       "has_description": true,
       "has_frontmatter": true,
       "has_name": true,
-      "line_count": 285,
+      "line_count": 289,
       "name": "auto-review-loop-minimax",
       "path": "skills/42-wanshuiyin-ARIS/skills/auto-review-loop-minimax/SKILL.md"
     },

@@ -16,7 +16,11 @@ Autonomously iterate: review → implement fixes → re-review, until the extern
 - MAX_ROUNDS = 4
 - POSITIVE_THRESHOLD: score >= 6/10, or verdict contains "accept", "sufficient", "ready for submission"
 - REVIEW_DOC: `AUTO_REVIEW.md` in project root (cumulative log)
-- REVIEWER_MODEL = `MiniMax-M3` — Model used via MiniMax API
+- REVIEWER_MODEL = `MiniMax-M3.1-Flash` — Default model used via MiniMax API; `MiniMax-M3` is also available.
+
+Use this default only when no model was explicitly selected. Preserve a user's configured/custom model ID or the model recorded in a resumed review. For MCP, substitute the selected REVIEWER_MODEL in every `model` field when an override is present. For curl, set the shell variable `REVIEWER_MODEL` to that exact ID; Python 3 JSON-encodes it, defaulting to Flash only when unset or empty. Record the selected model in `AUTO_REVIEW.md` and restore `REVIEWER_MODEL` from that record before resuming subsequent rounds.
+
+The direct API enables thinking by default. Leave thinking and effort fields omitted in these examples; Flash does not accept disabled thinking. See the [MiniMax API reference](https://platform.minimax.io/docs/api-reference/text-openai-api).
 
 ## API Configuration
 
@@ -30,7 +34,7 @@ If `mcp__minimax-chat__minimax_chat` is available, use it:
 mcp__minimax-chat__minimax_chat:
   prompt: |
     [Review prompt content]
-  model: "MiniMax-M3"
+  model: "MiniMax-M3.1-Flash"
   system: "You are a senior machine learning researcher..."
 ```
 
@@ -43,7 +47,7 @@ curl -s "https://api.minimax.io/v1/chat/completions" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $MINIMAX_API_KEY" \
   -d '{
-    "model": "MiniMax-M3",
+    "model": '"$(python3 -c 'import json, sys; print(json.dumps(sys.argv[1]))' "${REVIEWER_MODEL:-MiniMax-M3.1-Flash}")"',
     "messages": [
       {"role": "system", "content": "You are a senior ML researcher..."},
       {"role": "user", "content": "[Review prompt]"}
@@ -108,7 +112,7 @@ Send comprehensive context to the external reviewer.
 Use mcp__minimax-chat__minimax_chat tool with:
 - system: "You are a senior machine learning researcher serving as a reviewer for top-tier conferences like NeurIPS, ICML, and ICLR. Provide rigorous, constructive feedback."
 - prompt: [Full review prompt with context]
-- model: "MiniMax-M3"
+- model: "MiniMax-M3.1-Flash"
 ```
 
 **If MCP NOT available (Fallback):**
@@ -117,7 +121,7 @@ curl -s "https://api.minimax.io/v1/chat/completions" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $MINIMAX_API_KEY" \
   -d '{
-    "model": "MiniMax-M3",
+    "model": '"$(python3 -c 'import json, sys; print(json.dumps(sys.argv[1]))' "${REVIEWER_MODEL:-MiniMax-M3.1-Flash}")"',
     "messages": [
       {
         "role": "system",
@@ -233,7 +237,7 @@ When loop ends (positive assessment or max rounds):
 **MCP Method (Primary):**
 ```
 mcp__minimax-chat__minimax_chat:
-  model: "MiniMax-M3"
+  model: "MiniMax-M3.1-Flash"
   system: "You are a senior machine learning researcher serving as a reviewer for top-tier conferences like NeurIPS, ICML, and ICLR. Provide rigorous, constructive feedback."
   prompt: |
     [Round N/MAX_ROUNDS of autonomous review loop]
@@ -269,7 +273,7 @@ curl -s "https://api.minimax.io/v1/chat/completions" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $MINIMAX_API_KEY" \
   -d '{
-    "model": "MiniMax-M3",
+    "model": '"$(python3 -c 'import json, sys; print(json.dumps(sys.argv[1]))' "${REVIEWER_MODEL:-MiniMax-M3.1-Flash}")"',
     "messages": [
       {
         "role": "system",
