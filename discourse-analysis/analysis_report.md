@@ -169,3 +169,20 @@
 ---
 
 *本报告基于所附草稿、标注提示词及 Yu (2023)、Yu et al. (2026) 的方法论文献撰写。*
+
+---
+
+## 六、精简版方案（v2）说明
+
+为降低标注负担，已将原 19 Moves + OTHER 精简为 **13 Moves + OTHER**，详见：
+- `discourse-analysis/move_scheme_v2.md`（精简对照表、定义、边界准则）
+- `discourse-analysis/llm_move_annotation_prompt_v2.md`（可直接使用的 LLM 提示词）
+
+**精简策略**：
+- M03 合并 M03+M04+M11（价值/学科内涵/社会服务均为"抽象/正当化"话语）；
+- M08 合并 M09+M17（声誉/成就/具体动态）；
+- M12 合并 M14+M15（欢迎/联系）；
+- M13 合并 M16+M18+M19（规章/募捐/缅怀）为"机构通告与鸣谢"；
+- combined moves 规则保留；嵌套顺序明确为"外层=主导 Move"。
+
+**预期效果**：类别数减少 32%，inter-model 一致性与 corrected accuracy 应有所提升；建议对 v2 方案做 20 篇 pilot 标注并报告 Cohen's κ 后再全量使用。
