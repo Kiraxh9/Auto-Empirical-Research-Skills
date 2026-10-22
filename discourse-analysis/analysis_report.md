@@ -186,3 +186,18 @@
 - combined moves 规则保留；嵌套顺序明确为"外层=主导 Move"。
 
 **预期效果**：类别数减少 32%，inter-model 一致性与 corrected accuracy 应有所提升；建议对 v2 方案做 20 篇 pilot 标注并报告 Cohen's κ 后再全量使用。
+
+---
+
+## 七、进一步精简版（v3）说明
+
+参考 Yu (2023) 采用 10 个 Move 的方案与 Yu et al. (2026) 的 OTHER 吸收策略，将 v2 的 13 Moves 进一步精简为 **10 Moves + OTHER**，详见：
+- `discourse-analysis/move_scheme_v3.md`
+- `discourse-analysis/llm_move_annotation_prompt_v3.md`
+
+**v3 合并策略**：
+- M05 合并 v2 M05+M10（育人目标与毕业出路）；
+- M10 合并 v2 M11+M12（未来愿景/欢迎/联系）；
+- OTHER 扩展吸收 v2 M13（规章/募捐/缅怀/动态），以括号子类型注记保留可追溯性。
+
+**版本选择**：需要精细分析规章/募捐/缅怀/新闻 → v2；以 RQ1–RQ5 为核心、降低负担 → v3。
