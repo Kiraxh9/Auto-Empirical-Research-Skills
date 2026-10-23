@@ -1,0 +1,589 @@
+<OTHER>School of Modern Languages</OTHER>
+
+<M09>Welcome From the Chair</M09>
+
+<M09>John Lyon</M09>
+<M06><M09>School Chair, Professor of German, and Charles Smithgall Jr. Institute Chair</M09></M06>
+
+<M09>Hello and welcome to the School of Modern Languages at the Georgia Institute of Technology!</M09>
+<M09>Our rich legacy includes more than a century of innovative and integrated language and culture studies.</M09>
+<M03>This considerable experience is reflected in our motto “Change the Conversation: Cross-Cultural Expertise for Global Leadership.”</M03>
+
+<M05>Our Programs</M05>
+
+<M02>Founded in 1904 as the fourth non-engineering department at Georgia Tech, we now offer eight languages plus linguistics and unique interdisciplinary degrees in Applied Languages and Intercultural Studies (B.S. and M.S), Global Media and Cultures (M.S.), Global Economics and Modern Languages (B.S.), and International Affairs and Modern Languages (B.S.), as well as a number of minors and certificates.</M02>
+<M04>These degrees are emblematic of our School’s mission to engage global issues at the intersection of Humanities and Technology.</M04>
+
+<M01>Cross-Cultural Expertise for Global Leadership</M01>
+
+<M01>Our programs and our faculty’s expertise demonstrate profound connections between the languages we teach and the engineering, computing, sustainability, and overall technology programs for which Georgia Tech is well known.</M01>
+<M01>We foster advanced communication skills, promote intellectual flexibility and creative thinking, champion access to intercultural understanding, and support professional training to succeed in a global workforce.</M01>
+<M01>Our master’s programs develop global competencies and advanced language expertise critical to a wide range of careers, from communications and the non-profit sector to business, technology, management, media, entertainment, and health fields.</M01>
+<M05>We prioritize experiential and applied learning as well as opportunities for community engagement, service-learning, internships, study abroad, and participation in Tech’s Create-X entrepreneurship program.</M05>
+<M01>We promote extensive industry partnerships with the private sector in Atlanta and around the globe.</M01>
+
+<M04>Scholarly Expertise and Research Areas</M04>
+
+<M04>We extend opportunities to develop a broader understanding of culture and the arts, environmental and social sustainability, and daily life in the countries whose languages we teach.</M04>
+<M04>Our faculty’s internationally recognized research expertise and scholarship in these areas include media, cinema, and literary studies; linguistics and computing; inter- and cross-cultural studies; sustainability and environmental humanities; memory, migration, and gender studies; new media and digital humanities; and second language acquisition studies and foreign language pedagogy.</M04>
+
+<M03><M04>Educating Good Global Citizens</M04></M03>
+
+<M04>The School plays a central role in furthering Georgia Tech’s strategic objective of preparing graduates for global leadership.</M04>
+<M05>About 50% of Georgia Tech undergraduates choose to study a foreign language during their time on campus, and more than 50% have an international experience before they graduate – many on our faculty-led study abroad programs on five continents in 25 locations.</M05>
+<M07>Our alumni go on to pursue meaningful and rewarding careers in a range of fields, in the private as well as public sectors.</M07>
+<M04>We are proud of our students and alums and welcome them into the Modern Languages family.</M04>
+
+<M04>After more than a century, we remain a hub of global engagement and visionary expertise at the Institute.</M04>
+<M09><M08>Come join us, partner with us, and study with us!</M08></M09>
+
+<M04>Sincerely,</M04>
+
+<M04>John Lyon</M04>
+<M06><M04>School Chair, Professor of German, and Charles Smithgall Jr. Institute Chair</M04></M06>
+
+<M03><M04>Who We Are and What We Believe In</M04></M03>
+
+<OTHER>Our Motto</OTHER>
+
+<M01>Change the Conversation: Cross-Cultural Expertise for Global Leadership</M01>
+
+<OTHER>Our Purpose</OTHER>
+
+<M03>The School of Modern Languages is a national leader in the study of cultures, languages, linguistics, and media.</M03>
+<M05>Our faculty are consistently recognized for their impactful and interdisciplinary research, artistic creation, innovations in curriculum development, expertise in study abroad, and close collaboration with industry professionals.</M05>
+<M08>As scholars and educators, we are proud of our established strengths in equipping the next generation of global leaders with the essential knowledge, skills, and professional opportunities necessary to foster meaningful communicative and cultural interactions.</M08>
+<M03>Our cross-disciplinary partnerships enable the exchange of diverse perspectives.</M03>
+<M03>We support the pursuit of purposeful and innovative scholarship, education, and careers that generate lasting and positive social change.</M03>
+
+<M03>We Champion</M03>
+
+<M03>- Interdisciplinary and innovative research and education in cross-cultural humanities and language studies</M03>
+<M03>- The exchange of diverse perspectives and impactful collaborations and partnerships</M03>
+<M03>- Global competence and inclusivity</M03>
+<M03>- Curiosity about the world and its caretaking</M03>
+<M03>- Transformative experiences and lifelong professional growth</M03>
+
+<M03>We Support and Adhere to Georgia Tech’s Core Values</M03>
+
+<M03>- Integrity</M03>
+<M03>- Respect</M03>
+<M03>- Community</M03>
+<M03>- Accountability</M03>
+<M03>- Adaptability</M03>
+
+<OTHER>School of Modern Languages Strategic Plan</OTHER>
+
+<M03>Strategic Plan 2019-25</M03>
+
+<M01>Chair's Message and Executive Summary</M01>
+
+<M09><M01>Welcome to the School of Modern Languages Strategic Plan for 2020-25.</M01></M09>
+<M07>Developed collaboratively by faculty, staff, and students with input from internal and external stakeholders, alumni, and community and corporate partners, this plan will guide the School during a period of expansive transition as we strengthen our contributions to the Institute, the greater Atlanta region, the nation, and the world.</M07>
+<M02>Founded in 1905 as the fourth non-engineering department at Georgia Tech, our legacy includes more than a century of innovative, adaptive, and integrated language and culture studies and research.</M02>
+<M01>Today we offer a dozen languages – many less commonly taught – and unique interdisciplinary degrees in Applied Languages and Intercultural Studies (B.S. and M.S.), Global Media and Cultures (M.S.), Global Economics and Modern Languages (B.S.), and International Affairs and Modern Languages (B.S.).</M01>
+<M07><M05>We remain a hub of global engagement with fifteen immersive faculty-led study abroad programs on five continents; experiential, applied, and online learning that promotes deep cultural and linguistic competence for a STEM-driven environment; partnerships with the private and public sector; and internationally recognized scholarship, artistic creation, and sponsored research in arts, media, literature, linguistics, sustainability, foreign language pedagogy, and inter-and cross-cultural studies.</M05></M07>
+<M01>We look forward to the next century of innovation and to changing the conversation, together!</M01>
+
+<M01>John Lyon</M01>
+<M06><M01>School Chair, Charles Smithgall Jr. Institute Chair, and Professor of German</M01></M06>
+<OTHER>School of Modern Languages</OTHER>
+
+<M01>Goal 1: Enhance Access to Advanced Language Learning and Intercultural Studies and Strengthen Recognition as a National Leader in Cross-cultural Humanities Graduate Education with a Career Orientation</M01>
+
+<OTHER>Objectives:</OTHER>
+
+<M05>- Double the number of undergraduate majors through strategic, deliberate, and intentional curricular and academic program planning</M05>
+<M01>- collaborations with Georgia Tech STEM units as well as regional, national, and international partners</M01>
+<M05><M01>- innovative, accessible, and attractive summer offerings that fulfill degree requirements</M01></M05>
+<M01>- Expand, enhance, and sustainably resource our graduate programs and develop graduate opportunities for professionals as well as PhD minors for Georgia Tech students</M01>
+<M01>- generating impactful and innovative recruitment</M01>
+<M01>- identifying and securing student funding opportunities</M01>
+<M01>- developing interdisciplinary graduate certificates and PhD minors for Georgia Tech students and continuing education for working professionals.</M01>
+<M03>- Sustain and leverage the School’s extensive international reach and its support of the Institute’s priority to “educate good global citizens” (Goal #4 in the Strategic Plan) by</M03>
+<M06>- maintaining strong and varied faculty-led study abroad programs</M06>
+<M05>- integrating semester-long study abroad and global internships into the curriculum</M05>
+<M06>- engaging heritage learner communities and international native-language students into the School’s programs.</M06>
+<M06>- Strengthen inclusive, diverse, experiential, and applied learning by</M06>
+<M04>- integrating undergraduate and graduate research into the curriculum</M04>
+<M08>- enhancing service-learning and community engagement in collaboration with Serve –Learn – Sustain</M08>
+<M04>- prioritizing career education; professional and internship opportunities; and Create-X participation</M04>
+<M04>- Further champion our programs as central to the Institute’s emphasis on sustainability, innovation, entrepreneurship, public service, leadership and the educational priorities articulated in Creating the Next in Education, such as Whole Person Education, training T-shaped professionals, or 21st Century Skills.</M04>
+<M04>- Support online curricula and instruction to enhance student learning in virtual environments, from introductory to advanced levels, and for professional education.</M04>
+<M04>- Increase financial support for students through philanthropy, grants, and partnerships at the Institute and beyond.</M04>
+<M07>- Establish a robust Modern Languages culture where alumni know they are recognized, valued, and supported.</M07>
+
+<M07>Goal 2: Sustain and Grow Excellence in Interdisciplinary and Cross-cultural Research and Scholarship</M07>
+
+<OTHER>Objectives:</OTHER>
+
+<M04>- Solidify, align, and promote our recognized strengths in:</M04>
+<M04>- cultural, cinema, media, and literary studies</M04>
+<M04>- theoretical, applied, and comparative linguistics (especially sociolinguistics, computational linguistics, bilingualism, and language contact)</M04>
+<M04>- sustainability, globalization, and climate change; digital humanities; gender, memory, race, and migration studies</M04>
+<M04>- foreign language pedagogy at the cross-section of the humanities, science, and technology.</M04>
+<M04>- Recruit and retain tenure-stream and PhD-holding faculty who are leaders in their fields and support our educational innovation, intellectual priorities, emphasis on inclusivity and diversity, and demonstrate an entrepreneurial and can-do attitude.</M04>
+<M04>- Support and champion a collaborative and creative scholarly culture that</M04>
+<M04>- enhances the scope, reach, and impact of faculty research</M04>
+<M04>- increases the number of sponsored projects and philanthropic project support,</M04>
+<M08>- provides opportunities for informal and formal collaboration through working groups, collaboratoria, symposia, and speaker series</M08>
+<M06>- prioritizes faculty’s professional development, and</M06>
+<M06>- integrates our faculty into the Institute’s and College’s research and grant acquisition priorities to support innovative interdisciplinary scholarship.</M06>
+<M06><M05>- Expand our innovative post-doctoral teaching fellow program in Global Cultures, Languages, and Technologies (GLACT) and promote it as a national model.</M05></M06>
+
+<M06>Goal 3: Leverage the Atlanta Factor and Inclusive Community Engagement</M06>
+
+<OTHER>Objectives:</OTHER>
+
+<M06>- Strengthen our many regional partnerships in ways that demonstrate our support of local communities, increase awareness and appreciation of Modern Languages at Georgia Tech, and provide opportunities for faculty and students to be engaged globally at home and serve the rich international ecosystem of Atlanta.</M06>
+<M06>- Further develop our innovative collaborations with the private and public sectors to support industry, state, city, and community needs for advanced language, global, and intercultural competence.</M06>
+<M08>- Grow our educational sector collaborations with the K-12 community and regional universities to expand instruction of less commonly taught languages, support innovations in pedagogy, and facilitate multi-institutional research collaborations.</M08>
+<M08>- Support the mission of and continue the partnership with the Atlanta Global Studies Center, a Title VI National Resource Center and Foreign Language and Area Studies Program funded by the U.S. Department of Education.</M08>
+
+<M06>Goal 4: Optimize School Organizational and Financial Resources</M06>
+
+<OTHER>Objectives:</OTHER>
+
+<M06>- Encourage and foster a diverse and inclusive community of excellence for our students, faculty, and staff, including through training and professional development activities.</M06>
+<M06><M05>- Streamline and identify clear processes for academic program operations and curriculum management; allocation of technology and equipment; HR and faculty affairs requests; facilities maintenance and space management; and other operational efficiency.</M05></M06>
+<M06>- Maintain and consistently adhere to a School-wide communication plan to champion the contributions of students, faculty, staff, alums, and partners to increase recognition of who we are and what we contribute at the Institute and beyond.</M06>
+<M06>- Strengthen the School’s diverse portfolio of revenue and funding sources and secure additional permanent funding, with a priority to fund the School’s ambitious hiring plan to substantially increase the number of tenure-stream faculty</M06>
+<M06>- Prioritize the physical expansion of the School to accommodate an expanded faculty and set of academic programs.</M06>
+<M07>- Enhance support for philanthropy and development with individuals, corporations, foundations, and alumni.</M07>
+
+<M06>How We Make the Institute and the World Better</M06>
+
+<M06>Our ability to continue our trajectory as technological leaders in the 21st century is predicated upon our ability to produce future leaders who have the linguistic capacity and intercultural competency to connect in meaningful ways across the global community in which we live.</M06>
+<M06>The School of Modern Language cross-cultural linguistic focus in scholarship and education prepares the next generation of leaders to continue our global impact in the future.</M06>
+
+<M06>Archie W. Ervin, Ph.D.</M06>
+<M03>Vice President and Chief Diversity Officer</M03>
+
+<M03>The School of Modern Languages is an integral part of Georgia Tech’s ethos of global engagement, fostering a spirit of being open to the world and productive in collaboration across geopolitical, cultural, and linguistic boundaries.</M03>
+<M03>Many thousands of Georgia Tech students benefit from the School every year and develop the confidence and skills necessary to become global citizens.</M03>
+
+<M03>Yves H. Berthelot, Ph.D.</M03>
+<M03>Vice-Provost for International Initiatives and Steven A. Denning Chair in Global Engagement</M03>
+
+<M07><M05>With faculty whose internationally recognized research and scholarship advance cross-cultural understanding, the School of Modern Languages is home to some of the most innovative undergraduate and graduate programs at Georgia Tech.</M05></M07>
+<M05>Its world-renowned faculty-led study abroad programs Language for Business and Technology (LBAT) are jewels in Georgia Tech's crown.</M05>
+<M03>As pioneers in on-line instruction, the School has provided enhanced access to thousands of students.</M03>
+
+<M03>John Lawrence Tone, Ph.D.</M03>
+<M03>Interim Dean Ivan Allen College of Liberal Arts</M03>
+
+<M09>How to Support Us</M09>
+
+<M09>We invite each of you to engage more deeply with the College, to understand current goals and priorities needs.</M09>
+<M09>Whether through philanthropic gifts or gifts of time and talent, your support is vital to our ability to sustain the leading edge and realize the promises of</M09>
+
+<M09>- Our remarkably talented students</M09>
+<M09>- Our faculty, whose research has a commanding presence in their field and defines the future horizons</M09>
+<M03><M09>- Our vision of academic excellence, innovation, and entrepreneurship.</M09></M03>
+
+<M10>Please contact the Ivan Allen College Development Office to explore opportunities for student support and mentoring, faculty support, and program enrichment.</M10>
+
+<OTHER>Contact</OTHER>
+
+<OTHER>The School of Modern Languages</OTHER>
+
+<M10>Swann Building</M10>
+<M10>613 Cherry Street</M10>
+<M10>Atlanta, GA 30332-0375</M10>
+<M10>Phone: (404) 894-7327</M10>
+<M10>Email: modlangs@iac.gatech.edu</M10>
+
+<M10>The Swann Building is adjacent to the Savant Building in the iconic shadow of the Tech Tower.</M10>
+
+<OTHER>Driving Directions</OTHER>
+
+<M10>From the North, on I-75/85 South into Atlanta:</M10>
+
+<M10>Take Exit #249D (North Avenue).</M10>
+<M10>At the top of the exit ramp, turn right onto North Avenue.</M10>
+<M10>Cross Techwood Drive (the first light) and continue on North Avenue crossing under the pedestrian bridge.</M10>
+<M10>Take the first left after crossing under the pedestrian bridge into Visitor Parking 1.</M10>
+
+<M10>From the parking lot, cross North Avenue to Cherry St. You can cross North Avenue via the pedestrian bridge or at the corner of North Avenue and Tech Parkway.</M10>
+
+<M10>The main entrance for the Swann Building is on the opposite side of Cherry St. Please follow the paved path leading from below the Savant-Swann breezeway to the main entrance.</M10>
+<M10>The administrative suite in on your left at Swann 116.</M10>
+
+<M10>From the South, on I-75/85 North into Atlanta:</M10>
+
+<M10>Take Exit #249D (Spring St./W Peachtree St.).</M10>
+<M10>At the top of the exit ramp (first light), continue straight onto Linden Avenue NW.</M10>
+<M10>Turn left at the next light onto W Peachtree Avenue NW.</M10>
+<M10>Take next left (first light) onto North Avenue NW.</M10>
+<M10>Continue on North Avenue for approximately 0.5 miles crossing under the pedestrian bridge.</M10>
+<M10>Take the first left after crossing under the pedestrian bridge into Visitor Parking 1.</M10>
+
+<M10>From the parking lot, cross North Avenue to Cherry St. You can cross North Avenue via the pedestrian bridge or at the corner of North Avenue and Tech Parkway.</M10>
+
+<M10>The main entrance for the Swann Building is on the opposite side of Cherry St. Please follow the paved path leading from below the Savant-Swann breezeway to the main entrance.</M10>
+<M10>The administrative suite in on your left at Swann 116.</M10>
+
+<M10>Arriving Via the Hartsfield-Jackson Airport</M10>
+
+<M10>Rental Car</M10>
+
+<M10>Follow the directions above for driving in from the south.</M10>
+
+<M10>Taxi</M10>
+
+<M04>Take a cab to the corner of North Avenue and Cherry Street (just west of the intersection of North Avenue and Techwood Drive).</M04>
+<M10>The Swann Building is the building on your immediate right.</M10>
+
+<M10>MARTA</M10>
+
+<M10>Trains take you from the airport baggage claim to the North Avenue station.</M10>
+<M10>It is a 20-minute ride.</M10>
+<M10>Walk three blocks west on North Avenue to campus or transfer to a bus on route #13 to Tech.</M10>
+<M10>At the intersection of North Avenue and Cherry Street, turn right.</M10>
+<M10>The Swann building is the first building on your right.</M10>
+
+<M07>School Awards</M07>
+
+<OTHER>2025</OTHER>
+
+<OTHER>Faculty/Staff Awards</OTHER>
+
+<M07>- Staff Excellence Award: Anastasia Lagmay</M07>
+<M04>- Excellence in Research: Natalie Khazaal</M04>
+<M04>- Excellence in Service: Hongchen Wu</M04>
+<M04>- Excellence in Teaching: Suzuki Chenoweth</M04>
+
+<M07>Student Awards</M07>
+
+<M07>- Excellence in GEML Award: Sherry Wang (Japanese)</M07>
+<M07>- Excellence in ALIS Award: Jessica Rich (Japanese)</M07>
+<M07>- Excellence in IAML Award: Isabella Smalls (Korean)</M07>
+
+<OTHER>Outstanding Senior Awards</OTHER>
+
+<M07>- Arabic: Sophia Refeca</M07>
+<M07>- Chinese: Kaylin Nolan</M07>
+<M07>- French: Aidan Zeissner</M07>
+<M07>- German: Nicholas Oselette</M07>
+<M07>- Japanese: Taiki Aiba</M07>
+<M07>- Korean: Laura Yim</M07>
+<M07>- Linguistics: Ana Silva Carvalho</M07>
+<M07>- Spanish: Kyle Robinson</M07>
+
+<M07>Posthumous Student Award</M07>
+
+<M07>- Excellence in French Award: Penelope Sophia Abellera</M07>
+
+<OTHER>Distinguished Alumni Award</OTHER>
+
+<M07>- Yvonne Ploder</M07>
+
+<M07>Giving</M07>
+
+<M07>Support modern languages at Georgia Tech.</M07>
+
+<M09>How to Make a Gift</M09>
+
+<M09>Thank you for your willingness to support the School of Modern Languages at Georgia Tech.</M09>
+
+<M09><M07>Your donation will help support the school at large (this will enable more programming and special events in the School, as well as more student awards and scholarships), as well as other specific programs such as our Language for Business and Technology (LBAT) and other study abroad programs, our annual Global Media Festival, and the Atlanta Global Studies Center.</M07></M09>
+
+<M09>To donate to the School, please visit the Georgia Tech Special Giving page.</M09>
+<M09>You can donate to any of the funds listed below.</M09>
+
+<M09>Fund Name / Fund Code</M09>
+
+<M09>- School of Modern Languages-General: GTF380000007</M09>
+<M09>- Atlanta Global Studies Center Foundation: GTFA00000650</M09>
+<M09>- Global Media Festival Foundation: GTFA00000651</M09>
+<M05>- Graduate Student Support Programs: GTFA00000652</M05>
+<M05>- Language Programs Foundation: GTFA00000653</M05>
+<M05>- Study Abroad/LBAT Programs Foundation: GTFA00000654</M05>
+
+<M09>In the special purpose box on the Ivan Allen College Special Giving page, please list the corresponding fund name and the fund code so that we can direct your gift to the right place.</M09>
+
+<M08>The School appreciates your generosity and your partnership in creating more opportunities for our students.</M08>
+<M10>To discuss further philanthropic opportunities, please contact us at development@iac.gatech.edu.</M10>
+
+<OTHER>School of Literature, Media, and Communication</OTHER>
+
+<OTHER>Our Mission</OTHER>
+
+<OTHER>Vision Statement</OTHER>
+
+<M03>The School of Literature, Media, and Communication defines new models of intellectual inquiry and practice that bring diverse humanistic perspectives to bear on technological invention and innovation.</M03>
+
+<OTHER>Mission Statement</OTHER>
+
+<M03>The School’s mission is to lead the region, the nation, and the world in researching and teaching the ways the humanities shape and are shaped by science and technology.</M03>
+<M03>Understanding technologies in their cultural contexts is fundamental to invention and innovation.</M03>
+<M03>The School’s diverse faculty and students assess and inform technological and scientific change by creating, analyzing, and critiquing a broad range of media forms and cultural practices.</M03>
+
+<M03>Educational Mission</M03>
+
+<M03>In the School of LMC, we cultivate multidisciplinary thinkers and makers to lead our globally connected world.</M03>
+<M05>Undergraduate and graduate courses challenge and inspire students to ask consequential questions about what moves society forward in creative, collaborative, and inclusive ways.</M05>
+<M03><M02>In LMC, students tackle complex issues that shape our lives by looking through the lenses of historical and contemporary literary studies, cultural, scientific, and social justice studies, creative arts, film and media, design, drama, communication, writing, and computational media (AI, games, mixed/augmented reality, interactive educational media).</M02></M03>
+<M03>LMC students achieve breadth and depth of knowledge through intensive cross-disciplinary engagement to understand contemporary complexities in the context of deeper histories and cultural patterns.</M03>
+<M03>They learn to interpret, produce, invent, and compose across media forms with an understanding of the social context and rhetorical strategies of their creative and critical work.</M03>
+<M05>However students map their path through our school – from majors and minors to humanities seekers; from multimodal English courses to graduate degrees – an LMC education promotes their intellectual rigor and equips them with tools to be collaborative innovators, transformative thinkers, and exceptional leaders of the world they will help to shepherd into the future.</M05>
+
+<M03>Slogan</M03>
+
+<M04>Humanistic Perspectives in a Technological World</M04>
+
+<OTHER>Core Principles</OTHER>
+
+<M04>We provide humanistic perspectives in a technological world.</M04>
+<M03><M04>We value and champion the ideal of inclusive excellence.</M04></M03>
+<M04>We strive to be one of the leading academic units working at the intersection of the humanities, social sciences, and science/technology.</M04>
+
+<OTHER>Core Practices</OTHER>
+
+<M04>We practice collaborative and interdisciplinary research, learning, and teaching to address complex social and cultural issues.</M04>
+<M04>We critically assess and contextualize technological and scientific change.</M04>
+<M04>We create, analyze, and critique a broad range of media forms and cultural practices.</M04>
+
+<M06>Facilities</M06>
+
+<M06>Skiles</M06>
+
+<M06>Main LMC Office Suite</M06>
+
+<M06>The LMC Office is located in Skiles 336.</M06>
+<M05><M06>Most faculty, staff, and undergraduate advisor offices are also located at Skiles.</M06></M05>
+
+<M06>Centers and Labs</M06>
+
+<M06>Skiles houses different spaces for students to visit, such as the CoLab, the SciFi Lab, and more.</M06>
+
+<M05>G. Wayne Clough Undergraduate Learning Commons (CULC)</M05>
+
+<M05>Communication Center</M05>
+
+<M08>The Communication Center aids student-clients from the Georgia Tech community with communication skills and projects related to their classes, careers, and civic and community lives.</M08>
+
+<M05>Labs, Rooms, and Seats</M05>
+
+<M05>The facility boasts 41 classrooms, two 300-seat plus auditoria, day-lit common areas with more than 2,100 seats, and modern science labs.</M05>
+
+<M04>Technology Square Research Building (TSRB)</M04>
+
+<M04>Digital Media</M04>
+
+<M04>The TSRB houses the Digital Media faculty and graduate students.</M04>
+<M04>The TSRB is the Southeast’s premier facility for next-generation communications research.</M04>
+<M04>More on our degree programs: M.S. Digital Media and Ph.D Digital Media.</M04>
+
+<M08>Conference Facilities</M08>
+
+<M08><M06>The building’s conference facilities – including a 93-seat auditorium, two banquet rooms, and two small conference rooms — are used to facilitate and showcase work.</M06></M08>
+
+<M08>Stephen C. Hall Building</M08>
+
+<M05>Writing and Communication Program (WCP)</M05>
+
+<M05>The program provides core curriculum courses, advanced communication courses, professional development for faculty and staff, and continued support for Georgia Tech alums.</M05>
+
+<M05>Offices, classroom, and meeting spaces are located here.</M05>
+
+<M05>DramaTech/Ferst Center for the Arts</M05>
+
+<M05>DramaTech</M05>
+
+<M06>DramaTech offers a thriving theatrical laboratory environment that enriches the greater Atlanta community through innovative and diverse live performances.</M06>
+<M05>Each season, DramaTech offers a full season of plays, musicals as well as a variety show.</M05>
+
+<M05>Ferst Center for the Arts</M05>
+
+<M05>The Ferst Center for the Arts serves as a showcase for the presentation of concerts, lectures, dance, film, and theater.</M05>
+
+<OTHER>Committees</OTHER>
+
+<OTHER>Executive Committee</OTHER>
+
+<OTHER>Elected</OTHER>
+
+<M06><M01>- Full Professor: Michael Nitsche</M01></M06>
+<M06><M01>- Associate Professor: Joycelyn Wilson</M01></M06>
+<M06><M01>- Assistant Professor: Ryan Scheiding</M01></M06>
+<M06>- NTT Faculty: Bentley Heyman</M06>
+<M06>- At-Large: Kristi McKim and Yanni Loukissas</M06>
+
+<M06>Ex Officio</M06>
+
+<M01>- Susana Morris (Associate Chair)</M01>
+<M01>- Aaron Santesso (DUS)</M01>
+<M01>- Brian Magerko (DGS)</M01>
+
+<M01>RPT Committee</M01>
+
+<M01>- Carol Senf – Chair</M01>
+<M01>- Michael Nitsche</M01>
+<M01>- Phil Auslander</M01>
+
+<M01>Howell Area Committee</M01>
+
+<M01>- Yanni Loukissas</M01>
+<M01>- Carol Colatrella</M01>
+<M01>- Andre Brock</M01>
+
+<M01>Brock Area Committee</M01>
+
+<M01>- Susana Morris</M01>
+<M01>- Nihad Farooq</M01>
+<M01>- Carol Colatrella</M01>
+
+<M01>Morris Area Committee</M01>
+
+<M01>- Carol Colatrella</M01>
+<M01>- Andre Brock</M01>
+<M01>- Lisa Yaszek</M01>
+
+<M01>Undergraduate Curriculum Committee</M01>
+
+<M01>- Victoria Chang</M01>
+<M01>- Kristi McKim</M01>
+<M01>- Allegra Smith</M01>
+
+<OTHER>Ex-Officio:</OTHER>
+
+<M01>- Aaron Santesso, DUS</M01>
+<M05>- Amanda Blocker, Academic Program Manager</M05>
+
+<M01>Computational Media Committee</M01>
+
+<M01>- Jay Bolter, Professor and Director of Computational Media</M01>
+<M06><M01>- Yanni Loukissas, Associate Professor</M01></M06>
+<M06><M01>- Michael Nitsche, Associate Professor</M01></M06>
+
+<M06>Faculty Senate</M06>
+
+<M06>- Melissa Ianetta, Class of '58 Professor and Executive Director of the Writing and Communication Program</M06>
+<M01>- Carol Colatrella, Professor and Co-Director, WST Center</M01>
+
+<M01>Digital Media Committees</M01>
+
+<M01>Master's Committee</M01>
+
+<M01>- Ryan Scheiding</M01>
+<M01>- Michael Nitsche</M01>
+<M01>- Heidi Biggs</M01>
+<M01>- Milka Trajkova</M01>
+
+<OTHER>Ex-Officio:</OTHER>
+
+<M01>- Brian Magerko, DGS</M01>
+
+<M01>Ph.D. Committee</M01>
+
+<M01>- Noura Howell</M01>
+<M01>- Richmond Wong</M01>
+
+<OTHER>Ex-Officio:</OTHER>
+
+<M01>- Brian Magerko, DGS</M01>
+
+<M07>Awards Committee</M07>
+
+<M07>- Daniel Phelps</M07>
+<M07>- Andre Brock</M07>
+<M07>- Yanni Loukissas</M07>
+
+<M01>Institute-Wide Committees with LMC representation (including Standing Committees):</M01>
+
+<M06>LMC Faculty Senate Representatives</M06>
+
+<M06>- Carol Colatrella</M06>
+<M06>- Melissa Ianetta</M06>
+
+<M01><M06>LMC Reps for IAC Dean’s Faculty and Staff Advisory Board</M06></M01>
+
+<M01>- Erin Oakley (LMC staff rep)</M01>
+<M06>- JC Reilly (LMC NTT faculty rep)</M06>
+<M06>- Yeqing Kong (LMC TT faculty rep)</M06>
+
+<OTHER>Timeline & History</OTHER>
+
+<OTHER>1910</OTHER>
+
+<M02>President Matheson articulates the role of liberal education at Georgia Tech as one of the only cultural forces mingled in future engineers’ education necessary for producing students capable of communication across fields.</M02>
+
+<OTHER>1913</OTHER>
+
+<M02>Students and faculty start a Drama Club on Campus where the first play was “Brown of Harvard.” During the Depression, the club was absent until its reinvention in 1947.</M02>
+
+<OTHER>1933</OTHER>
+
+<M02>Technical English is introduced to teach forms of composition that are specifically demanded of engineers such as technical papers, reports and business letters.</M02>
+
+<OTHER>1941</OTHER>
+
+<M05><M02>Business English is introduced as a course of study.</M02></M05>
+
+<OTHER>1959</OTHER>
+
+<M02>Grand opening of Skiles classroom building.</M02>
+
+<OTHER>1977</OTHER>
+
+<M05><M06>Science fiction is added to the course of study and Professor Bud Foote is the first professor hired to teach the course.</M06></M05>
+
+<OTHER>1990</OTHER>
+
+<M05>The Department of English is renamed the School of Literature, Communication and Culture (LCC) offering five certificate programs: American Literature, Drama and Film, Literature and Science, Technical and Business Communication and Western Traditions.</M05>
+
+<OTHER>1992</OTHER>
+
+<M02>The first Literature, Communication, and Culture (LCC) degree, Bachelor in Science, Technology and Culture (STAC) is offered.</M02>
+<M02>STAC Combines the study of mathematics, science and engineering with the study of society, history and the arts.</M02>
+
+<OTHER>2004</OTHER>
+
+<M02>Bachelor of Science in Computational Media, a joint degree between Computer Science and Literature, Communication, and Culture (LCC) is introduced.</M02>
+
+<OTHER>2006</OTHER>
+
+<M02>Literature, Communication, and Culture (LCC) Degrees are Bachelor of Science in Computational Media, Bachelor of Science in Science, Technology and Culture, Master of Science in Digital Media, Master of Science in human Computer interaction, Doctor of Philosophy in Digital Media.</M02>
+
+<OTHER>2012</OTHER>
+
+<M05>The School of Literature, Communication, and Culture (LCC) rebrands itself as The School of Literature, Media, and Communication (LMC) to reflect new emphasis in media courses and demonstrate school’s continuing response to changing media and technology in today’s world.</M05>
+
+<M09>Welcome from the Chair</M09>
+
+<M09>Kelly Ritter</M09>
+<M01>Professor and Chair</M01>
+<OTHER>School of Literature, Media, and Communication</OTHER>
+
+<M09>Welcome to the School of Literature, Media, and Communication (LMC) at Georgia Tech!</M09>
+<M03>We are glad you stopped by to learn more about our School and its interdisciplinary mission, which is focused on the intersections of humanistic study and technology as informed by principles of social justice.</M03>
+
+<M04>In LMC, we teach, research, and produce creative and scholarly work in many familiar fields that are part of the humanities—including literary studies, creative writing, writing and communication, film, media arts, drama, science fiction studies, and Black media studies—as well as computational media and digital media.</M04>
+<M01>What sets our school apart is how we bring these fields together in order to understand the humanities as a primary lens through which we design, improve, and critique technology in our everyday lives.</M01>
+<M04>In LMC, we engage in creative thinking, critical inquiry, and collaboration as we ask questions about how humans’ evolving identities and needs are central to our increasingly technological world.</M04>
+
+<M01>LMC is a large school that still feels small due to its connected and engaged community.</M01>
+<M06>We are home to 46 faculty and 38 postdoctoral teaching fellows who teach and mentor nearly 500 undergraduate majors enrolled across our two programs: B.S. in Literature, Media, and Communication and B.S. in Computational Media.</M06>
+<M05>These faculty also work with our nearly 100 students enrolled across our 10 minor programs, and the nearly 60 graduate students enrolled in our M.S. program in Human-Computer Interaction and our M.S. and Ph.D. programs in Digital Media.</M05>
+<M05>LMC is also the home of the Writing and Communication Program, which offers courses in first-year writing and technical writing to Georgia Tech students all across campus.</M05>
+
+<M01>While Georgia Tech is a diverse environment, LMC is even more so.</M01>
+<M01>We have more women students and students of color than any other school on campus, which provides many opportunities for dynamic perspectives, conversations, and collaborations.</M01>
+<M09>If you are thinking of transferring to Georgia Tech from elsewhere, you will also find that many of our LMC students come from other colleges and universities both within and outside of Georgia.</M09>
+<M01>You can read more about transfer pathways into LMC.</M01>
+
+<M01>Our students use what they learn in LMC after graduation to enter a variety of fields of work and graduate study.</M01>
+<M05>Students are aided in this process by our school advising and our creative/career origination lab (CoLab).</M05>
+<M07><M06>Some of our alumni employers are AT&T, Google, CNN, Home Depot, Nickelodeon, Microsoft, Bank of America, and Coca-Cola, as well as organizations such as the Atlanta Museum of Design, the Woodruff Arts Center, and the Junior League of Atlanta.</M06></M07>
+<M01>Our LMC graduates have also gone on for advanced degrees at institutions such as Carnegie Mellon, Tufts University, the University of Georgia, the University of Liverpool, Johns Hopkins University, and Georgia Tech.</M01>
+
+<M01>There’s much more to see; these are just some highlights to get you started.</M01>
+<M01>If you have any questions after looking through our site, or would just like to talk more about how your interests might line up with what we do in LMC, please don’t hesitate to contact me.</M01>
+<M10>Also, please visit our Instagram to see what we’ve been up to lately.</M10>
+
+<M01>Thanks for visiting, and Go Jackets!!</M01>
+
+<M01>Kelly Ritter</M01>
+<M01>Professor and Chair, School of Literature, Media, and Communication</M01>
+<M10>kelly.ritter@gatech.edu</M10>
