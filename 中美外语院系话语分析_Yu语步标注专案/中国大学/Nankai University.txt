@@ -1,0 +1,663 @@
+<OTHER>SFS At a Glance</OTHER>
+
+<OTHER>History of SFS</OTHER>
+
+<M02>The School of Foreign Studies of Nankai University was founded in October, 1997.</M02>
+<M02>Its predecessor was Nankai English Department, founded in 1919.</M02>
+<M02>Renowned poet, Professor Chen Kui, who graduated from Nebraska University in America, worked as the dean in 1919.</M02>
+<M02>In the next year, a famous scholar named Liu Wuji, son of Liu Yazi, PhD from Yale University, succeeded Professor Chen Kui as the dean.</M02>
+<M02>In late 1932, Situ Yuelan, Master from California University, came to teach in English Department.</M02>
+<M02>In 1937, since Anti-Japanese War broke out, English Department moved southward to Kunming, merged with Foreign Literature Departments from Qianghua University and Beijing University, and became the renowned Foreign Literature Department of National Southwestern Associated University.</M02>
+
+<M02>In 1949, with the birth of new China, English Department of Nankai University also acquired a new lease of life.</M02>
+<M02>With the addition of Russian major under the approval of State Ministry of Higher Education in 1950, English Department developed into Foreign Languages Department.</M02>
+<M02>Zhou Enlai, distinguished alumnus of Nankai University and the first Prime Minister of China came back to Nankai University in 1959 for a visit.</M02>
+<M02>He talked to teachers and students from Foreign Languages Department when he visited the department’s classrooms.</M02>
+<M02>This greatly inspired teachers and students from the department.</M02>
+<M02><M05>In 1972, approved by State Ministry of Education, Foreign Languages Department established its Japanese major.</M05></M02>
+<M02><M06>Encouraged by the university, Translation Research Center, British and American Literature Research Center, and Russian Literature Research Center were established in 1980s.</M06></M02>
+<M02><M05>In 1980, the major of English Language and Literature and the major of Russian Language and Literature began to have the right to grant master degree after China began to adopt its degree system; the major of Japanese Language and Literature also began to have the right to grant master degree in 1986.</M05></M02>
+<M02><M05>In 1990, approved by State Education Commission, the major of English Language and Literature began to grant doctoral degree.</M05></M02>
+<M02><M05>In 2001, approved by State Ministry of Education, SFS launched French major.</M05></M02>
+<M02><M05>In 2002, SFS began to offer German major undergraduate program.</M05></M02>
+<M02><M01>In the same year, Translation Department was founded.</M01></M02>
+<M02><M06>In 2003, Post-doctoral Research Center for foreign languages and literature was established.</M06></M02>
+<M02><M05>In the same year, the major of foreign linguistics and applied linguistics began to grant master degree.</M05></M02>
+<M02><M05>In 2007, SFS began to grant English MTI (Master of Translation and Interpreting) degree.</M05></M02>
+<M02><M07>In 2011, the Academic Degrees Committee of the State Council acknowledged SFS’s Foreign Language and Literature program as first-class discipline to grant doctoral degrees.</M07></M02>
+<M02><M05>Russian and Japanese major had the right to grant doctoral degree since then.</M05></M02>
+<M02><M05>In 2013, SFS set up Spanish major.</M05></M02>
+<M02><M05>In 2014, SFS began to grant Japanese MTI degree.</M05></M02>
+<M02><M08>In 2015, Nankai University and Glasgow University’s Joint Graduate School set up translation major.</M08></M02>
+<M07>Foreign language and literature has been one the key disciplines of Tianjin.</M07>
+
+<M02>Over more than 90 years, many noted scholars have taught in SFS, for example, Liu Wuji, Chen Kui, Situ Yuelan, Situ Rukun, Liang Zongdai, Feng Wenqian, Huang Zuolin, Huang Yusheng, Bian Zhilin, Luo Dagang, Zha Liangzheng (Mu Dan), Li Jiye, Li Yixie, Wu Kunning, Yang Shanquan, Cao Zhongde, Zong Yucai, Gao Diansen, Li Shuguo, Jin Di, Chang Yaoxin, Liu Shicong, Gu Hengdong (Gu Yu), Cui Yonglu, Zhang Zhiting, Zhang Maizeng, and so on.</M02>
+<M06><M08>Honorary, visiting and part-time professors of SFS include Han Suyin, famous British writer; Li Fuqing, Member of the Russian Academy of Sciences; Professor Cosby from the University of Regina, Canada; Professor Bao Zhiming from National University of Singapore; Professor Ogawa Naono and Professor Tatsumi Zhengming from Kokugakuin University, Japan; Professor Li Xingde from the Chinese University of Hong Kong; Professor Luise von Flotow from the University of Ottawa; Professor Wu Fusheng from the University of Utah, America; Professor Huang Yan from the University of Auckland, New Zealand; Professor Hu Jianhua from Chinese Academy of Social Sciences; the United Nations’ senior translators Li Zhengren, Zhao Xingmin, Li Bohong; and Huang Youyi, First Vice President of International Federation of Translators.</M08></M06>
+
+<M07>Until 2015, the number of graduates from SFS has reached 7024.</M07>
+<M07>These graduates have made great contribution to China’s diplomacy, foreign affairs, education, economy and trade, administration, culture, military and so on, earning widespread acclaim from employer and society.</M07>
+<M07>Many of them are significant members in promoting the development of the country and society.</M07>
+
+<M02><M01>From 1951 to 1982, Professor Li Jiye, famous writer and translator, student and comrade of Mr. Lu Xun, was working as the Dean.</M01></M02>
+<M02><M01>From 1986 to 1993, Professor Chang Yaoxin, renowned American literature scholar and doctoral supervisor, succeeded Professor Li as the Dean.</M01></M02>
+<M02><M01>From 1993 to 1997, Professor Jiang Huashang worked as the dean.</M01></M02>
+<M02><M01>After the establishment of the College of Foreign Languages in 1997, Professor Liu Shicong, renowned translator and doctoral supervisor, became the first dean of SFS.</M01></M02>
+<M02><M01>From 2000 to 2015, Professor Wang Jianyi, Lin Liyun, and doctoral supervisor Li Bing became the Dean successively.</M01></M02>
+<M01>Since 2015, Professor Yan Guodong, doctoral supervisor, has been working as the dean of SFS.</M01>
+
+<OTHER>Teaching and Research</OTHER>
+
+<M04><M05>Since its establishment, SFS has been focusing on developing its advantages in foreign language education, foreign literature studies, and translation studies.</M05></M04>
+<M04>In the meantime, it tries to enrich the scope of each discipline and has established new disciplinary territories in Cross-cultural Studies and Regional and National Studies, making it possible for the extension of students’ scope of knowledge and new academic advantages.</M04>
+<M03><M05>SFS can always cater to the needs of social development.</M05></M03>
+<M05><M07>New majors and language programs are launched, and new teachers and scholars are drawn to work in the college that is now renowned for its overall development and competitiveness in student education and academic exploration.</M07></M05>
+
+<M05><M03>SFS insists on promoting students' ability and initiatives.</M03></M05>
+<M03><M05>We believe that the overall development of students is the most important part of students’ education.</M05></M03>
+<M05>We try to enhance students’ creativity and students’ ability to put what they learn into practice.</M05>
+<M05>We keep updating our way of education, strengthening students' knowledge of languages, and broadening their academic horizon.</M05>
+<M05><M07>We have very modern methodology for language education and have long enjoyed exceedingly good quality in students' cultivation.</M07></M05>
+<M07>Students in SFS have great performance all throughout the years in various language qualification tests for English, Japanese, Russian, French, and German.</M07>
+<M05><M04>What is more, while they have great skills in using languages, they also, through their education here, adopt great understandings of life and value.</M04></M05>
+<M04><M05>The knowledge of humanities is central to their education here.</M05></M04>
+
+<M07>In 2010, SFS's College English Course was entitled National Level Quality Course.</M07>
+<M07>In the same year, a teacher from SFS was awarded the first prize in young university teachers' teaching skill competition in Tianjin.</M07>
+<M07>In 2013, SFS's college English reform program, Enjoyable Learning, Enjoyable Teaching, got the first prize in the Seventh Tianjin College Education Profile Competition.</M07>
+<M07>In 2014, SFS's College English Course was included in the country's Quality Online Courses Program.</M07>
+<M07>In the same year’s First National Foreign Language Micro-class Contest, NCL’s micro-class “Writing Arguments” got a Special Prize from the contest’s Tianjin regionals and a First Prize from the contest’s national finals.</M07>
+<M07>Besides, many a teacher has earn prizes from Tianjin and the country’s young university teacher’s teaching skill competitions.</M07>
+
+<M01><M04>SFS is a teaching and research center.</M04></M01>
+<M04>Besides its efforts in education, SFS is always strengthening its academic advantages.</M04>
+<M06><M08>There is a package of measures and policies to encourage teachers to take part in academic activities abroad and at home.</M08></M06>
+<M06>Teachers are encouraged to apply for academic programs and publish their research results.</M06>
+<M07>The number of research programs within these years and the amount of research funding have increased dramatically.</M07>
+<M07>With more research results being published, SFS has won significant research awards and academic reputations.</M07>
+
+<OTHER>SFS Overview</OTHER>
+
+<M01><M06>SFS consists of four departments (Department of English Language and Literature, Department of Japanese Language and Literature, Department of Western Languages and Literature, and Translation Department), one institute (College English Institute), nine centers (Linguistics Research Center, Foreign Literature Research Center, Center for Translation Studies, East Asian Culture Research Center, Center for East Asian Ancient Studies, Research Center for the International Dissemination of Chinese Culture, Research Center for Foreign Language Education Reform, Center for Regional and National Studies, MTI Center, and Foreign Language Exam Center) and one post-doctoral research center (Post-doctoral Research Center for Foreign Languages and Literature).</M06></M01>
+<M05>It offers English, Japanese, German, French, Russian, Korean, and Spanish courses for all the students of the university.</M05>
+
+<M05>SFS can grant 1st-Level-Discipline Doctoral Degree for Foreign Language and Literature, and 2nd-Level-Discipline Doctoral Degree and Master Degree for English, Russian and Japanese languages.</M05>
+<M07>SFS’s English major is a feature program of China’s Ministry of Education, and its Foreign Language and Literature is among the key disciplines of Tianjin.</M07>
+
+<M05>SFS has a complete educational system which consists of undergraduate, graduate, doctoral, and post-doctoral programs.</M05>
+<M06>It has a student body of more than 1300.</M06>
+<M06><M01>It has very vigorous faculty and a very effective administrative team.</M01></M06>
+<M06>There are 136 teachers, among whom 12 are doctoral advisors, 27 professors, and 48 associate professors.</M06>
+<M07>Five teachers from the faculty are members of the Foreign Language Teaching Advisory Board under the Ministry of Education.</M07>
+<M07>Two teachers from the faculty are included in the Ministry of Education’s Program for New Century Excellent Talents in University.</M07>
+<M07>Three professors from our faculty are entitled “China’s Senior Translators, and five are presidents or vice-presidents of national professional societies.</M07>
+<M08>SFS enjoys very close connection with foreign universities and academic institutions.</M08>
+<M08><M06>SFS invites around 20 foreign scholars to teach in SFS every year, and is actively involved in academic activities in and out of China.</M06></M08>
+
+<M06>SFS has a lot of first-class teaching facilities.</M06>
+<M06>It is well equipped with modern language labs, audio and video labs, simultaneous interpretation training room, and multimedia classrooms.</M06>
+<M06>It has a collection of more 40,000 books and other materials of various languages.</M06>
+
+<M03>The objective of SFS is to further develop its privileged tradition and to enhance its educational and academic advantages.</M03>
+<M03><M04>It encourages innovation in academic researches and improvement in teaching quality.</M04></M03>
+<M03><M08>It emphasizes its connection with the need of social development and its ability to serve China’s globalization strategies.</M08></M03>
+<M03>It intends to become a characteristic and privileged college of foreign languages in a comprehensive university.</M03>
+
+<OTHER>Academic Exchanges and International Cooperation</OTHER>
+
+<M08>SFS attaches great importance to academic exchange activities both at home and abroad.</M08>
+<M08>SFS has invited famous experts and scholars to hold academic seminars and conferences in various forms, sent teachers and students to attend various academic conferences and to take part in international cooperative activities.</M08>
+<M08>Many teachers from SFS have been working as teachers or Chinese Directors of the Confucius Institutes in the UK, France, or Japan, contributing greatly to the spread of Chinese culture abroad.</M08>
+
+<M08>SFS has held a large number of influential academic conferences, for example, the First Seminar on the Translation of Dream of Red Mansions, the First International Symposium on Modern China’s New Discourses, the 15th Annual Meeting and Academic Seminar for China Association for the Study of American Literature, International Symposium on East Asian Literature and Culture, International Symposium on Pound and the Third China’s Symposium on Pound, the Sixth China Translation Profession Forum, and the First International Conference on Prosodic Studies.</M08>
+<M07><M08>These conferences have generated great impacts both in China and abroad.</M08></M07>
+
+<M08>SFS’s channels for international exchanges continue to expand these years.</M08>
+<M08>The number of teachers and students who are involved in international exchange programs keeps rising.</M08>
+<M08>Every year we have dozens of teachers and students who take part in programs offered in the UK, the US, Germany, France, Japan, Russia, Ukraine, South Korea, New Zealand, Australia, Switzerland, The Republic of Columbia, Spain, Portugal, Hong Kong, Macau, and Taiwan.</M08>
+<M08>Together with Kokugakuin University, SFS holds regular forums for graduate students and edits academic journal East Asian Cultural Studies.</M08>
+
+<OTHER>College English Education</OTHER>
+
+<M06><M05>Currently, the College English Institute has 64 faculty members, and is responsible for college English classes for more than 6000 undergraduate students and more than 6000 graduate students.</M05></M06>
+<M02><M05>The institute began to offer college English programs for non-English majors when Nankai University was founded in 1919, and developed rapidly in the 1980s.</M05></M02>
+<M02><M05>In 2003, the department embarked on a reform in college English curriculum.</M05></M02>
+<M07><M05>With the concerted effort of all the faculty members in the past decade, our college English curriculum reform has obtained fabulous achievement and has been entitled National Quality Course,” “National Resource Sharing Class,” “Quality Course at Tianjin Municipal Level,” “Quality Teaching Core Course” of Nankai University, and “the First Prize of Teaching Achievement” at the college-level and city-level of competitions.</M05></M07>
+<M07>Many teachers are awarded the title of “Master Teacher” and are given the Recognition of “Charming Class” at Nankai University.</M07>
+<M07>The institute enjoys the title of being “Tianjin’s Prominent Team.” In the same time, teachers of the College English Institute have achieved excellent results in various teaching competitions in the country.</M07>
+
+<OTHER>Quality Education</OTHER>
+
+<M05><M03>SFS attaches great importance to the building of a vigorous cultural community on campus.</M03></M05>
+<M05><M06>It builds various platforms to promote students’ initiatives and abilities.</M06></M05>
+<M05>With flexible and varied activities and clubs, SFS stresses the connection between extracurricular activities and professional knowledge, and improves students’ socializing abilities and social competitiveness.</M05>
+<M05><M06>Foreign languages Drama Troupe, Peking Opera Troupe and Foreign Languages Festival are the three representative activities.</M06></M05>
+
+<M05><M06>Foreign Languages Festival hosted by SFS’s student union is a representative activity of the university’s cultural life.</M06></M05>
+<M02><M05>So far it has been held for 23 times.</M05></M02>
+<M05>Foreign Languages Festival combines academic, informative, recreational and artistic features.</M05>
+<M07><M05>This festival enjoys a charming cultural presence on campus every spring.</M05></M07>
+
+<M02><M06>Foreign languages Drama Troupe has a history of over 30 years.</M06></M02>
+<M07><M08>Two of its renowned repertoire, The Thunder Storm and Rickshaw Boy in both English and Japanese, were staged in the US and Japan in the 1980s and enjoyed great popularity.</M08></M07>
+<M07><M08>It has frequent and well-accepted performance on and off campus, like the performance on Dream Theatre of CCTV.</M08></M07>
+
+<M08>SFS’s Peking Opera Troupe has visited countries and areas like Japan and Hong Kong and offered visiting numerous visiting shows.</M08>
+<M07>It has won significant prizes in various opera competitions for colleges all over China.</M07>
+<M04><M08>“Peking Opera in Foreign Languages,” a creative way in presenting Peking opera, enables this quintessential Chinese art to thrive on university campuses and to go abroad.</M08></M04>
+<M07><M05>It enhances students’ cultural and artistic taste, and is warmly acknowledged by Nankai University and Tianjin’s theatrical personnel.</M05></M07>
+
+<M07>Students from SFS have taken part in and won great awards from various speech competitions, debate tournaments, interpretation contests, and diplomatic etiquette contests.</M07>
+<M07>Their performances also win for SFS great reputation across China.</M07>
+
+<OTHER>Serving the Society</OTHER>
+
+<M08><M03>SFS makes full use of its qualified faculty and effective platform to help serve the development of society and boost Tianjin’s economic growth.</M03></M08>
+<M08>SFS has provided language training programs and other supports to various organizations.</M08>
+<M08>A brief list of these organizations may include Tianjin Municipal Party Committee Organization Department, Municipal Personnel Bureau, Airbus Tianjin Assembly Co., Ltd., Tianjin New Technology Industrial Zone, Bonded Zone, Development Zone, China Transportation Group First Harbor Engineering Bureau, People’s Bank of China Tianjin Branch (North China), Tianjin First Intermediate People’s Court, Tianjin Toyota Motor Co., Ltd., Tianjin Pipe International Economic and Trade Co., Ltd., Tianjin Radio and Television Bureau, Tianjin Lishen Battery Co., Ltd., CCCC Second Highway (Xi’an), CCCC Group Caofeidian Port Project, and China Construction Sixth Engineering Division Corp., Ltd., etc.</M08>
+<M08>Besides, teachers and students from SFS also worked as translators and interpreters in Tianjin Summer Davos Forum and other international conferences.</M08>
+
+<M08><M02>SFS’s Foreign Languages Examination Center has held numerous exams since its establishment in 2004.</M02></M08>
+<M08>These exams include TOEFL, GRE, GMAT, Japanese Language Proficiency Test (JLPT), and Test of Proficiency in Korean (TOPIK).</M08>
+
+<OTHER>Dean At a Glance</OTHER>
+
+<M01>Yan Guodong
+Position: Dean of Nankai University’s School of Foreign Studies and Mu Dan Academy and director of Nankai University’s Center for Area Studies, Professor, doctoral supervisor</M01>
+<M01><M04>Research Center: International Communication of Chinese Culture; Area & Country Studies; Foreign Literature Studies; Translation Studies</M04></M01>
+<M10>Email: gdyan@nankai.edu.cn</M10>
+<M04>Research Interests: Russian sinology, Russia’s image of China, Chinese to Russian translation, Chinese history of Russian studies</M04>
+
+<OTHER>Personal profile</OTHER>
+
+<M06>Yan Guodong, Ph.D. in History, is a full professor and doctoral supervisor at Nankai University’s College of Foreign Languages.</M06>
+<M01>He is currently serving as dean of Nankai University’s School of Foreign Studies and Mu Dan Academy and director of Nankai University’s Area Studies Center.</M01>
+<M07>In 2007 he was selected to the Ministry of Education’s New Century Excellent Talent Supporting Plan and became a chief expert of the major project team of the National Social Science Found.</M07>
+<M07>He serves as president of the China Academic Union on Overseas Sinology (CAUOS) and vice-president of the Tianjin Chinese Comparative Literature Association.</M07>
+<M07>He is also a member of the Russian Sub-Committee of the National Advisory Committee of Foreign Language Teaching in Higher Education under the Ministry of Education.</M07>
+
+<M04>His academic research fields include Russian sinology, Russian views on China, Chinese to Russian translation, Chinese history of Russian studies, and other fields related to China and Russia’s cultural exchanges.</M04>
+<M07>Prof. Yan published a series of treatises, translations, edited books, including the renowned History of Russian Sinology, and about 100 papers in China and abroad.</M07>
+<M07>Prof. Yan is also an editorial board member of the Chinese journals Russian Literature and Art, International Sinology, Sinology Studies, Chinese Books and Sinology, China Study Review International and China Studies Quarterly, and an international editorial board member of the Russian journal Vestnik of Saint Petersburg University and the journal of the Russian Association of Chinese Teachers Преподавание китайского языка.</M07>
+
+<OTHER>Research Projects (in charge & as a participant)</OTHER>
+
+<M07>1. 2000: National Social Science Fund Project, History and Achievements of Russian Sinology
+2. 2003: Tianjin Social Science Fund Project, Collections and Studies on Tianjin Yangliuqing Nianhua in Russia
+3. 2012: Sub-topic project of National Social Science Foundation of tenders, Studies on the Overseas Spread of Chinese Literature over the Past Century
+4. 2015: Key National Social Science Fund Project, Translations and Studies of Chinese Important Records by Russian Witnesses during the Qing Dynasty
+5. 2018: major project of the National Social Science Fund, Translation and Research on the Russian Version of Comprehensive History of China</M07>
+
+<OTHER>Monographs and Books edited</OTHER>
+
+<M07>1. History of Russian Sinology, People’s Press, 2006.
+2. Russian Sinology: 300 Years, Xueyuan Press, 2007.
+3. Chinese Culture: an Overview (Russian version). Nankai University Press, 2001. Reprinted in 2002, 2004, 2007.
+4. Efficient Mnemonics of Russian Common Words. Nankai University Press, 1995. Reprinted in 1998, 1999, 2000, 2002, and 2004.
+5. The new course of Russian for Economy and Trade, Nankai University Press, 1994. (co-editor)
+6. The Soul Bridges: International Symposium Papers on Sino-Russian Literature Exchanges. Co-Editor, Tianjin University Press, 2010.
+7. Collections of Chinese Woodblock Nianhua: Russian Volume. Associate Editor, China Bookstore, 2009.
+8. Riftin on Chinese Folk Paintings of Nianhua. Co-Editor, China Drama Press, 2012.
+9. History of China-Russia Cultural Exchanges (Volume on Qing Dynasty and the Republic of China), Tianjin People’s Publishing House, 2018. (Second author)</M07>
+
+<OTHER>Translations</OTHER>
+
+<M07>1. Васильев В. П. Очерк истории китайской литературы. Переиздание на русском и китайском языках / Перевод на китайский язык Янь Годуна. Санкт-Петербург: Институт Конфуция в СПбГУ, 2013. (Translated alone)
+2. АдоратскийН. ПравославнаяМиссиявКитаеза 200 летеясуществования: Опытцерковно- историческогоисследованияпоархивнымдокументам. Казань, 1887. (First Translator)
+3. Ковалевский Е.П. Путешествие в Китай.СПб. , 1853. (First Translator)
+4. Алексеев В.М. В старом Китае: Дневники путешествия 1907 г. М., 1958. (Translated alone)</M07>
+
+<OTHER>Articles and Essays:</OTHER>
+
+<M07>1. Japanese Konishi Masutaro and the transmission of the Classics of Chinese Thoughts in China, Russian Literature & Arts, 04, 2021.
+2. Introduction and review of the ten volumes of Comprehensive History of China (Russian Social Sciences), Trends of Recent Researches on the History of China, 05, 2019.
+3. 俄罗斯的中国文学翻译与研究（以南开大学博士学位论文为例），VIII Международная научная конференция «Проблемы литератур Дальнего Востока», посвященная 1250-летию со дня рождения выдающегося китайского литератора Хань Юя (768–824) (Санкт-Петербург, 24–28 августа 2018 г.)
+4. V.G. Belinsky’s views on China and its relation with Russian sinology, Russian Studies, 04, 2017.
+5. Russian travelers Journals in the first half of the 19th century and the diversion of views on China in Russia, Russian Literature & Arts, 01, 2017.
+6. 19世纪末20世纪初俄国东方派代表人物的中国观，VII Международная научная конференция «Проблемы литератур Дальнего Востока», посвященной 120-летию Мао Дуня (Санкт-Петербург, 29 июня – 3 июля 2016 г СПб., 2016.
+7. Russian Sinology Crisis, Social Sciences Abroad, Vol. 6, 2015.
+8. Dmitry Mendeleyev’s Relation with and Perception of China, Social Sciences in Chinese Higher Education Institutions, 03, 2015.
+9. Chinese History-Culture Views of Russian Sinologists in the 18th Century, Jinan Journal, 07, 2014.
+10. Russian Sinologist Vasiliev’s Theory on Chinese Literature—Thoughts About the First Chinese Literature History Book, Literary Heritage, 06, 2014.
+11. Академик Рифтин навсегда останется в наших сердцах//Вестник Санкт-Петербургского университета.2014, №.3.
+12. Remote Memories and Tempting Legends—Image of China in Russia before the Mid-17th Century, Russian Studies, 03, 2013.
+13. A Teacher, a Friend, and also a Model, Russian Literature & Arts, 02, 2013.
+14. The Ideal View of China among the 18th Century’s Russian Cultural Elites, Tianjin Social Sciences. Vol. 3, 2012.
+15. The Translation and Study of Shijing in Russia, Social Science Front, 03, 2012.
+16. An Investigation into the Motivation Behind King Louis XIV’s Dispatch of Mathematicians to China, Collected Papers of History Studies, 02, 2012.
+17. European Origins of Russian Perceptions concerning China in the 18th Century, Social Sciences Abroad, 04, 2011.
+18. China in the Eyes of Mikhail Vasilyevich Lomonosov, Russian Literature & Arts, 02, 2011.
+19. Catherine II’s View of China, Russian Studies, 05, 2010.
+20. Первый русско-китайский словарь, составленный китайцем//Вестник Санкт-Петербургского университета.2010, №2.
+21. Cheng Yaochen and the First Russian Dictionary Compiled by Chinese, Journal of Fujian Normal University, 02, 2009.
+22. A Pioneer in Sino-Russian Cultural Communication – Amendments to Zhang Qingtong’s Life Career, Russian Literature, and Art. Vol. 2, 2009.
+23. Янь Годун. Китайские преподаватели в Санкт-Петербургском императорском университете//Востоковедение: Филологические исследования. Сборникстатей. Вып.28. СПб. 2008.
+24. A Study of the 18th Century Sino-Russian Book Exchange, Russian Studies. Vol. 1, 2007.
+25. An Approach to Several Issues on Russian Sinology, Nankai Journal, 04, 2006.
+26. Russia is the Home of an Outstanding Sinology School//Far Eastern Affairs, № 4, 2006.
+27. В России есть корифей конфуцианства//Проблемы Дальнего Востока.2006. №2.
+28. Россия—Родина выдающейся школы китаеведения//Проблемы Дальнего Востока.2006. №5.
+29. From the Conventional Philology to the Interdisciplinary and Cross-Culture Studies, Teaching Russian in China. Vol. 3, 2006.
+30. Lang’s Diplomatic Mission in China and Sino—Russian Culture Exchange at Early Stage, Historical Archives, 04, 2004.
+31. Establishment of Russian Sinology in the Eighteenth Century, Chinese Culture Research, 02, 2004.
+32. A Review of a Russian Study of Tibet and Its Achievement, China’s Borderland History and Geography Studies, 01 2004.
+33. Nationalization of Chinese Studies in Russia during the First Half of the 19th Century, Social Sciences Abroad, 05, 2003.
+34. The Origins of the Chinese Style in 18th Century Russia, Russian Literature and Art. Vol. 4, 2003.
+35. Изучение российской синологии в Китае//Восток-запад. Историко-литературный альманах. Под редакцией акад. В.С.Мясникова. М., Издательская фирма «Восточная литература». 2002.
+36. Bichurin’s researches on China’s Borderland History and Geography, China’s Borderland History and Geography Studies, 02, 2001.
+37. Bosom Friend to Chinese Culture in Mosco, Russian Literature and Art. Vol. 3, 2001.</M07>
+
+<OTHER>Social appointments</OTHER>
+
+<M07>1. Member of the Russian Sub-Committee of the National Advisory Committee of Foreign Language Teaching in Higher Education under the Ministry of Education.
+2. President of the China Academic Union on Overseas Sinology (CAUOS) and vice-president of the Tianjin Chinese Comparative Literature Association.</M07>
+
+<OTHER>Honor Title</OTHER>
+
+<M07>1. 2004: Baogang Award for Outstanding Teachers
+2. 2007: Participant of the Ministry of Education’s New Century Excellent Talent Supporting Plan
+3. 2018: Second prize of the 15th Tianjin Social Science Outstanding Achievements Award
+4. 2019: Nankai University’s Award for Outstanding Contribution to Education and Teaching</M07>
+
+<OTHER>Secretary of The Party Committee</OTHER>
+
+<M01>Mu Xiangwang, Secretary of the Party Committee.
+Female, born in 1965, member of the Chinese Communist Party, Bachelor of Nankai University, research librarian. Party secretary of College of Foreign Languages.</M01>
+<M04>Research interest: Library science and information science</M04>
+<M01>Responsibilities: Taking charge of the work of the college party committee, responsible for party building, ideological construction, cadres team building, discipline inspection and supervision, the United Front work, information, revenue generation, leadership of the college congress and workers’ union.</M01>
+
+<OTHER>Dean of SFS</OTHER>
+
+<M01>Yan Guodong
+Male, PhD of Nankai University, professor, doctoral supervisor, Dean of Nankai University’s School of Foreign Studies and Mu Dan Academy and director of Nankai University’s Center for Area Studies, Professor, doctoral supervisor</M01>
+<M04>Research field: Sino-Russian cultural exchange and comparison</M04>
+<M01>Responsibilities: Taking charge of the administrative work in the college; responsible for discipline development, staff and teachers’ team building, academic research, ethics and work style construction, post-doctoral workstations, etc.</M01>
+
+<OTHER>Vice Dean of SFS Hu Jun</OTHER>
+
+<M01>Hu Jun, Vice Dean of SFS.
+Male. PhD of Nankai University, associate researcher, member of the Chinese Communist Party. Vice dean of the School of Foreign Studies.</M01>
+<M04>Research interest: Business management</M04>
+<M01>Responsibilities: Assisting the dean in his work. Responsible for administrative work, financial work, personnel, asset management, security, archives and confidential work, etc.</M01>
+
+<OTHER>Vice Dean of SFS Ma Hongqi</OTHER>
+
+<M01>Ma Hongqi, Vice Dean of SFS.
+Male, born in 1966. Postgraduate doctoral degree, professor and doctoral supervisor of Nankai University. Vice dean of the School of Foreign Studies.</M01>
+<M04>Research interest: English literature, Western contemporary literary theory and criticism, cross-cultural translation studies</M04>
+<M01>Responsibilities: Responsible for postgraduate education, degree program construction, Chinese and English websites and alumni work, etc.</M01>
+
+<OTHER>Vice Dean of SFS Li Min</OTHER>
+
+<M01>Li Min, Vice Dean of SFS
+Male, born in 1979. PhD of Nanjing University, Professor of linguistics and applied linguistics. Vice dean of the School of Foreign Studies, Nankai University.</M01>
+<M04>Research interest: pragmatics, foreign language education studies.</M04>
+<M01>Responsibilities: postgraduate education, academic research, center for academic resources, Mudan College.</M01>
+
+<OTHER>Vice Dean of SFS Wang Kai</OTHER>
+
+<M01>Wang Kai, Vice Dean of SFS.
+Male, born in 1981. Postgraduate doctoral degree, associate professor and master supervisor of Nankai University. Vice dean of the School of Foreign Studies.</M01>
+<M04>Research interest: Ancient Japanese literature, ancient Japanese history and the history of the formation of Post-war Japanese Metropolitan Area.</M04>
+<M01>Responsibilities: Responsible for undergraduate teaching, international exchanges and cooperation, foreign teacher management and service, international talent training and information technology service, etc.</M01>
+
+<OTHER>Vice Dean of SFS Xiang Yu</OTHER>
+
+<M01>Xiang Yu, Vice Dean of SFS.
+Female, born in 1983. Master of Nankai University, member of the Chinese Communist Party. Master of Nankai University, lecturer. Vice Secretary of the Party Committee and Vice Dean of the School of Foreign Studies.</M01>
+<M04>Research interest: Ideological and political education</M04>
+<M01>Responsibilities: Assisting the Party Secretary and the dean in their work. Responsible for student work, competitions, publicity, sports, religions, etc.</M01>
+
+<OTHER>Party Committee Office</OTHER>
+
+<M01>The Office of the Party Committee is a comprehensive service organization of the College Party Committee, whose responsibilities are:</M01>
+
+<M01>1. To assist with college party affairs;
+2. To be in charge of the daily affairs, party affairs, party construction and Party Committee propaganda, statistics, and membership dues management;
+3. To be in charge of the coordination and supervision of the college party work arrangement, contact the school department and the general public party organization, collect and exchange information on Party building;
+4. To be in charge of the drafting of documents and official communications and memos;
+5. To be in charge of the management of the college party's official seal, responsible for the party's written testimonials;
+6. To be in charge of information management;
+7. To be in charge of the United Front Work in college;
+8. To be in charge of the organizing and coordinating of the study of political theory and activities in the academy;
+9. To receive letters and visits from students and teachers and help solve problems they point out;
+10. To be in charge of responding and processing letters from superior offices;
+11. To be in charge of the supervision of party work arrangement;
+12. To prepare, organize and minute various party and administrative meetings;
+13. To keep the college’s confidential materials;
+14. To offer processed information to senior officers;
+15. To be in charge of the keeping of college archives;
+16. To accomplish other work assigned by senior officers.</M01>
+
+<M01>Zhuo, Jie
+Position: Research Assistant</M01>
+<M10>Tele: 022-23505270
+Address: CFL102</M10>
+<M04>Research Interests: Administration</M04>
+
+<OTHER>Youth League Committee</OTHER>
+
+<M01>The Communist Youth League (Student Affairs Office) is responsible for student affairs. Our responsibilities are:</M01>
+
+<M01><M05>1. To assist directors of the college to give students proper guidance and to help with the directors’ administration;
+2. To assist the college Party committee to do the party construction work;
+3. To be in charge of the work of the Communist Youth League;
+4. To be in charge of student orientation;
+5. To be in charge of psychological counseling;
+6. To be in charge of supervising students’ personal development;
+7. To be in charge of the Student Scholarships administration and students’ involvement in community service;
+8. To give guidance to student union and other student organizations;
+9. To help with students’ hunting for jobs;
+10. To be in charge of receiving and managing new students’ records;
+11. To select students for overseas exchange programs;
+12. To assist in organizing students’ internship;
+13. To accomplish other work assigned by senior officers.</M05></M01>
+
+<M01>Wang, Yin
+Position: Lecture</M01>
+<M10>Tele: 022-23501542
+Address: CFL207</M10>
+<M04>Research Interests: History</M04>
+
+<M01>Wang, Ai
+Position: Lecture</M01>
+<M10>Tele: 022-23506408
+Address: CFL207</M10>
+<M04>Research Interests: Chinese as a foreign language</M04>
+
+<M01>Zhou, Wenyu
+Position: Lecture</M01>
+<M10>Tele: 022-23506408
+Address: CFL207</M10>
+<M04>Research Interests: Literature and Museology</M04>
+
+<M01>Cui, Liyue
+Position: Lecture</M01>
+<M10>Tele: 022-23501542
+Address: CFL207</M10>
+<M04>Research Interests: English language and Literature</M04>
+
+<M01>Wang, Ziyu
+Position: Lecture</M01>
+<M10>Tele: 022-23506408
+Address: CFL207</M10>
+<M04>Research Interests: Finance and tax law</M04>
+
+<OTHER>College Office</OTHER>
+
+<M01>This is an integrated office of the college. The following is a list of our responsibilities:</M01>
+
+<M01>1. To assist the president to do the daily administration, logistics management, financial management and other work;
+2. To draft the administrative documents and publish the college’s notices;
+3. To manage the seal of the college and issue all kinds of written testimonials;
+4. To purchase, manage and distribute the office supplies and subscribe to journals;
+5. To administrate office space and college facilities;
+6. To process documents sent between the university and the college;
+7. To coordinate the departments and organizations within the college and see to the execution of college decisions;
+8. To edit and publish the timeline of the college and popularize the college;
+9. To offer information that can help with senior officers decisions;
+10. To help prepare, organize and minute various party and administrative meetings;
+11. To be in charge of the reception and contacts with the visitors;
+12. To be in charge of the welfare of college faculties;
+13. To assist the college’s labor union and the Communist Youth League, and design activities for staff;
+14. To organize charity activities;
+15. To arrange and manage the college conference room;
+16. To implement the college’s security and fire protection procedures;
+17. To keep the college’s administrative archives;
+18. To organize alumni work;
+19. To organize the college's Training Center, Foreign Language Test Center and Center for Adult Education;
+20. To accomplish other work assigned by senior officers.</M01>
+
+<M01>Zhao, Guoqiang
+Position: Research Assistant</M01>
+<M10>Tele: 022-23508428
+Address: CFL107</M10>
+<M04>Research Interests: Chinese Language</M04>
+
+<M01>Wang, Zepu
+Position: Research Assistant</M01>
+<M10>Tele: 022-23508528
+Address: CFL107</M10>
+<M04>Research Interests: International Relations</M04>
+
+<M01>Cao, Fei
+Position: Research Assistant</M01>
+<M10>Tele: 022-23506832
+Address: CFL104</M10>
+<M04>Research Interests: Accounting</M04>
+
+<OTHER>Teaching and Research Office</OTHER>
+
+<M01><M05>Teaching and research office is an authority managing undergraduate teaching and research of the college, whose responsibilities are:</M05></M01>
+
+<M01><M05>1. To assist competent in the management of undergraduate teaching and research;
+2. To organize education as well as the reform in education, and drafting relevant documents; to arrange the implementation of teaching program; to set the teaching plan and curriculum of undergraduate teaching, minor and double-major teaching; to mend teaching program of each course;
+3. To be in charge of the report of a new major; to organize teaching inspection at the beginning, middle, and end of term; to organize the assessment of undergraduate teaching, the teaching research and reform in education of undergraduate curriculum, as well as the establishment of elite curriculums;
+4. To be in charge of the arrangement of undergraduate curriculum, including minority languages, and the first and second foreign languages education of the whole university; to settle down the teachers, classrooms, textbooks as well as schedule, and notifying teachers and students; to check the implement of teaching plan; to organize students to select courses; to deal with exchanging courses; to be in charge of the final exams and the binding and keep of examination paper;
+5. To be in charge of the management of school roll of undergraduate students, and their entrance, registration, switch of major, drop out as well as reinstating; to manage all the students’ grades and school roll, including who are undergraduate, minoring or double-majoring as well as those dropped out, transferred, reinstated or in suspension;
+6. To arrange the internship and practical teaching of the undergraduate students; managing graduation thesis and checking the qualification of graduation;
+7. To organize the setup of the reform of education and the establishment of textbooks; to organize the selection and praise of outstanding textbooks; to collect the materials and report the setup of the reform of education and the establishment of curriculums as well as textbooks; to collect and report news related to education;
+8. To recommend graduate students for examination free;
+9. To be in charge of the foreign exchange and cooperation of education; to manage the education of foreign students;
+10. To manage files of the undergraduate teaching;
+11. To collect statistics of teaching workload;
+12. To assist competent in the report of research projects and the management during the projects;
+13. To manage files of the researches in the college;
+14. To organize and coordinating the academic exchanges activities in the college;
+15. To manage all the classrooms in the college;
+16. To accomplish other work assigned by senior officers.</M05></M01>
+
+<M01>Li, Dongyuan
+Position: Research Assistant</M01>
+<M10>Tele: 022-23503695
+Address: CFL109</M10>
+<M04>Research Interests: Chinese Language</M04>
+
+<M01>Liang, Song
+Position: Research Assistant</M01>
+<M10>Tele: 022-23503695
+Address: CFL109</M10>
+<M04>Research Interests: Italian</M04>
+
+<OTHER>Graduate Studies Office</OTHER>
+
+<M01><M05>Graduate Studies Office is the graduate administrative unit of the teaching and administration of graduate studies of the college, whose responsibilities are:</M05></M01>
+
+<M01><M05>1. To assist the Dean of College in making academic development plans, administrating graduate studies, and drafting related documents and manuscripts;
+2. To enroll graduate students, assisting the college in making enrollment and publicity plans, and organizing other enrollment affairs in test design, exam marking, and admission decision;
+3. To enroll graduate candidates from other institutions who are exempt from admission exam;
+4. To preplan graduate curriculum, supervising the implementation of teaching plans, and arranging faculty members, classrooms, schedules, and final exams; to calculate the unit of study for faculty members;
+5. To administrate the registration of graduate students, the process of signing up for the courses, and student’s academic performances; to handle the leave, drop-out, reentry, transfer, and overseas study procedures for the graduate students;
+6. To organize the approval of graduate education reform project, and the application for international academic exchange programs; to prepare the application materials for high-quality textbooks and courses;
+7. To organize the teaching practice and internship programs for graduate students; to organize their dissertation proposal and mid-term evaluation;
+8. To organize the examination of graduate eligibility, the dissertation defense, and the degree-awarding;
+9. To be in charge of academic evaluation and the application for master degree and Ph.D. programs;
+10. To recruit Master Supervisor and Ph.D. Supervisor;
+11. To administrate the post-doctoral research station of Foreign Languages and Literatures;
+12. To administrate the registration of graduate students’ working files;
+13. To administrate the staff members’ application for master degree programs;
+14. To accomplish other work assigned by senior officers.</M05></M01>
+
+<M01>Wang, Yuqian
+Position: Research Associate</M01>
+<M10>Tele: 022-23505735
+Address: CFL103</M10>
+<M04>Research Interests: French</M04>
+
+<M01>Li, Shanshan
+Position: Research Assistant</M01>
+<M10>Tele: 022-23506153
+Address: CFL104</M10>
+<M04>Research Interests: Supply chain and logistics management</M04>
+
+<OTHER>MTI Office</OTHER>
+
+<M01><M05>MTI Office is the MTI administrative unit of the teaching and administration of graduate studies of the college.</M05></M01>
+
+<M01><M05>1. To assist the dean in charge and the center director in the daily teaching management of the master of translation, and draft relevant documents and manuscripts;
+2. To be in charge of the enrollment of postgraduates in translation (including the recommendation of exempted postgraduates); assisting in the formulation of enrollment plans, and doing a good job in enrollment publicity; organizing translation of postgraduate exam propositions, scoring, re-examination and admission and other examination work;
+3. To be in charge of the management of translation postgraduate course schedule; organizing mid-term teaching inspections; organizing final examinations; managing graduate students’ scores;
+4. To be in charge of the management of the student status of translation postgraduates: handling postgraduate suspension, resumption, and withdrawal procedures;
+5. To assist in organizing the evaluation of academic scholarships and bursaries for postgraduates in translation;
+6. To assist in organizing the declaration of translation master’s degree postgraduate teaching and scientific research; organizing the declaration of professional degree courses, teaching cases, base construction and other projects;
+7. To arrange and organize teaching internships and practical work for postgraduates in translation; organize and arrange the topic opening work for postgraduates in translation;
+8. To organize work related to the graduation qualification review, graduation defense, and degree awarding of postgraduates in translation;
+9. To organize the selection and appointment of tutors for master's degree students in translation;
+10. To assist in organizing lectures by domestic and foreign experts and scholars;
+11. To be in charge of the daily maintenance of the MTI web page;
+12. To be in charge of statistics on the teaching workload of MTI teachers;
+13. To be in charge of the management of educational administration files for postgraduates in translation;
+14. To complete other tasks assigned by the leader.</M05></M01>
+
+<M01>Xu, Jing
+Position: Research Assistant</M01>
+<M10>Tele: 022-23509365
+Address: CFL103</M10>
+<M04>Research Interests: English</M04>
+
+<OTHER>Human Resources and Foreign Affairs Office</OTHER>
+
+<M01>Office of Human Resources and Foreign Affairs is the administration of human resources and foreign affairs, whose responsibilities are:</M01>
+
+<M01>To assist the Dean of College in the administration of human resources.</M01>
+
+<OTHER>Human resource job</OTHER>
+
+<M01>1. To be in charge of the management of senior talents in the college, introducing high-end talents such as professors, associate professors, etc.; to organize faculty and staff to apply for national, municipal and school-level talent projects, such as Nankai University Chair Professors and Nankai Lecture Professors, etc;
+2. To be in charge of the promotion of various professional technical titles of the college and the evaluation of professional titles of foreign schools;
+3. To be in charge of the issuance of commemorative certificates for those who have been engaged in education for 30 years and the application for teacher qualification certificates;
+4. To be in charge of the annual performance appraisal of all the faculty and staff of the college;
+5. To be in charge of the appointment of all faculty and staff positions in the college;
+6. To be in charge of the reporting and management of cadres at the college level;
+7. To be in charge of checking the human resource management system of Nankai University, implementing the annual recruitment work (collecting resumes in the early stage, contacting applicants, determining the initial examination, political review, public announcement, and reporting), the renewal of faculty and staff and the dismissal of related faculty and staff;
+8. To be in charge of logging on to the National Education System website of the Ministry of Education, organizing the collection and review of all faculty and staff information of the college;
+9. To be in charge of the postdoctoral management of the college, logging into the Chinese postdoctoral online office system, and doing a good job of postdoctoral plan reporting, organization declaration, entry, mid-term assessment, China Postdoctoral Science Foundation grant application, and exit;
+10. To be in charge of the personal file filing of new leaders and new faculty members of the college;
+11. Responsible for reminding faculty and staff of the annual medical insurance reimbursement work;
+12. To be in charge of the submission of the annual overseas plan issued by the Personnel Department, the CSC publicly dispatches graduate students or special overseas projects, the faculty and staff are publicly dispatched by the state to send visiting scholars (including post-doctorate) to work abroad, the returned faculty and staff assessment work, and the implementation of salary performance recovery;
+13. To be in charge of the management of the registration and filing of faculty and staff going abroad for private purposes, accepting faculty and staff going abroad forms for private use, borrowing and returning personal passports of faculty and staff for private use, permits for travel to and from Hong Kong and Macao, and permits for mainland residents to travel to and from Taiwan. Cancellation procedures;
+14. To notify teachers to do a good job in teacher training, in accordance with the requirements of the Teacher Development Center of Nankai University;
+15. To be in charge of the annual retirement of the faculty and staff of the whole hospital;
+16. To be in charge of the management of temporary workers.</M01>
+
+<M01>Chen, Hong
+Position: Research Assistant</M01>
+<M10>Tele: 022-23505270
+Address: CFL102</M10>
+<M04>Research Interests: History</M04>
+
+<OTHER>Audiovisual Education Center</OTHER>
+
+<M01><M06>Audiovisual Education Center is the auxiliary teaching institution of the college, whose responsibilities are:</M06></M01>
+
+<M01><M06>1. To assist Chief Dean to be in charge of daily management and the construction of Audiovisual Education Center;
+2. To be in charge of the preparation and maintenance work of language laboratories, Multi-Media classrooms and simultaneous interpreting classrooms to ensure the smooth progress of courses;
+3. To be in charge of training the teachers and students, who use the teaching devices above-mentioned, to ensure the normal operation of these devices;
+4. To provide and to be in charge of the audiovisual facilities that are needed in various teaching activities;
+5. To assist some related teachers to extract and edit audiovisual resources used in teaching;
+6. To be in charge of the usage and management of audiovisual devices in whole college, and to make the account, matter and cards accordant, ensuring the integrity of the device in college;
+7. To be in charge of purchasing new devices or facilities and reimbursing bad debt of the obsolete devices;
+8. To be in charge of the repairing and maintenance of the devices and facilities, keeping them in serviceable condition;
+9. To be in charge of the secure operations of satellite receiving station, ensuring the normal transmission of the satellite signal;
+10. To be in charge of the management of teacher’s computer rooms and network engine rooms, and to provide convenient conditions for teachers and students;
+11. To be in charge of the information construction and network maintenance of the college;
+12. To be in charge of the audiovisual transcript of activities, like teaching, academic and various conferences;
+13. To accomplish other work assigned by senior officers.</M06></M01>
+
+<M01>Zhao, Liping
+Position: Experimentalist</M01>
+<M10>Tele: 022-23508213
+Address: CFL130</M10>
+<M04>Research Interests: Computer Science</M04>
+
+<OTHER>Academic Resource Center</OTHER>
+
+<M01><M06>Academic Resource Center is the auxiliary teaching and scientific research institution of the college, whose responsibilities are:</M06></M01>
+
+<M01><M06>1. To assist Chief Dean to be in charge of the management of data and the construction of Academic Resource Center;
+2. To be in charge of the information communication and work connection with the library;
+3. To be in charge of the borrowing and service of the books and journals in Academic Resource Center, and to formulate the rules and regulations of it;
+4. To be in charge of the ordering and management of the books and periodicals in Chinese and foreign language of the college;
+5. To be in charge of the classification and cataloguing of the books, to index the data and to provide service and decisions reference for teaching and research accordingly;
+6. To investigate readers regularly and ask for comments and suggestions towards their needs of Academic Resource Center;
+7. To conduct propaganda to teachers and students on the information resources about the recommendation of the library in Nankai University, and to provide guidance and training about the using of library for them;
+8. To provide convenient conditions and good quality services actively for teachers and students to consult data;
+9. To accomplish other work assigned by senior officers.</M06></M01>
+
+<M01>Wang, Zhe
+Position: Research Assistant</M01>
+<M10>Tele: 022-23500079
+Address: Academic Resource Center</M10>
+<M04>Research Interests: Ideological and Political Education</M04>
+
+<M01>Cao, Li
+Position: Associate Researcher</M01>
+<M10>Tele: 022-23500079
+Address: Academic Resource Center</M10>
+<M04>Research Interests: Political theory</M04>
+
+<OTHER>International Development Office</OTHER>
+
+<M02><M01>According to the State Council’s “Overall Plan for Promoting the Construction of World-Class Universities and First-Class Disciplines”, in order to implement the spirit of Nankai University’s “Global Nankai Plan (2016-2020)” and “Thirteenth Five-Year Plan” of the College of Foreign Languages and “the first-class construction plan”, as well as promote the significant improvement of the international development level of the College of Foreign Languages, The International Development Office of the College of Foreign Languages was established in 2016 with the approval of the Party and Government Joint Conference of the School.</M01></M02>
+
+<M01><M08>This department is the main liaison and promotion agency for the college to strengthen international contacts and improve the level of international development, whose responsibilities are:</M08></M01>
+
+<M01><M08>1. To assist the dean in charge to carry out international exchanges and other work;
+2. To cooperate with the Department of Translation in the management of the “High-edge Translation Talent Training Project” of the Joint Graduate School of Nankai University-Glasgow University, and other international projects of the college, and do a good job in the coordination and management of enrollment, training, graduation and other links;
+3. To assist the dean in charge to actively explore new models of cooperation with overseas high-level universities, such as joint training of postgraduates and dual-degree programs between China and foreign countries;
+4. To assist all departments to expand overseas communication channels, expand the scale of overseas exchanges, and improve the international training level of undergraduates and graduate students;
+5. To assist various scientific research centers to establish joint scientific research institutions with famous foreign universities and research institutions to further expand the field, form and scale of foreign cooperation;
+6. To assist the research centers, departments and majors in the liaison and organization of international academic conferences;
+7. To assist the college leaders to receive visits from foreign delegations and scholars, organize greets, arrange meeting venues, prepare meeting materials, take pictures, provide tea, record the content of the meeting, etc;
+8. To be in charge of liaison and formalities for the college’s visiting delegation;
+9. To write publicity manuscripts in a timely manner, and do a good job in the news reporting of our college's international academic exchange activities;
+10. To assist all departments to implement college-level international cooperation projects, and provide comprehensive services for students participating in international exchanges, including the announcement and update of cooperation projects, registration and formalities guidance;
+11. To regularly understand the students' opinions and suggestions on the international exchange work of our college, and report relevant information to relevant leaders;
+12. To collect and organize the international exchange data of our college, and write the summary and analysis report of the college's international cooperation;
+13. To keep abreast of the developments and good practices of internationalization work at home and abroad, and provide a basis for the decision-making of Glasgow and other international projects of our institute;
+14. To be in charge of other work related to the international development of our college.</M08></M01>
+
+<OTHER>Foreign affairs work</OTHER>
+
+<M01><M08>1. To be in charge of the handling of the procedures for the faculty and staff to go abroad (border) on business, asking the department’s opinion, asking the leader to sign the opinion, and submitting it to the relevant unit;
+2. To be in charge of the procedures of going abroad (border) for all students (including masters, masters and doctors) in the school, asking the department’s opinion, asking the leader to sign the opinion, and submit it to the relevant unit;
+3. To be in charge of the application and conference affairs of the college’s annual international conference;
+4. To be in charge of the recruitment of long-term foreign teachers of the college, applying for the annual foreign teacher recruitment plan in Nankai University’s talent introduction work service system, signing contracts with foreign teachers, and cooperating with the expert department to handle work permits in China, the renewal, daily management and dismissal of existing foreign teachers;
+5. To be in charge of the college’s short-term foreign expert lectures, the key intelligence introduction projects declared by the college to the school, and the summer elementary school hiring experts project, which are carried out in the service system of Nankai University;
+6. To apply information on various types of hiring experts to the college, organize reception, arrange conference affairs, publicity and reception matters, such as booking cars and meeting rooms, arranging banquets, making banners, etc.;
+7. To be in charge of the development of cooperation and exchange projects between the various departments of the college and foreign universities;
+8. To be in charge of the application of volunteers and teachers of the Confucius Institute;
+9. To be in charge of the work of international students;
+10. To be in charge of the drafting and submission of various foreign affairs documents;
+11. To be in charge of other foreign affairs tasks assigned by the International Academic Exchange Office and the college.</M08></M01>
+
+<M01>Liang, Song
+Position: Research Assistant</M01>
+<M10>Tele: 022-23503695
+Address: CFL109</M10>
+<M04>Research Interests: Italian</M04>
+
+<OTHER>Foreign Language Exam Center of Nankai University</OTHER>
+
+<M02><M01>The Foreign Language Examination Center of Nankai University was established in 2004 with the approval of the Examination Center of the Ministry of Education.</M01></M02>
+<M01>The office is located in the College of Foreign Languages and is responsible for the organization and management of examinations in various languages.</M01>
+<M08>Currently, the test items that have been opened are: IELTS, TOEFL, GRE, GMAT, TestDaF, JLPT, TOPIK, BJT, TOEIC, PETS, BULATS, FECT, etc.</M08>
+
+<M01>Cui, Guiqing
+Position: Research Assistant</M01>
+<M10>Tele: 022-23503696
+Address: CFL113</M10>
+<M04>Research Interests: Chinese</M04>
+
+<M01>Feng, Lei
+Position: Deputy senior experimenter</M01>
+<M10>Tele: 022-23503696
+Address: CFL113</M10>
+<M04>Research Interests: Computer science and technology</M04>
+
+<OTHER>Contact Way</OTHER>
+
+<M10>The East gate of Nankai University to College of Foreign Languages:</M10>
+
+<M10>The West gate of Nankai University to College of Foreign Languages:</M10>
+
+<M10>The Southwest gate of Nankai University to College of Foreign Languages:</M10>

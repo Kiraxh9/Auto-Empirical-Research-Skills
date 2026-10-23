@@ -1,0 +1,15 @@
+<OTHER>南京大学外国语学院</OTHER>
+
+<OTHER>About</OTHER>
+
+<M02>The School of Foreign Studies (SFS) at Nanjing University traces its history back to a three-year English program initiated in 1917.</M02>
+<M01><M06>Building on its academic heritage, SFS has now developed into an institution of seven departments: English, French, German, Spanish, Russian, Japanese, and Korean, with a total enrollment of over 1,100 students in BA, MA, and PhD programs.</M06></M01>
+<M03>SFS is devoted to pursuing excellence in teaching and research, and to nurturing future leaders who are able to make a difference around the world.</M03>
+<M03><M05>With full commitment to this mission, SFS is constantly striving to match its standards with the nation’s growth and its students’ interest and learning objectives, and prepares qualified young people to succeed in important professional sectors such as diplomacy, international affairs, education, cultural exchange, journalism, trade and finance.</M05></M03>
+
+<M06>Over half of SFS’s Chinese faculty members are professors and associate professors.</M06>
+<M06><M07>In addition, there are 15 international faculty members, including Jean-Marie Gustave Le Clézio, Nobel Prize winner for literature.</M07></M06>
+<M06>These distinguished scholars are active in research and dedicated to education.</M06>
+<M06><M04>SFS sponsors research projects through its research institutions such as the Center for the Study of Contemporary Foreign Literature and Culture, the Institute of Foreign Linguistics, the Institute of Translation Studies, and the Institute for Comparative Study on Sino-German Culture.</M04></M06>
+<M04>Research at the school covers a wide range of subjects in world literature, general and applied linguistics, translation studies, area studies, and intercultural communication.</M04>
+<M07>Currently, SFS’s foreign language and literature program is supported by the Chinese Ministry of Education’s World-Class Disciplines Initiative.</M07>
