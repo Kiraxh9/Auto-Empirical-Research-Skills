@@ -1,30 +1,18 @@
 <OTHER>Faculty introduction</OTHER>
 
-<M04><M03>Liberal arts serve an important and indispensable part in furthering the Harbin Institute of Technology to become a world-class comprehensive, research-oriented and open university.</M03></M04>
-<M03><M05>Based on the status and target of the university, Faculty of Humanities and Social Sciences adapts itself to the requirements of economic construction and social progress in the new century for talent training and academic requirements.</M05></M03>
-<M03><M04>Adhering to the academic tradition of “integration of China and the West, integration of ancient and modern, integration of literature and science, and comprehensive innovation”, the faculty strives to achieve “daily humanistic innovation” in the three aspects of talent training, academic research and social service.</M04></M03>
+<M03>Liberal arts serve an important and indispensable part in furthering the Harbin Institute of Technology to become a world-class comprehensive, research-oriented and open university. Based on the status and target of the university, Faculty of Humanities and Social Sciences adapts itself to the requirements of economic construction and social progress in the new century for talent training and academic requirements. Adhering to the academic tradition of “integration of China and the West, integration of ancient and modern, integration of literature and science, and comprehensive innovation”, the faculty strives to achieve “daily humanistic innovation” in the three aspects of talent training, academic research and social service.</M03>
 
-<M05><M04>The faculty covers all level of tertiary education, namely undergraduate, master’s and doctoral levels, and achieves the mutual support of various disciplines.</M04></M05>
-<M05>The faculty currently has 8 undergraduate majors, 5 first-level discipline master’s programs, 2 professional master’s programs, and 1 first-level discipline doctoral program.</M05>
+<M05>The faculty covers all level of tertiary education, namely undergraduate, master’s and doctoral levels, and achieves the mutual support of various disciplines. The faculty currently has 8 undergraduate majors, 5 first-level discipline master’s programs, 2 professional master’s programs, and 1 first-level discipline doctoral program.</M05>
 
-<M06><M07>There are 163 in-service teachers in the faculty, including 32 professors, 81 associate professors, 10 doctoral supervisors, and 60 master’s supervisors; Three members of the Higher Education Teaching Guidance Committee of the Ministry of Education; Three members of the Teaching Guidance Committee of Higher Education Institutions in Heilongjiang Province; 3 provincial-level teaching masters and 2 school-level teaching masters; Eight recipients of “Baogang” Excellent Teacher Award and four provincial-level teaching teams.</M07></M06>
+<M06>There are 163 in-service teachers in the faculty, including 32 professors, 81 associate professors, 10 doctoral supervisors, and 60 master’s supervisors; Three members of the Higher Education Teaching Guidance Committee of the Ministry of Education; Three members of the Teaching Guidance Committee of Higher Education Institutions in Heilongjiang Province; 3 provincial-level teaching masters and 2 school-level teaching masters; Eight recipients of “Baogang” Excellent Teacher Award and four provincial-level teaching teams.</M06>
 
-<M07>In recent years, faculty teachers have undertaken 1 major project of the National Social Science Fund, 23 projects of the National Social Science Fund, 2 projects of the National Natural Science Fund, 2 national education planning projects, 2 new liberal arts research and reform practice projects of the Ministry of Education, 3 humanities and social science projects of the Ministry of Education, and 5 industry-academia-research projects of the Ministry of Education.</M07>
-<M07>They undertake more than 100 provincial and ministerial teaching and scientific research projects.</M07>
-<M07>They win more than 120 national and provincial and ministerial teaching and scientific research achievements awards, publish more than 100 books and textbooks and more than 700 papers.</M07>
+<M07>In recent years, faculty teachers have undertaken 1 major project of the National Social Science Fund, 23 projects of the National Social Science Fund, 2 projects of the National Natural Science Fund, 2 national education planning projects, 2 new liberal arts research and reform practice projects of the Ministry of Education, 3 humanities and social science projects of the Ministry of Education, and 5 industry-academia-research projects of the Ministry of Education. They undertake more than 100 provincial and ministerial teaching and scientific research projects. They win more than 120 national and provincial and ministerial teaching and scientific research achievements awards, publish more than 100 books and textbooks and more than 700 papers.</M07>
 
-<M03>Facing the new journey, telling the story of China well, showcasing the path, governance, and principles of China, is the historical mission entrusted to us by the times.</M03>
-<M03>At the beginning of the new century, the newly established Faculty of Humanities and Social Sciences of Harbin Institute of Technology will set out from the overall goal of building Harbin Institute of Technology into a world-class university, adapt to the requirements of academic research and talent training in the new era.</M03>
-<M03>The faculty shall commit itself to inheriting excellent traditions, seizing the new opportunities of the times and social development, and comprehensively promoting the academic research, team building, talent training and other work of the college with a broader vision and broad mind.</M03>
-<M03>The faculty shall strive to create a new chapter of high-quality development of the new liberal arts of Harbin Institute of Technology, and make new and greater contributions to comprehensively promoting the great rejuvenation of the Chinese nation with Chinese path to modernization.</M03>
+<M03>Facing the new journey, telling the story of China well, showcasing the path, governance, and principles of China, is the historical mission entrusted to us by the times. At the beginning of the new century, the newly established Faculty of Humanities and Social Sciences of Harbin Institute of Technology will set out from the overall goal of building Harbin Institute of Technology into a world-class university, adapt to the requirements of academic research and talent training in the new era. The faculty shall commit itself to inheriting excellent traditions, seizing the new opportunities of the times and social development, and comprehensively promoting the academic research, team building, talent training and other work of the college with a broader vision and broad mind. The faculty shall strive to create a new chapter of high-quality development of the new liberal arts of Harbin Institute of Technology, and make new and greater contributions to comprehensively promoting the great rejuvenation of the Chinese nation with Chinese path to modernization.</M03>
 
 <OTHER>Historical Evolution</OTHER>
 
-<M02>The history of the Faculty of Humanities and Social Sciences can be traced back to the beginning of the establishment of HIT in 1920, when the university adopted Russian first and later Japanese as the teaching languages.</M02>
-<M02><M07>The Russian Language Teaching and Research Office was set up and followed by English, Japanese, German, and French Teaching and Research Offices, helping HIT become a model university for learning Soviet educational experience in China.</M07></M02>
-<M02><M07>In 1952, the Political Course Teaching and Research Office was established, and the first national undergraduate teacher training class for the major of Dialectics of Nature was launched, providing strong talent support for the research of Dialectics of Nature nationwide.</M07></M02>
-<M02><M01>In August 2023, in order to better coordinate academic resources, promote discipline construction, and serve the development of Chinese society, Faculty of Humanities and Social Sciences was established on the basis of the original School of International Studies and School of Social Sciences.</M01></M02>
-<M02><M07>The development and growth of the faculty have made important contributions to shaping the campus cultural atmosphere and improving students' humanistic literacy.</M07></M02>
+<M02>The history of the Faculty of Humanities and Social Sciences can be traced back to the beginning of the establishment of HIT in 1920, when the university adopted Russian first and later Japanese as the teaching languages. The Russian Language Teaching and Research Office was set up and followed by English, Japanese, German, and French Teaching and Research Offices, helping HIT become a model university for learning Soviet educational experience in China. In 1952, the Political Course Teaching and Research Office was established, and the first national undergraduate teacher training class for the major of Dialectics of Nature was launched, providing strong talent support for the research of Dialectics of Nature nationwide. In August 2023, in order to better coordinate academic resources, promote discipline construction, and serve the development of Chinese society, Faculty of Humanities and Social Sciences was established on the basis of the original School of International Studies and School of Social Sciences. The development and growth of the faculty have made important contributions to shaping the campus cultural atmosphere and improving students' humanistic literacy.</M02>
 
 <OTHER>History of the School of International Studies</OTHER>
 
@@ -36,89 +24,48 @@
 
 <M02>In 1982, the Foreign Language Division of Harbin Institute of Technology was established.</M02>
 
-<M02><M05>In 1988, the Foreign Language Division was renamed as the Foreign Language Department and began to recruit undergraduate students majoring in English.</M05></M02>
+<M02>In 1988, the Foreign Language Division was renamed as the Foreign Language Department and began to recruit undergraduate students majoring in English.</M02>
 
-<M02><M05>In 1989, undergraduate students majoring in Russian were enrolled.</M05></M02>
+<M02>In 1989, undergraduate students majoring in Russian were enrolled.</M02>
 
-<M02><M05>In 2001, Japanese Language Major was established and recruited undergraduates.</M05></M02>
+<M02>In 2001, Japanese Language Major was established and recruited undergraduates.</M02>
 
-<M02>In 2006, the School of International Studies was established.</M02>
-<M02><M05>In 2022, the major of International Organizations and Global Governance was established.</M05></M02>
+<M02>In 2006, the School of International Studies was established. In 2022, the major of International Organizations and Global Governance was established.</M02>
 
 <OTHER>History of the School of Social Sciences</OTHER>
 
 <M02>In 1952, the Political Course Teaching and Research Office was established, and the first national undergraduate teacher training program in Dialectics of Nature was launched.</M02>
 
-<M02><M05>In 1993, the major of International Economics and Trade was established.</M05></M02>
+<M02>In 1993, the major of International Economics and Trade was established.</M02>
 
 <M02>In 1995, the School of Humanities and Social Sciences was established.</M02>
 
-<M02><M05>In 1999, the major of Sociology was established.</M05></M02>
+<M02>In 1999, the major of Sociology was established.</M02>
 
-<M02><M05>In 2000, the major of Law was added.</M05></M02>
+<M02>In 2000, the major of Law was added.</M02>
 
-<M02><M05>In 2007, the major of Chinese as a Foreign Language was established.</M05></M02>
+<M02>In 2007, the major of Chinese as a Foreign Language was established.</M02>
 
-<M02><M05>In 2009, the major of Economics was established.</M05></M02>
+<M02>In 2009, the major of Economics was established.</M02>
 
 <OTHER>Faculty leadership</OTHER>
 
-<M01>Li Xue
-Position: Director of the Faculty; Deputy Party Committee Secretary of the Faculty; Dean of the School of International Studies
-Division of work: Comprehensive administrative work</M01>
-<M10>Office location: Foreign Language Building 202
-Contact information: lixuesnow@hit.edu.cn; 86418115</M10>
+<M01>Li Xue Position: Director of the Faculty; Deputy Party Committee Secretary of the Faculty; Dean of the School of International Studies Division of work: Comprehensive administrative work Office location: Foreign Language Building 202 Contact information: lixuesnow@hit.edu.cn; 86418115</M01>
 
-<M01>Zhou Zhiguo
-Position: Party Committee Secretary of the Faculty; Deputy Director of the Faculty
-Division of work: Responsible for the overall work of the Party Committee and personnel, provincial enrollment, labor union, faculty office, retirement, fixed assets and other work</M01>
-<M10>Office location: Foreign Language Building 201
-Contact information: zhouzhiguo@hit.edu.cn; 86414508</M10>
+<M01>Zhou Zhiguo Position: Party Committee Secretary of the Faculty; Deputy Director of the Faculty Division of work: Responsible for the overall work of the Party Committee and personnel, provincial enrollment, labor union, faculty office, retirement, fixed assets and other work Office location: Foreign Language Building 201 Contact information: zhouzhiguo@hit.edu.cn; 86414508</M01>
 
-<M01>Wang Bo
-Position: Deputy Director of the Faculty; Dean of the School of Social Sciences
-Division of work: Responsible for provincial enrollment, personnel (talent introduction), scientific research, international cooperation, security, confidentiality, infrastructure maintenance, etc.</M01>
-<M10>Office location: School of Social Sciences Building 1009
-Contact information: wangbo@hit.edu.cn; 86416920</M10>
+<M01>Wang Bo Position: Deputy Director of the Faculty; Dean of the School of Social Sciences Division of work: Responsible for provincial enrollment, personnel (talent introduction), scientific research, international cooperation, security, confidentiality, infrastructure maintenance, etc. Office location: School of Social Sciences Building 1009 Contact information: wangbo@hit.edu.cn; 86416920</M01>
 
-<M01>Han Xiaohui
-Position: Deputy Director of the Faculty
-Division of work: Responsible for undergraduate and postgraduate teaching and training, in charge of major enrollment of the school, alumni work, language lab, reference room, archive management, personnel (teacher construction) and other work</M01>
-<M10>Office location: Foreign Language Building 203
-Contact information: 2007hanxiaohui@sina.com; 86416055</M10>
+<M01>Han Xiaohui Position: Deputy Director of the Faculty Division of work: Responsible for undergraduate and postgraduate teaching and training, in charge of major enrollment of the school, alumni work, language lab, reference room, archive management, personnel (teacher construction) and other work Office location: Foreign Language Building 203 Contact information: 2007hanxiaohui@sina.com; 86416055</M01>
 
-<M01>Peng Fei
-Position: Deputy Party Committee Secretary of the Faculty
-Division of work: Responsible for student work, publicity, informatization and other work</M01>
-<M10>Office location: Foreign Language Building 203
-Contact information: pengf@hit.edu.cn; 86412488</M10>
+<M01>Peng Fei Position: Deputy Party Committee Secretary of the Faculty Division of work: Responsible for student work, publicity, informatization and other work Office location: Foreign Language Building 203 Contact information: pengf@hit.edu.cn; 86412488</M01>
 
-<M01>Gu Xiaole
-Position: Director’s Assistant
-Division of work: Responsible for discipline construction</M01>
-<M10>Office location: Foreign Language Building 204
-Contact information: wanglingqinggxl@sina.com.cn; 86403839</M10>
+<M01>Gu Xiaole Position: Director’s Assistant Division of work: Responsible for discipline construction Office location: Foreign Language Building 204 Contact information: wanglingqinggxl@sina.com.cn; 86403839</M01>
 
-<M01>Wang Yanyan
-Position: Deputy Dean of the School of Social Sciences
-Division of work: Responsible for personnel (employment, assessment), scientific research</M01>
-<M10>Office location: School of Social Sciences Building 1017-1
-Contact information: wyy@hit.edu.cn; 86413136</M10>
+<M01>Wang Yanyan Position: Deputy Dean of the School of Social Sciences Division of work: Responsible for personnel (employment, assessment), scientific research Office location: School of Social Sciences Building 1017-1 Contact information: wyy@hit.edu.cn; 86413136</M01>
 
-<M01>Li Jingzhu
-Position: Deputy Dean of the School of Social Sciences
-Division of work: Responsible for international exchange and cooperation</M01>
-<M10>Office location: School of Social Sciences Building 1017-2
-Contact information: jingzhu7776@163.com; 86413869</M10>
+<M01>Li Jingzhu Position: Deputy Dean of the School of Social Sciences Division of work: Responsible for international exchange and cooperation Office location: School of Social Sciences Building 1017-2 Contact information: jingzhu7776@163.com; 86413869</M01>
 
-<M01>Wang Song
-Position: Deputy Dean of the School of International Studies
-Division of work: Responsible for personnel (performance), scientific research platform management</M01>
-<M10>Office location: Foreign Language Building 204
-Contact information: sheilahit@163.com; 86403839</M10>
+<M01>Wang Song Position: Deputy Dean of the School of International Studies Division of work: Responsible for personnel (performance), scientific research platform management Office location: Foreign Language Building 204 Contact information: sheilahit@163.com; 86403839</M01>
 
-<M01>Xu Rui
-Position: Deputy Dean of the School of International Studies
-Division of work: Responsible for international exchange and cooperation</M01>
-<M10>Office location: Foreign Language Building 204
-Contact information: 549560770@qq.com; 86403839</M10>
+<M01>Xu Rui Position: Deputy Dean of the School of International Studies Division of work: Responsible for international exchange and cooperation Office location: Foreign Language Building 204 Contact information: 549560770@qq.com; 86403839</M01>
