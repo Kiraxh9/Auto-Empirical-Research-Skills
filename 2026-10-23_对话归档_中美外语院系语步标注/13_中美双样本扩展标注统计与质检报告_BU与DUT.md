@@ -1,8 +1,8 @@
 # 中美扩展双样本 10 语步标注统计与质检报告
 ## —— 美国样本 `Boston University (F08)` vs. 中国样本 `Dalian University of Technology (F09)`
 
-> **标注依据**：[`06_中美高校外语院系_精炼10核心语步编码手册.csv`](./06_中美高校外语院系_精炼10核心语步编码手册.csv) + [`07_AI语步标注操作说明_10核心语步标准版.md`](./07_AI语步标注操作说明_10核心语步标准版.md)（`M01–M10 + OTHER`，Yu 2023；Yu, Yu, Bondi & Hyland 2026）
-> **标注产出**：[`11_Boston_University_10语步标准标注全文.txt`](./11_Boston_University_10语步标准标注全文.txt)、[`12_Dalian_University_of_Technology_10语步标准标注全文.txt`](./12_Dalian_University_of_Technology_10语步标准标注全文.txt)、[`14_双样本语步单元级编码表.csv`](./14_双样本语步单元级编码表.csv)
+> **标注依据**：[`06_中美高校外语院系_精炼10核心语步编码手册.csv`](../中美外语院系话语分析_Yu语步标注专案/06_中美高校外语院系_精炼10核心语步编码手册.csv) + [`07_AI语步标注操作说明_10核心语步标准版.md`](../中美外语院系话语分析_Yu语步标注专案/07_AI语步标注操作说明_10核心语步标准版.md)（`M01–M10 + OTHER`，Yu 2023；Yu, Yu, Bondi & Hyland 2026）
+> **标注产出**：[`11_Boston_University_10语步标准标注全文.txt`](./美国大学/11_Boston_University_10语步标准标注全文.txt)、[`12_Dalian_University_of_Technology_10语步标准标注全文.txt`](./中国大学/12_Dalian_University_of_Technology_10语步标准标注全文.txt)、[`14_双样本语步单元级编码表.csv`](./14_双样本语步单元级编码表.csv)
 
 ---
 
@@ -90,7 +90,7 @@
 
 | 文件 | 内容 |
 | :--- | :--- |
-| `11_Boston_University_10语步标准标注全文.txt` | 波士顿大学 `F08` 全篇 `493` 单元逐句标注（`9,522` 词 `100%` 零删改） |
-| `12_Dalian_University_of_Technology_10语步标准标注全文.txt` | 大连理工大学 `F09` 全篇 `190` 单元逐句标注（`4,771` 词 `100%` 零删改） |
+| `美国大学/11_Boston_University_10语步标准标注全文.txt` | 波士顿大学 `F08` 全篇 `493` 单元逐句标注（`9,522` 词 `100%` 零删改） |
+| `中国大学/12_Dalian_University_of_Technology_10语步标准标注全文.txt` | 大连理工大学 `F09` 全篇 `190` 单元逐句标注（`4,771` 词 `100%` 零删改） |
 | `14_双样本语步单元级编码表.csv` | 单元级明细（语料编号／段落块号／单元序号／语步代码／分摊词数／起始片段），可直接导入 `R`/`Python` 复算 `Extensiveness`、`Shannon` 均匀度与跨样本检验 |
 | 编码口径 | 与 `06` 手册 `M01–M10 + OTHER`、`30` 个子语阶及「零重叠排他硬判据」完全一致；双码仅用于**共等命题**单元（`BU` `7` 个、`DUT` `6` 个） |
