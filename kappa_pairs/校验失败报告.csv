@@ -1,0 +1,3 @@
+File,Line,检查项,结果,差异内容或说明
+Beijing Normal University.txt,1,原始语料识别,失败,文件名符合原始语料命名，但第1行为“<OTHER>School of Foreign Languages and Literature</OTHER>”，含XML标注标签，不是未标注的干净文本；仓库既有说明将该文件定义为Rater1，故不能将其同时作为独立原文。
+未提供的独立原始语料文件,,步骤1：保真与结构校验,失败／停止,当前仅有Rater1（Beijing Normal University.txt）与Rater2（27_Beijing_Normal_University_10语步标准标注全文.txt）。两份标注剥离标签后的23行文本虽然完全一致，但这不能替代与独立原始语料的逐行、逐词校验。依据手册“任何一步校验失败立即停止、不得自行猜测或修复”，未生成配对CSV，也未执行后续标签分布及不一致行数统计。
