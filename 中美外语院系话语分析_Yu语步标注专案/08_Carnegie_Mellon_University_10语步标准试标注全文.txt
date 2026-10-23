@@ -3,7 +3,7 @@
 <M07>The Department of Languages, Cultures & Applied Linguistics features award-winning teachers and internationally recognized researchers.</M07>
 <M05><M04>Our research and teaching promotes language learning, deepens cultural understanding through literary and cultural studies and highlights cutting-edge technology-enhanced language learning.</M04></M05>
 
-<OTHER>Meet the Department</OTHER>
+<M10>Meet the Department</M10>
 
 <M09>Give Today</M09>
 
@@ -51,228 +51,228 @@ Pittsburgh, PA 15213
 Phone: (412) 268-5669
 Fax: (412) 268-1328</M10>
 
-<OTHER>View contact information for our department faculty</OTHER>
+<M10>View contact information for our department faculty</M10>
 
-<OTHER>Department Administrators</OTHER>
+<M01>Department Administrators
 
-<OTHER>Maya Best
-Experiential Learning and Study Abroad Coordinator</OTHER>
+Maya Best
+Experiential Learning and Study Abroad Coordinator
 
-<OTHER>Sue Connelly-Colizza
-Senior Academic Administrator</OTHER>
+Sue Connelly-Colizza
+Senior Academic Administrator
 
-<OTHER>Rachel Floyd
-Associate Director of Online Language Learning</OTHER>
+Rachel Floyd
+Associate Director of Online Language Learning
 
-<OTHER>Anne Lambright
-Department Head</OTHER>
+Anne Lambright
+Department Head
 
-<OTHER>Vera Lampley
-Senior Departmental Administrator</OTHER>
+Vera Lampley
+Senior Departmental Administrator
 
-<OTHER>Maddy Marrow
-Administrative Assistant</OTHER>
+Maddy Marrow
+Administrative Assistant
 
-<OTHER>Karen Richters
-Associate Director of Communications</OTHER>
+Karen Richters
+Associate Director of Communications
 
-<OTHER>Stefani Taskas
-Digital Learning Experience Developer</OTHER>
+Stefani Taskas
+Digital Learning Experience Developer
 
-<OTHER>Rémi Adam van Compernolle
-Associate Department Head</OTHER>
+Rémi Adam van Compernolle
+Associate Department Head
 
-<OTHER>Nicole Winston
-Director of Operations</OTHER>
+Nicole Winston
+Director of Operations</M01>
 
-<OTHER>Faculty</OTHER>
+<M01>Faculty
 
-<OTHER>Nevine Abraham
-Associate Teaching Professor of Arabic Studies</OTHER>
+Nevine Abraham
+Associate Teaching Professor of Arabic Studies
 
-<OTHER>Khaled Al Masaeed
-Associate Professor of Applied Linguistics, Second Language Acquisition and Arabic Studies</OTHER>
+Khaled Al Masaeed
+Associate Professor of Applied Linguistics, Second Language Acquisition and Arabic Studies
 
-<OTHER>Uju Anya
-Associate Professor of Second Language Acquisition</OTHER>
+Uju Anya
+Associate Professor of Second Language Acquisition
 
-<OTHER>Mathieu Berbiguier
-Visiting Assistant Professor of Korean Studies</OTHER>
+Mathieu Berbiguier
+Visiting Assistant Professor of Korean Studies
 
-<OTHER>Stephen Brockmann
-Professor of German Studies</OTHER>
+Stephen Brockmann
+Professor of German Studies
 
-<OTHER>Katharine E. Burns
-Associate Professor of Second Language Acquisition and Hispanic Studies</OTHER>
+Katharine E. Burns
+Associate Professor of Second Language Acquisition and Hispanic Studies
 
-<OTHER>Stephan Caspar
-Associate Teaching Professor in Media Creation and Multicultural Studies</OTHER>
+Stephan Caspar
+Associate Teaching Professor in Media Creation and Multicultural Studies
 
-<OTHER>Isabelle Chen
-Assistant Professor of Global French Studies</OTHER>
+Isabelle Chen
+Assistant Professor of Global French Studies
 
-<OTHER>Sébastien Dubreil
-Teaching Professor of Global French Studies, Second Language Acquisition and Technology-Enhanced Learning</OTHER>
+Sébastien Dubreil
+Teaching Professor of Global French Studies, Second Language Acquisition and Technology-Enhanced Learning
 
-<OTHER>Kenya C. Dworkin y Méndez
-Professor of Hispanic Studies; Director of the M.A. in Global Communication & Applied Translation Program</OTHER>
+Kenya C. Dworkin y Méndez
+Professor of Hispanic Studies; Director of the M.A. in Global Communication & Applied Translation Program
 
-<OTHER>José Estrada
-Associate Professor of Hispanic Studies</OTHER>
+José Estrada
+Associate Professor of Hispanic Studies
 
-<OTHER>Kiyono Fujinaga-Gordon
-Assistant Teaching Professor of Japanese Studies</OTHER>
+Kiyono Fujinaga-Gordon
+Assistant Teaching Professor of Japanese Studies</M01>
 
-<OTHER>Part-Time Faculty</OTHER>
+<M01>Part-Time Faculty
 
-<OTHER>Keely R. Austin
-Adjunct Instructor of Applied Linguistics & Second Language Acquisition</OTHER>
+Keely R. Austin
+Adjunct Instructor of Applied Linguistics & Second Language Acquisition
 
-<OTHER>Ester Hoogstaden
-Principal Lecturer of Global French Studies</OTHER>
+Ester Hoogstaden
+Principal Lecturer of Global French Studies
 
-<OTHER>Naum Kats
-Principal Lecturer of Russian Studies</OTHER>
+Naum Kats
+Principal Lecturer of Russian Studies
 
-<OTHER>Barbara Litt
-Senior Lecturer of Japanese Studies</OTHER>
+Barbara Litt
+Senior Lecturer of Japanese Studies
 
-<OTHER>Mary Jayne McCullough
-Lecturer of Global Communication & Applied Translation</OTHER>
+Mary Jayne McCullough
+Lecturer of Global Communication & Applied Translation
 
-<OTHER>Ethan Pullman
-Senior Lecturer of Arabic Studies</OTHER>
+Ethan Pullman
+Senior Lecturer of Arabic Studies
 
-<OTHER>Jon Ritzdorf
-Adjunct Instructor of Global Communication & Applied Translation</OTHER>
+Jon Ritzdorf
+Adjunct Instructor of Global Communication & Applied Translation
 
-<OTHER>Berit C. R. Royer
-Adjunct Lecturer of German Studies</OTHER>
+Berit C. R. Royer
+Adjunct Lecturer of German Studies
 
-<OTHER>Zhongxin (Cindy) Sun
-Principal Lecturer of Chinese Studies</OTHER>
+Zhongxin (Cindy) Sun
+Principal Lecturer of Chinese Studies
 
-<OTHER>Ziji Wang
-Adjunct Instructor of Chinese Studies</OTHER>
+Ziji Wang
+Adjunct Instructor of Chinese Studies
 
-<OTHER>Yukari Yamakawa
-Adjunct Instructor of Japanese Studies</OTHER>
+Yukari Yamakawa
+Adjunct Instructor of Japanese Studies
 
-<OTHER>Lihong Zhang
-Adjunct Instructor of Chinese Studies</OTHER>
+Lihong Zhang
+Adjunct Instructor of Chinese Studies</M01>
 
-<OTHER>Affiliated Faculty and Fellows</OTHER>
+<M01>Affiliated Faculty and Fellows
 
-<OTHER>Nicky Agate
-Associate Dean for Academic Engagement, Libraries</OTHER>
+Nicky Agate
+Associate Dean for Academic Engagement, Libraries
 
-<OTHER>Wendy Arons
-Professor of Dramatic Literature and Area Chair of Dramaturgy, School of Drama</OTHER>
+Wendy Arons
+Professor of Dramatic Literature and Area Chair of Dramaturgy, School of Drama
 
-<OTHER>Johannes DeYoung
-Associate Professor, School of Art</OTHER>
+Johannes DeYoung
+Associate Professor, School of Art
 
-<OTHER>Michal Friedman
-Assistant Teaching Professor & Jack Buncher Professor of Jewish Studies, Department of History</OTHER>
+Michal Friedman
+Assistant Teaching Professor & Jack Buncher Professor of Jewish Studies, Department of History
 
-<OTHER>Bertony Louis
-Research Fellow</OTHER>
+Bertony Louis
+Research Fellow
 
-<OTHER>Brian MacWhinney
-Director of Child Language Data Exchange System (CHILDES)</OTHER>
+Brian MacWhinney
+Director of Child Language Data Exchange System (CHILDES)
 
-<OTHER>Michael McEachrane
-Senior Research Fellow</OTHER>
+Michael McEachrane
+Senior Research Fellow
 
-<OTHER>Courtney Moffet-Bateau
-Visiting Researcher</OTHER>
+Courtney Moffet-Bateau
+Visiting Researcher
 
-<OTHER>Andreea Deciu Ritivoi
-William S. Dietrich Professor of English, Department of English</OTHER>
+Andreea Deciu Ritivoi
+William S. Dietrich Professor of English, Department of English
 
-<OTHER>Mukhtar Shehata
-Research Fellow</OTHER>
+Mukhtar Shehata
+Research Fellow
 
-<OTHER>Mandy Simons
-Professor, Department of Philosophy</OTHER>
+Mandy Simons
+Professor, Department of Philosophy
 
-<OTHER>Alina A. von Davier
-Chief of Assessment, Duolingo</OTHER>
+Alina A. von Davier
+Chief of Assessment, Duolingo</M01>
 
-<OTHER>Emeritus Faculty</OTHER>
+<M01>Emeritus Faculty
 
-<OTHER>Christian W. Hallstein
-Teaching Professor Emeritus of German</OTHER>
+Christian W. Hallstein
+Teaching Professor Emeritus of German
 
-<OTHER>Paul Hopper
-Paul Mellon Distinguished Professor Emeritus of the Humanities, Rhetoric and Linguistics</OTHER>
+Paul Hopper
+Paul Mellon Distinguished Professor Emeritus of the Humanities, Rhetoric and Linguistics
 
-<OTHER>Zeinab Ibrahim
-Teaching Professor</OTHER>
+Zeinab Ibrahim
+Teaching Professor
 
-<OTHER>Yasufumi Iwasaki
-Associate Teaching Professor Emeritus of Japanese</OTHER>
+Yasufumi Iwasaki
+Associate Teaching Professor Emeritus of Japanese
 
-<OTHER>Barbara Johnstone
-Professor Emeritus of English and Linguistics</OTHER>
+Barbara Johnstone
+Professor Emeritus of English and Linguistics
 
-<OTHER>Christopher Jones
-Teaching Professor Emeritus of French & Francophone Studies</OTHER>
+Christopher Jones
+Teaching Professor Emeritus of French & Francophone Studies
 
-<OTHER>Keiko Koda
-Professor Emeritus of Japanese and Second Language Acquisition</OTHER>
+Keiko Koda
+Professor Emeritus of Japanese and Second Language Acquisition
 
-<OTHER>Susan G. Polansky
-Teaching Professor Emeritus of Hispanic Studies</OTHER>
+Susan G. Polansky
+Teaching Professor Emeritus of Hispanic Studies
 
-<OTHER>Donald Sutton
-Professor Emeritus of Chinese Studies</OTHER>
+Donald Sutton
+Professor Emeritus of Chinese Studies
 
-<OTHER>G. Richard Tucker
-Paul Mellon University Professor of Applied Linguistics Emeritus</OTHER>
+G. Richard Tucker
+Paul Mellon University Professor of Applied Linguistics Emeritus
 
-<OTHER>Michael J. West
-Teaching Professor Emeritus of French and Francophone Studies</OTHER>
+Michael J. West
+Teaching Professor Emeritus of French and Francophone Studies
 
-<OTHER>Yueming Yu
-Teaching Professor Emeritus</OTHER>
+Yueming Yu
+Teaching Professor Emeritus</M01>
 
-<OTHER>Doctoral Students</OTHER>
+<M01>Doctoral Students
 
-<OTHER>Yumiko Adachi</OTHER>
+Yumiko Adachi
 
-<OTHER>Esther Airemionkhale</OTHER>
+Esther Airemionkhale
 
-<OTHER>Adam A. Bramlett</OTHER>
+Adam A. Bramlett
 
-<OTHER>Valencia Epps</OTHER>
+Valencia Epps
 
-<OTHER>Joseph Garcia</OTHER>
+Joseph Garcia
 
-<OTHER>Candice Guerbeau</OTHER>
+Candice Guerbeau
 
-<OTHER>Seungjoo (Skylar) Kim</OTHER>
+Seungjoo (Skylar) Kim
 
-<OTHER>Nour Kweider</OTHER>
+Nour Kweider
 
-<OTHER>Ryuki Matsuura</OTHER>
+Ryuki Matsuura
 
-<OTHER>Esha Mukherjee</OTHER>
+Esha Mukherjee
 
-<OTHER>Devon Renfroe</OTHER>
+Devon Renfroe</M01>
 
-<OTHER>Master's Students
-M.A. in Applied Linguistics & Second Language Acquisition</OTHER>
+<M01>Master's Students
+M.A. in Applied Linguistics & Second Language Acquisition
 
-<OTHER>Tianqi Geng</OTHER>
+Tianqi Geng
 
-<OTHER>Senia Golisek</OTHER>
+Senia Golisek
 
-<OTHER>Leo Luan</OTHER>
+Leo Luan
 
-<OTHER>Ran Miao</OTHER>
+Ran Miao
 
-<OTHER>Ace Ryszkowski</OTHER>
+Ace Ryszkowski</M01>
 
 <OTHER>About Us</OTHER>
 
@@ -309,7 +309,7 @@ P: (412) 268-4615</M10>
 <M08>Carnegie Mellon University is a member of the Folger Institute Consortium, a network of colleges and universities that supports research and teaching through the Folger Shakespeare Library in Washington, D.C.</M08>
 <M06>Consortium membership provides Carnegie Mellon faculty, graduate students, librarians, archivists, and affiliates with access to scholarly programs, collections, funding opportunities, and a vibrant interdisciplinary community of scholars.</M06>
 
-<M06>The Folger Institute supports research across a wide range of fields, including literature, history, theater, religion, philosophy, political thought, book history, bibliography, manuscript studies, material culture, and the history of science and medicine.</M06>
+<M04>The Folger Institute supports research across a wide range of fields, including literature, history, theater, religion, philosophy, political thought, book history, bibliography, manuscript studies, material culture, and the history of science and medicine.</M04>
 
 <OTHER>Consortium Benefits at a Glance</OTHER>
 
@@ -332,7 +332,7 @@ P: (412) 268-4615</M10>
 <M06>- Scholarly institutes and symposia</M06>
 <M06>- Dissertation seminars for doctoral students</M06>
 
-<M08>These programs bring together scholars from across North America and beyond to engage deeply with emerging research, methodologies, and archival materials.</M08>
+<M04><M08>These programs bring together scholars from across North America and beyond to engage deeply with emerging research, methodologies, and archival materials.</M08></M04>
 
 <OTHER>Registration Fee Waivers</OTHER>
 
@@ -364,18 +364,18 @@ P: (412) 268-4615</M10>
 
 <OTHER>Who Should Apply?</OTHER>
 
-<M06>Folger Institute programs may be of interest to scholars working in:</M06>
+<M04>Folger Institute programs may be of interest to scholars working in:
 
-<M06>- Shakespeare and Renaissance literature</M06>
-<M06>- Early modern history</M06>
-<M06>- History of science and medicine</M06>
-<M06>- Religious studies</M06>
-<M06>- Philosophy and political thought</M06>
-<M06>- Theater and performance studies</M06>
-<M06>- Book history and bibliography</M06>
-<M06>- Manuscript studies and paleography</M06>
-<M06>- Digital humanities</M06>
-<M06>- Art history and material culture</M06>
+- Shakespeare and Renaissance literature
+- Early modern history
+- History of science and medicine
+- Religious studies
+- Philosophy and political thought
+- Theater and performance studies
+- Book history and bibliography
+- Manuscript studies and paleography
+- Digital humanities
+- Art history and material culture</M04>
 
 <M08>Faculty, postdoctoral researchers, graduate students, librarians, archivists, and independent scholars regularly participate in Folger Institute programs.</M08>
 
@@ -408,39 +408,39 @@ swittek@andrew.cmu.edu</M10>
 <M06>The Folger Shakespeare Library is home to the world's largest Shakespeare collection and one of the most significant repositories of rare books, manuscripts, and early modern materials.</M06>
 <M06>Through the Folger Institute, Carnegie Mellon scholars gain access to a distinguished community of researchers and an unparalleled environment for the study of the early modern world.</M06>
 
-<OTHER>Our Leadership</OTHER>
+<M01>Our Leadership
 
-<OTHER>Executive Committee</OTHER>
+Executive Committee
 
-<OTHER>Department Head: Chris Warren</OTHER>
+Department Head: Chris Warren
 
-<OTHER>Director of Graduate Studies: Doug Coulson</OTHER>
+Director of Graduate Studies: Doug Coulson
 
-<OTHER>Director of Writing & Communication Program: Danielle Zawodny Wetzel</OTHER>
+Director of Writing & Communication Program: Danielle Zawodny Wetzel
 
-<OTHER>Director of Creative Writing Program: Lauren Shapiro</OTHER>
+Director of Creative Writing Program: Lauren Shapiro
 
-<OTHER>Director of Literary & Cultural Studies Program: Stephen Wittek</OTHER>
+Director of Literary & Cultural Studies Program: Stephen Wittek
 
-<OTHER>Director of Rhetoric Program: James Wynn</OTHER>
+Director of Rhetoric Program: James Wynn
 
-<OTHER>Directors of Film & Visual Media Program: Jeff Hinkelman</OTHER>
+Directors of Film & Visual Media Program: Jeff Hinkelman
 
-<OTHER>Director of Professional & Technical Communication Programs: Suguru Ishizaki</OTHER>
+Director of Professional & Technical Communication Programs: Suguru Ishizaki
 
-<OTHER>Department Management</OTHER>
+Department Management
 
-<OTHER>Business Manager: Beryl Omune</OTHER>
+Business Manager: Beryl Omune</M01>
 
 <OTHER>Faculty</OTHER>
 
-<OTHER>View all individual faculty profiles</OTHER>
+<M10>View all individual faculty profiles</M10>
 
-<OTHER>Faculty by Area of Study</OTHER>
+<M04>Faculty by Area of Study
 
-<OTHER>- Creative Writing
-- Emeritus
-- Film & Visual Media
+- Creative Writing</M04>
+<OTHER>- Emeritus</OTHER>
+<M04>- Film & Visual Media
 - Global Communication & Applied Translation
 - Gender Studies
 - Humanities Analytics
@@ -448,7 +448,7 @@ swittek@andrew.cmu.edu</M10>
 - Professional Writing
 - Rhetoric
 - Technical Writing & Communication
-- Writing & Communication</OTHER>
+- Writing & Communication</M04>
 
 <OTHER>Contact Us</OTHER>
 
@@ -456,25 +456,25 @@ swittek@andrew.cmu.edu</M10>
 Current Student Resources
 Courses</OTHER>
 
-<OTHER>Office Staff</OTHER>
+<M01>Office Staff
 
-<OTHER>Jess Bittel
-Director of Academic Affairs</OTHER>
+Jess Bittel
+Director of Academic Affairs
 
-<OTHER>Eyona Bivins
-Senior Administrative Coordinator</OTHER>
+Eyona Bivins
+Senior Administrative Coordinator
 
-<OTHER>Laura Donaldson
-Associate Director of Academic Affairs</OTHER>
+Laura Donaldson
+Associate Director of Academic Affairs
 
-<OTHER>Jessica Manack (part-time)
-Communications Specialist</OTHER>
+Jessica Manack (part-time)
+Communications Specialist
 
-<OTHER>Beryl Omune
-Financial Administrator</OTHER>
+Beryl Omune
+Financial Administrator
 
-<OTHER>Amy Stoebe
-Assistant Director of Writing & Communication</OTHER>
+Amy Stoebe
+Assistant Director of Writing & Communication</M01>
 
 <OTHER>Our Undergraduates</OTHER>
 
@@ -493,59 +493,59 @@ Alumni</M07>
 <M07>90+
 Members of Phi Beta Kappa</M07>
 
-<OTHER>Student Spotlights</OTHER>
+<M01>Student Spotlights
 
-<OTHER>Jimmy Baracia
+Jimmy Baracia
 Senior
 Graduation Date: May 2025
 Primary Major: Creative Writing
 Additional Major: Professional Writing
-Hometown: Brick, NJ</OTHER>
+Hometown: Brick, NJ
 
-<OTHER>Phoenix Bernardin
+Phoenix Bernardin
 Senior
 Graduation Date: May 2025
 Primary Major: Film & Visual Media
 Minor: Creative Writing
-Hometown: Torrington, CT</OTHER>
+Hometown: Torrington, CT</M01>
 
-<OTHER>M.A. Students in the Department of English</OTHER>
+<M01>M.A. Students in the Department of English
 
-<OTHER>Joanna Abel
-M.A. in Professional Writing</OTHER>
+Joanna Abel
+M.A. in Professional Writing
 
-<OTHER>Shanzeh Afzal
-M.A. In Literary and Cultural Studies</OTHER>
+Shanzeh Afzal
+M.A. In Literary and Cultural Studies
 
-<OTHER>Reem Alghazzi
-M.A. in Global Communication and Applied Translation</OTHER>
+Reem Alghazzi
+M.A. in Global Communication and Applied Translation
 
-<OTHER>Amani Alolayani
-M.A. in Global Communication and Applied Translation</OTHER>
+Amani Alolayani
+M.A. in Global Communication and Applied Translation
 
-<OTHER>Misha Aqil
-M.A. In Literary and Cultural Studies</OTHER>
+Misha Aqil
+M.A. In Literary and Cultural Studies
 
-<OTHER>Paul Beer
-M.A. in Rhetoric</OTHER>
+Paul Beer
+M.A. in Rhetoric
 
-<OTHER>Austin Culver
-M.A. in Rhetoric</OTHER>
+Austin Culver
+M.A. in Rhetoric
 
-<OTHER>Matthew Denton
-M.A. in Rhetoric</OTHER>
+Matthew Denton
+M.A. in Rhetoric
 
-<OTHER>Vanessa Dionicio
-M.A. in Global Communication and Applied Translation</OTHER>
+Vanessa Dionicio
+M.A. in Global Communication and Applied Translation
 
-<OTHER>Nellie Downie
-M.A. In Literary and Cultural Studies</OTHER>
+Nellie Downie
+M.A. In Literary and Cultural Studies
 
-<OTHER>Nathan Eke
-M.A. in Professional Writing</OTHER>
+Nathan Eke
+M.A. in Professional Writing
 
-<OTHER>David Gardner
-M.A. in Professional Writing</OTHER>
+David Gardner
+M.A. in Professional Writing</M01>
 
 <OTHER>Contact Us</OTHER>
 
@@ -559,31 +559,31 @@ Dietrich College of Humanities and Social Sciences</OTHER>
 <M10>Baker Hall 259, 5000 Forbes Avenue Pittsburgh, PA 15213
 (412) 268-2850</M10>
 
-<OTHER>Ph.D. Students in the Department of English</OTHER>
+<M01>Ph.D. Students in the Department of English
 
-<OTHER>Henry Aceves</OTHER>
+Henry Aceves
 
-<OTHER>Rose Chang</OTHER>
+Rose Chang
 
-<OTHER>Laura DeLuca</OTHER>
+Laura DeLuca
 
-<OTHER>Elizabeth Dieterich</OTHER>
+Elizabeth Dieterich
 
-<OTHER>Catherine Evans</OTHER>
+Catherine Evans
 
-<OTHER>Mercy Faleyimu</OTHER>
+Mercy Faleyimu
 
-<OTHER>Maria Ferrato</OTHER>
+Maria Ferrato
 
-<OTHER>Andrea Francioni Rooney</OTHER>
+Andrea Francioni Rooney
 
-<OTHER>Kiera Gilbert</OTHER>
+Kiera Gilbert
 
-<OTHER>Baron Glanvill</OTHER>
+Baron Glanvill
 
-<OTHER>Nat Hileman</OTHER>
+Nat Hileman
 
-<OTHER>Emma Johnson</OTHER>
+Emma Johnson</M01>
 
 <OTHER>Contact Us</OTHER>
 
@@ -628,7 +628,7 @@ Oakland Review</OTHER>
 
 <M02>2019: The M.A. in Global Communication and Applied Translation launches, along with a modernized English B.A., reimagined as: the B.A. in Literature and Culture.</M02>
 
-<M05>Today, the English Department features ten rich areas of study: First-Year Writing, Creative Writing, Professional Writing, Technical Writing, Literary and Cultural Studies, Rhetoric, Gender Studies, Humanities Analytics, Film & Visual Media, and Global Communication and Applied Translation.</M05>
+<M04><M05>Today, the English Department features ten rich areas of study: First-Year Writing, Creative Writing, Professional Writing, Technical Writing, Literary and Cultural Studies, Rhetoric, Gender Studies, Humanities Analytics, Film & Visual Media, and Global Communication and Applied Translation.</M05></M04>
 
 <OTHER>Our Affiliated Programs</OTHER>
 
@@ -646,7 +646,7 @@ Oakland Review</OTHER>
 
 <OTHER>Three Rivers Chapter: Rhetoric Society of America (RSA)</OTHER>
 
-<M01><M05>Comprised of Rhetoric graduate students, the Rhetoric Society of America (RSA) Three Rivers Chapter seeks to expand knowledge of and engagement with rhetorical studies through reading groups, student and faculty-led workshops, and departmental speaker series.</M05></M01>
+<M04><M05>Comprised of Rhetoric graduate students, the Rhetoric Society of America (RSA) Three Rivers Chapter seeks to expand knowledge of and engagement with rhetorical studies through reading groups, student and faculty-led workshops, and departmental speaker series.</M05></M04>
 
 <OTHER>Belt Magazine</OTHER>
 
