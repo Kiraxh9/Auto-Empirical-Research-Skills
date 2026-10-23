@@ -1,0 +1,269 @@
+<OTHER>Overview</OTHER>
+
+<M02>The School of Foreign Languages, Dalian University of Technology (DUT), was founded in the early days of DUT.</M02>
+<M02>Formerly known as the Department of Russian Teaching, it was responsible for DUT’s public foreign language teaching.</M02>
+<M02>In 1985, the Department of Foreign Languages was established, with an undergraduate major in English.</M02>
+<M02>In 2001, another undergraduate major in Japanese was established, and the right to confer master’s degrees in the sub-disciplines of “Foreign Linguistics and Applied Linguistics” was granted.</M02>
+<M02>In 2003, the Department of Foreign Languages was restructured into the School of Foreign Languages, and gained the right to confer master’s degrees in the sub-disciplines of “English Language and Literature”.</M02>
+<M02>In 2010, the School of Foreign Languages obtained the right to confer a master’s degree in “Foreign Language and Literature” and a master’s degree in Translation and Interpreting (MTI).</M02>
+<M02>In addition, two master programs in sub-disciplines were initiated, namely, “Foreign Linguistics and Applied Linguistics” and “Japanese Language and Literature”.</M02>
+<M02>In 2012, the undergraduate major in translation was created.</M02>
+<M02>In 2013, the School established undergraduate majors in Russian and business English (Panjin Campus).</M02>
+<M07>English, Japanese, and translation majors are national first-class undergraduate majors, and Russian and business English majors are first-class exemplary undergraduate majors in Liaoning Province.</M07>
+
+<M01>The School of Foreign Languages consists of six teaching units: the Department of English, the Department of Japanese, the Department of Russian, the Department of Translation, the Department of Postgraduate English Teaching, and the Department of College English Teaching.</M01>
+<M01>The School of Foreign Languages at Panjin Campus includes the Department of Business English Teaching and the Department of General Foreign Language Teaching.</M01>
+<M01>The Development Zone Campus has a Foreign Language Teaching Center.</M01>
+<M01>Furthermore, the School of Foreign Languages has a variety of research institutions, including Liaoning Public Culture Research Base, the Institute of Japanese Studies, the Research Center of Contemporary Discourse, the Research Center of Classics Translation and Cross-cultural Communication, the Institute of Theoretical Linguistics, the Institute of Literature and Philosophy, the Research Center of Language and Cognitive Science, etc.</M01>
+<M07><M01>Moreover, the School of Foreign Languages has been approved as a “Ministry of Education’s Innovation and Practice Base for Cultivating High-level Talents”, with a Foreign Language Practice Center and a Foreign Languages Test Center.</M01></M07>
+<M01>The academic journal Foreign Language Education & Research is currently hosted by the School of Foreign Languages.</M01>
+
+<M06>Currently, the School of Foreign Languages has a high-level teaching and research team, composed of both domestic and foreign teachers.</M06>
+<M06><M07>There are 149 faculty members (135 full-time teachers), 20 professors, 52 doctoral degree holders, 1 recipient of Government Allowances of the State Council, 2 prominent teachers of Liaoning Province, 2 “Baosteel” excellent teachers, and 1 excellent tutor of Liaoning Province.</M07></M06>
+<M07>In the past five years, full-time teachers of the School have presided over 23 projects supported by the National Social Science Fund of China, and 21 humanities and social science projects supported by the Ministry of Education.</M07>
+<M07>More than 100 high-level research articles have been published both at home and abroad, including many appearing in top international and domestic journals.</M07>
+<M07>Furthermore, over 40 academic monographs and 32 translated works have been published.</M07>
+
+<M07>The School of Foreign Languages has gained many achievements and awards, including more than 10 Provincial Awards for Philosophy and Social Sciences, 6 Awards for Teaching Achievements of Liaoning Province, 1 national first-class course, 31 provincial first-class courses, one National Award for Textbook Construction and one Provincial Award of the same category, among 12 published textbooks.</M07>
+<M07>The reputation of teachers at the School of Foreign Languages has been notably improved in domestic and international academic circles, and 10 of them are currently serving as vice presidents or executive directors on national academic committees.</M07>
+
+<M03><M04>Relying on the disciplinary platform at DUT, the School of Foreign Languages has been committed to inter-disciplinary development and a problem-oriented approach, under the concept of “New Liberal Arts”.</M04></M03>
+<M04><M03>According to national strategic demands and first-class talent training, literature, history, and philosophy have been integrated with science, engineering, and medicine.</M03></M04>
+<M04>Based on these concepts, the School of Foreign Languages has five distinguished areas of research: language and cognitive neuroscience, foreign literature, foreign linguistics and applied linguistics, translation studies, and area studies.</M04>
+<M04>With their unique features, specific research directions are as follows: cognitive and neuroscience linguistics, literary hermeneutics, legal linguistics, critical discourse studies, translation of classics, studies on Japanese issues, and language acquisition.</M04>
+<M07>In the last five years, the School of Foreign Languages has made great progress in disciplinary development, ranking in the top 11% in the country, 25th among China’s foreign language disciplines, according to Shanghai Ranking in October 2019.</M07>
+
+<M03><M05>With the principle of cultivating people with moral integrity, the School of Foreign Languages has been dedicated to training talents with all-round development, including moral integrity, intellectuality, physicality, and aesthetics, to meet the needs of China’s socialist modernization.</M05></M03>
+<M05><M03>Talents from the School of Foreign Languages will demonstrate their solid academic foundation and strong innovative ability, with feelings of national identity and international vision.</M03></M05>
+<M03>As high-level versatile talents in foreign languages, they will make their efforts to help the School of Foreign Languages gain a higher reputation in teaching, research, and talent training both domestically and abroad.</M03>
+
+<OTHER>Leadership</OTHER>
+
+<M10>Chen Hongjun Title: Dean of SFL, Vice Secretary of CPC SFL Committee Responsibilities: in charge of the administrative affairs and discipline development Tel: 0411-84707871 Email: chenhj@dlut.edu.cn</M10>
+
+<M10>Zhang Li Title: Secretary of CPC SFL Committee Responsibilities: in charge of party committee work Tel: 0411-84708345 Email: zlzzb@dlut.edu.cn</M10>
+
+<M10>Xu Mingying Title: Deputy Secretary of the CPC Committee, Secretary of the Committee for Discipline Inspection, Vice Dean of SFL Responsibilities: in charge of scientific research, foreign affairs, discipline inspection Tel: 0411-84706135 Email: xumingy@dlut.edu.cn</M10>
+
+<M10>Sun Chengzhi Title: Vice Dean of SFL Responsibilities: in charge of the postgraduate education, postgraduate student affairs Tel: 0411-84708553 Email: czsun@dlut.edu.cn</M10>
+
+<M10>Ding Man Title: Vice Dean of SFL Responsibilities: in charge of the undergraduate education Tel: 0411-84708567 Email: dingman96@dlut.edu.cn</M10>
+
+<M10>Qin Zhiqiang Title: Deputy Secretary of the CPC Committee, Vice Dean of SFL Responsibilities: in charge of the undergraduate student affairs, alumni Tel: 0411-84708951 Email: qinzhiqiang@dlut.edu.cn</M10>
+
+<OTHER>Administration</OTHER>
+
+<M10>Jiang Hongmei Job Responsibility: Executive Affairs Tel: 0411-84707387 Email: jianghm@dlut.edu.cn Address: Room 417, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Pan Di Job Responsibility: Tel: 0411-84707063 Email: pandi@dlut.edu.cn Address: Room 417, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Li Wei Job Responsibility: Student Affairs (Undergraduates) Tel: 0411-84708566 Email: liweidut@dlut.edu.cn Address: Room 315, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Li Jing Job Responsibility: Undergraduate Affairs Tel: 0411-84708564 Email: waiyulijing@dlut.edu.cn Address: Room 415, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Zhang Tianhao Job Responsibility: Student Affairs (Graduates) Tel: 0411-84708566 Email: zhangtianhao@dlut.edu.cn Address: Room 315, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Sun Xiao Job Responsibility: Graduate Affairs Tel: 0411-84707856 Email: sunxiao@dlut.edu.cn Address: Room 415, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Zheng Hao Job Responsibility: Personnel Affairs Tel: 0411-84708560 Email: dlutzhenghao@dlut.edu.cn Address: Room 415, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M10>Zhao Xue Job Responsibility: Testing Center, Equipment Management Tel: 0411-84707329 Email: zhaoxue@dlut.edu.cn Address: Room 415, Haiyan Building, School of Foreign Languages at DUT</M10>
+
+<M01>Departments English Department Teaching and Research Office for Non-English-Major Postgraduates Department of Japanese School of Foreign Languages, DUT, Panjin Campus Introduction to Foreign Language Education Center, Development Zone Campus, DUT Department of Translation and Interpretation Department of Russian Teaching and Research Department of College English</M01>
+
+<OTHER>English Department</OTHER>
+
+<M02><M07>The English Department was established in 1985 and is one of the first English majors established in China’s higher institutions of science and technology.</M07></M02>
+<M05>Relying on the research university characteristics and engineering advantages of Dalian University of Technology, a unique compound talent cultivation model was formed in the context of the intersection of arts and sciences.</M05>
+
+<M02><M07>In 2001, it was granted the right to award a master’s degree in foreign linguistics and applied linguistics; in 2003, it was granted the right to award a master’s degree in English language and literature; in 2010, it was granted the right to award a master’s degree in foreign languages and literature; in 2012, it began to recruit doctoral students under the first-level discipline of philosophy; in 2019, it was selected as one of the first national first-class undergraduate major construction sites.</M07></M02>
+
+<M06>The English Department currently has 20 teachers, including 6 professors, 9 associate professors, 2 doctoral supervisors, 17 master’s supervisors, and 15 with doctoral degrees.</M06>
+<M06>Every year, there are 4 foreign teachers teaching in the department.</M06>
+
+<M05>The English Department implements a large-scale enrollment, and general education is implemented in the first year.</M05>
+<M10><M05>At the end of the first academic year, the majors are divided according to the principle of "volunteer first, grade ranking", and then students enter the English major and translation major respectively.</M05></M10>
+<M05>In the next three years, they will be cultivated according to the corresponding professional cultivation plan.</M05>
+<M05><M03>The English Department aims to cultivate high-quality international composite talents with a combination of English and interdisciplinary qualities, strong critical thinking, practical ability, research ability, patriotic sentiment, outstanding English professional qualities, and strong comprehensive practical ability.</M03></M05>
+
+<M05>Core courses of the major: Introduction to Linguistics, English Lexicology, Stylistics, Pragmatics, British Classical Literature, British Modern and Contemporary Literature, American Modern and Contemporary Literature, Western Literary Theory, Western Civilization History, Western Thought Classics, English-Chinese Translation, Translation of Chinese Culture, Interpretation and Spread of Chinese Culture in the West, Introduction to International Relations, etc.</M05>
+
+<M05>The major is based on cultivating students’ solid basic language skills, focusing on constantly expanding students’ knowledge, improving critical thinking and logical analysis abilities, and cultivating students’ deep understanding of Western thoughts and culture and cultivating an international vision for students.</M05>
+<M05>In teaching, we adopt a small group cooperative learning model, a project-based teaching model, and a tutor-guiding model, emphasizing the storage of humanistic knowledge and the shaping of values while improving language skills.</M05>
+<M05>Regularly hold English imitation competitions, speech competitions, and debates to provide students with a stage for language practice and display.</M05>
+
+<M07>Graduates Whereabouts: finance, government agencies, the Internet, management consulting, education, foreign trade, etc.</M07>
+
+<OTHER>Teaching and Research Office for Non-English-Major Postgraduates</OTHER>
+
+<M01>Director: Cao Shuo</M01>
+
+<M06>The Teaching and Research Office for Non-English-Major Postgraduates boasts of a team with rich teaching experiences, high academic standards and reasonable age structure.</M06>
+<M06>At present, there are 12 full-time teachers, including three professors, four associate professors, among whom nine hold doctoral degree.</M06>
+<M06>Another two foreign teachers are undertaking teaching duties.</M06>
+<M05>The office is mainly responsible for teaching English courses of different levels to non-English-major postgraduates--both masters’ and doctors’ candidates included, and the core courses cover Reading and Writing, and Oral Communication.</M05>
+<M07>The teachers of the office are diligent in both teaching and academic research, and have gained many important achievements.</M07>
+<M07>In recent years, several teachers have received social science funds at national, provincial and ministerial levels.</M07>
+<M07>A great sum of papers have been published in core journals at home and abroad, as well as a number of monographs and translations.</M07>
+<M07>The office has undertaken multiple provincial and university-level educational reform projects.</M07>
+<M07>It has been approved for several high-quality graduate courses, with three of them being designated as exemplary courses for ideological and political education.</M07>
+<M07>Additionally, the teachers have published about 20 textbooks for postgraduate public English courses.</M07>
+<M07>As a result, they have received the first prize for excellent teaching achievements at the provincial level, several awards for outstanding teaching achievements at the university level, and awards in various teaching competitions.</M07>
+
+<M03>United, energized and motivated, the Teaching and Research Office for Non-English-Major Postgraduates has been committed to making greater contributions for the school of foreign languages and the nurture of postgraduate students in DUT.</M03>
+
+<OTHER>Department of Japanese</OTHER>
+
+<M01>Director: You Zhishen Vice directors: Mu Hong, Cheng Fangfang, Fang Guangrui</M01>
+
+<M06><M07>Currently, there are 24 full-time teachers in the Department of Japanese, including 4 professors (with 1 recipient of Special Government Allowances of the State Council), 15 associate professors, and 3 Japanese foreign teachers.</M07></M06>
+<M06>Among them, more than two thirds gained their PhD degrees in prominent Japanese universities, and all of the teachers have experience studying or researching in Japan.</M06>
+<M07>Currently various academic projects of different levels have been approved, involving 8 projects supported by the National Social Science Fund of China, 8 social science projects supported by Ministry of Education, 12 projects supported by provincial Social Science Fund of China.</M07>
+<M07>Over 30 monographs and translated works have been published, together with nearly 100 textbooks.</M07>
+<M07>In terms of academic achievements, 5 research articles have been published in the SSCI (Social Science Citation Index), and around 20 in CSSCI (China Social Science Citation Index).</M07>
+<M07>In the past five years, the Department of Japanese has gained 1 National Award for Teaching Achievements, 6 Provincial Award for Teaching Achievements and nearly 30 teaching awards in competitions above the provincial level.</M07>
+<M05>The Department of Japanese is responsible for teaching Japanese-majors, Japanese intensive courses, college Japanese teaching, Japanese minor teaching and Japanese as second foreign language teaching.</M05>
+<M07>Among the courses, 8 of them are first-class courses at the provincial level.</M07>
+
+<M02>Our Japanese undergraduate major was founded in 2001.</M02>
+<M07>In 2019, the Japanese major was classed as a first-class undergraduate major in Liaoning Province, and in 2022, it became a national first-class undergraduate major.</M07>
+<M05><M03>At the Department of Japanese, students will be equipped with international vision, solid Japanese language proficiency, strong cross-cultural communication competence, specific economic and technological knowledge and basic scientific research ability, so that they can become high-level international versatile talents and adapt to national economic and social development.</M03></M05>
+<M05><M08>Our Japanese major has always been committed to being “student-oriented”, emphasizing the integration of science and art disciplines; By virtue of the disciplinary advantages of Japanese language, literature and area studies, we have created an undergraduate-postgraduate integrated training system which is an unique feature in Northeast Asia; With the geographical advantage and DUT’s communication platform with Japan, the Department of Japanese has cooperation with 29 prominent Japanese universities, on long-term and short-term overseas study, credit transfer, exchange students and communication on courses, etc.</M08></M05>
+<M08>All of the students studying the Japanese major have online or offline access to international communication.</M08>
+<M08>Over half of the students study abroad at Japanese universities (e.g., Osaka University, Nagoya University), and there is also cooperation and communication on courses with Osaka University and Tohoku University.</M08>
+<M08>The Department of Japanese has established long-term cooperative relationships on translation internship with a variety of institutions, including Intellectual Property Publishing House, Foreign Affairs Office of Dalian Municipal Government, China Council for the Promotion of International Trade (Dalian Sub-council) and Japanese enterprises operated in Dalian.</M08>
+<M07>More than half the graduates from the Japanese major enter outstanding universities for further study domestically or abroad, such as The University of Tokyo, Waseda University, Peking University, Renmin University of China, Beijing Foreign Studies University, etc.</M07>
+<M07>Other students turn to employment in translation, management, secretary, education, foreign affairs, business and trade, etc. in institutions like Dalian Municipal Government, Huawei, Baidu, SAP, Toyota, governments, public institutions, foreign IT enterprises, other enterprises, banks and financial companies.</M07>
+
+<OTHER>School of Foreign Languages, DUT, Panjin Campus</OTHER>
+
+<M02>The School of Foreign Languages, DUT, Panjin Campus, was a former subdivision of the School of Arts and Law.</M02>
+<M02>In November 2019, the former School of Arts and Law was reorganized, and the business English major was restructured into the School of Foreign Languages, DUT, Panjin Campus.</M02>
+
+<M03>The School of Foreign Languages, DUT, has been committed to building prominent high-level foreign language disciplines through its unique features in China.</M03>
+<M02><M05>It was granted the right to confer master’s degrees in the sub-disciplines of Foreign Linguistics and Applied Linguistics and English Literature.</M05></M02>
+<M02><M05>Subsequently, it gained the right to confer master’s degrees in Foreign Language and Literature, and Masters of Interpreting and Translation (MTI).</M05></M02>
+<M07>In addition, it has been responsible for many research projects at national, provincial and ministerial levels, winning a variety of academic awards.</M07>
+
+<M06>In the School of Foreign Languages, Panjin Campus, there are various professional training rooms, including simultaneous interpreting training rooms, remote meeting rooms, business negotiation training rooms, rooms for self-learning platform, simulation rooms, and more.</M06>
+<M05>Its Department of Business English (business English undergraduate major) mainly focuses on business negotiation, business trade, business communication, etc.</M05>
+
+<M05>The business English undergraduate major endeavors to train talents with a solid foundation, international vision and humanistic quality.</M05>
+<M05>Students from business English will grasp knowledge on linguistics, economics, management, international business law, basically and theoretically, and learn principles and conventions in international business, equipped with English application ability, business practice ability, critical thinking and innovation ability and self-learning ability.</M05>
+<M05>In this manner, they will become versatile talents in international business.</M05>
+<M05>The unique feature of the business English major is the equal emphasis on international business and English proficiency, rooted in science and engineering.</M05>
+<M05>With integrated disciplines, theories and practice will be strengthened, together with international vision and learning ability.</M05>
+
+<M05>Major courses: Cross-cultural Communication, Business Negotiation, International Business Etiquette and Culture, Business Interpreting, Business Translation, Market Promotion, Business Practice, International Finance, International Contract; and optional courses on management and finance.</M05>
+
+<M07>Business English majors are qualified for employment in international business companies, transnational corporations, public relation department, reception division, promotion department, human resource department and financial department and training department (translation, secretary and management) in foreign-related institutions (especially those for science and engineering background); translation, management and daily operations in foreign-related department in national and local governments; agents, business assistants, business translator, business negotiators in international trade or import and export trade (especially those for science and engineering background), etc.</M07>
+
+<OTHER>Introduction to Foreign Language Education Center, Development Zone Campus, DUT</OTHER>
+
+<M01>The Foreign Language Education Center is located in the Development Zone Campus, DUT, and is comprised of the “English teaching and research office” and “Japanese teaching and research office”, with a “laboratory of foreign language education on engineering discipline” subdivision.</M01>
+<M06>Currently, there are 22 full-time teachers, including 2 professors, 9 associate professors, 10 lecturers and 1 teaching assistant.</M06>
+<M01>And there is one director, one vice director and an assistant in the center.</M01>
+
+<M05><M07>Following the development of the Development Zone Campus and demands for talent training, the Center has formulated a mature “information+foreign languages” teaching pattern, which has made great contributions in the training of versatile and practical talents with international vision.</M07></M05>
+<M04>Regarding scientific research, the Center mainly concentrates on the application of information technology in foreign language studies, such as big data and artificial intelligence.</M04>
+
+<OTHER>English Teaching and Research Office</OTHER>
+
+<M02><M05>The English Teaching and Research Office was established in August, 2002, and is responsible for the English teaching of undergraduate and postgraduate (masters and doctors) students from three Schools on the Development Zone Campus.</M05></M02>
+<M03><M05>With the principle of cultivating people with moral integrity, supported by leaders of DUT and Development Zone Campus, efforts have been made by all teachers to explore college English teaching in the new era.</M05></M03>
+<M05><M03>For building first-class disciplines and training first-class talents, a cooperative team of “English+majors” has been established, with intensified and unique “English+information” curricula.</M03></M05>
+<M07>At present, the English Teaching and Research Office has a National First-class Course English for IT Industry, Provincial First-class Courses Academic Paper Writing (Computer Science) and Comprehensive English 3, and DUT First-class Course English Comprehensive Ability Promotion.</M07>
+<M07>With these efforts, English proficiency of students on the Development Zone Campus has improved.</M07>
+<M07>Students have got outstanding awards in competitions like the National English Competition for College Students, CCTV English Speaking & Talent Competition, National 5-min Speech Scientific Research Competition for College Students, National Academic Vocabulary Competition for College Students, UNIPUS Speech Competition, British Parliamentary Debate Competition, DUT Speech Competitions and DUT Debate Competitions.</M07>
+<M07>The English ability of our students has received favorable comments from employers and other parties.</M07>
+
+<M06>There are now 10 full-time teachers at the English Teaching and Research Office, including a professor, 4 associate professors, 3 lecturers and 2 teaching assistants.</M06>
+<M07><M06>After several years of development, we have created an excellent teaching and research team with great passion and humanistic care: there is a Provincial Prominent Teacher; four teachers have achieved “DUT’s Teaching Quality: Honorable Award”; many teachers have gained “DUT’s Teaching Quality: Excellent & Good Award”; teachers from the English Teaching and Research Office have won the first and second-prizes at DUT’s Teaching Competition for Young Teachers Teaching Competition for Young Teachers.</M06></M07>
+<M07>In addition, multiple national, provincial and DUT’s projects on teaching reform and scientific research have been approved.</M07>
+
+<OTHER>Japanese Teaching and Research Office</OTHER>
+
+<M06>Currently, there are 12 full-time teachers in the Japanese Teaching and Research Office, with one professor, 5 associate professors and 6 lecturers.</M06>
+<M05>Following a student-oriented teaching philosophy, we aim to equip students with a solid Japanese language foundation and communication skills.</M05>
+<M05>By implementing reform and innovation in our teaching methods, we have achieved effective teacher-student interaction and interaction among students in and out of class, online and offline.</M05>
+
+<M07>The Japanese Teaching and Research Office has made fruitful achievements in teaching and scientific research.</M07>
+<M07>Teachers once gained the Teaching Achievement Award: winning First Prize both at Liaoning Provincial level and at the University level.</M07>
+<M07>“Comprehensive Japanese” and “Japanese Listening and Speaking” have been rated as DUT’s excellent courses.</M07>
+<M07>Concerning scientific research, several national, provincial and ministry programs have been approved and supported by National Social Science Fund of China, Humanities and Social Science Fund of Ministry of Education, or National Natural Science Foundation of China (General Program).</M07>
+<M07>A variety of monographs, books and dictionaries have been published collectively.</M07>
+<M07><M08>Teachers have attended multiple international academic conferences, with a number of research articles published.</M08></M07>
+
+<OTHER>Department of Translation and Interpretation</OTHER>
+
+<M01>Director: Guan Xiaowei Deputy Director: Wang Shichao</M01>
+
+<M02><M07>Founded in 2012, the Department of Translation and Interpretation has cultivated graduates for eight years in a row.</M07></M02>
+<M07>At the undergraduate level, the Major of Translation and Interpretation was approved as the demonstration major for common undergraduate higher education institutions in Liaoning Province to transform into applied higher education institutions in 2017, the provincial first-class undergraduate education demonstration major in 2019, and the national first-class undergraduate major construction site in 2022.</M07>
+<M07>In 2023, the major ranked No.12 in 2023 Best Chinese Universities Ranking, and was rated as a Class A major.</M07>
+
+<M06>The Department now has 12 full-time teachers, including three professors and seven associate professors.</M06>
+<M06>Six teachers are PhDs and six are masters.</M06>
+<M06>All teachers have overseas study or visiting experience.</M06>
+<M06>Besides, three foreign teachers teach here every year.</M06>
+<M07>The Department has won the first prize of Excellent Teaching Achievement Award of Liaoning Province, and has one national high-quality video open course and ten first-class courses in Liaoning Province.</M07>
+
+<M05><M03>The Major of Translation and Interpretation aims at cultivating high-quality inter-disciplinary talents with profound humanistic quality, global perspective and cross-cultural communication ability, as well as ensuring that they know international rules, understand diverse cultures, and have the ability to spread excellent Chinese culture abroad.</M03></M05>
+<M05>Students are supposed to have comprehensive knowledge structure, proficient translation and interpreting ability, strong professional and comprehensive ability, as well as good practical and innovation ability.</M05>
+
+<M05><M08>The Department improves students’ cross-cultural communication skills and global competence through various activities, such as multilingual skill competitions, multilingual cultural performances, translation and interpreting competitions, debate competitions, college students' innovation and entrepreneurship programs, translation practice of scientific and academic frontier documents, translation practice of international engineering professional certification reports, translation practice for the Dalian University of Technology History Museum, Dalian Davos Forum, the Model United Nations, the World University Student Leaders Camp, the Global Youth Leadership Academy and the International Language and Culture Study Camp.</M08></M05>
+
+<M06>The Department has foreign language smart classrooms, 3D foreign language virtual training rooms, an SDL Trados computer-aided translation laboratory, and a NewClass simultaneous interpretation laboratory.</M06>
+<M05>The teachers implement student-centered, problem-oriented, seminar-based, simulation-based and project-based teaching methods to cultivate high-quality translators and interpreters.</M05>
+
+<M05>The core courses include the following: Integrated English, English Speech and Debate, Critical Thinking and Writing, Introduction to Chinese Culture, Intercultural Communication and Management, Introduction to Translation, English-Chinese Translation, Chinese-English Translation, English Translation of Chinese Culture, News Translation, Liaison Interpreting, Consecutive Interpreting, Foreign Affairs Interpreting, Diplomatic Interpreting and Translation Technology, etc.</M05>
+
+<M07>Graduates have the requisite skills and knowledge to engage in any work related to translation, interpreting or international communication in fields such as foreign affairs, science and technology, commerce, finance, management, news, law, etc. in foreign affairs departments of government agencies at all levels, foreign-related enterprises, financial institutions, education and scientific research institutions, etc.</M07>
+
+<OTHER>Department of Russian</OTHER>
+
+<M01>Director: Li Yanchun Vice director: Cao Haiyan</M01>
+
+<M02>The Russian major was established in 2013.</M02>
+<M03><M05>By committing to cultivating people with moral integrity, the Department of Russian aims to train professional talents with “high moral qualities, a strong sense of responsibility, wide knowledge scope, outstanding ability, proficient comprehensive competence and international vision”.</M05></M03>
+<M05>By virtue of DUT’s advantage in science and engineering disciplines, the Department of Russian accentuates its strength in teaching Russian translation of technology based on multiple disciplines: science, engineering, economics, management, arts, law, philosophy, etc., in an effort to coordinate comprehensively in the construction of a “Russian combined with science and engineering disciplines” training pattern.</M05>
+<M03><M05>On the other hand, according to national demand, the Department of Russian actively participates in the national strategy to further internationalization and elevate soft power by laying solid humanity literacy in students.</M05></M03>
+<M05>Furthermore, considering DUT’s development in area studies and demand for applied foreign language talents, the Department of Russian has added “diplomacy on technology and culture” training, and inherited the tradition of technology Russian.</M05>
+<M08>Moreover, the Department of Russian has concrete cooperation with universities in Russia, Belarus and Ukraine, with academic communication and people exchanges.</M08>
+
+<M06>Currently, there are 7 teachers in the Department of Russian.</M06>
+<M06>Among them, there is one professor, and 3 associate professors; 6 supervisors of master’s degree; 4 doctor degree holders; In addition, the Department of Russian also employs Russian teachers with doctor’s degree and senior title.</M06>
+
+<M05>Main curriculum: Basic Russian, Advanced Russian, Russian Grammar, Viewing, Listening and Speaking of Russian, Russian Reading, Russian Writing, Workshops of Russian Translation and Interpreting, Translation Practice of Technology in Russian, Translation Practice of Business in Russian, Writing Supervision on Russian Thesis, History of Russian Literature, A General Introduction to Russia, An Introduction to Russian Linguistics, Rhetoric Device Practice of Russian, Russian Speech Training, Area Studies on Russia, Cultural Diplomacy and Sino-Russia Relationship, etc.</M05>
+
+<OTHER>International communication and cooperation programs</OTHER>
+
+<M08>The Department of Russian has signed international cooperative agreements with Bauman Moscow State Technical University, Belarusian State University and L.N. Gumilyov Eurasian National University, respectively.</M08>
+<M08><M06>Moreover, it has also signed international funding agreements on fellowship programs with Moscow State University of Economics, Statistics and Informatics (MESI), Institute of the State Administration (ISA), Tomsk Polytechnic University, Pacific National University, St. Petersburg Polytechnic University, Far Eastern University of Railway Transport and Ural Federal University.</M06></M08>
+
+<OTHER>International communication activities</OTHER>
+
+<M08>Since 2015, the Department of Russian has organized international summer camps with Bauman Moscow State Technical University and Moscow School of Social and Economic Sciences.</M08>
+<M08>Hundreds of students participated in the activities of online/offline communication with Belarusian State University and Petrozavodsk State University.</M08>
+
+<M08><M05>With the Russian World Foundation, Sino-Belarus International Culture Exchange Center and Foreign Language Education Practice Bases, the Department of Russian provides practice opportunities for students, such as “Dalian Forum” and “China-Belarus Education Year”.</M05></M08>
+<M05>By training talents through practice, it will achieve an integration of science and education among disciplines.</M05>
+<M05>In this way, knowledge scope can be further expanded through practice, together with theoretical teaching.</M05>
+
+<M07>Directions after graduation: bank management, maritime management, promotion management, education and research institutions, foreign trade enterprises and institutions functioning abroad.</M07>
+
+<M05>The Russian major has been entitled with the right to confer bachelor’s degree and master’s degree.</M05>
+
+<OTHER>Teaching and Research Department of College English</OTHER>
+
+<M06>Teaching and Research Department of College English is currently staffed by 32 members, including 4 professors, 19 associate professors, 7 lecturers and 2 foreign teachers.</M06>
+<M06>11 of them are master supervisors.</M06>
+<M06>94% of them had the overseas research experience for one year or more than one year.</M06>
+<M05>The department is responsible for college English teaching of first-year and second-year non-English major undergraduates.</M05>
+
+<M07>Responsible for 2 National Social Science Fund Projects and more than 10 projects of Ministry of Education and provincial/municipal level, the teachers of the department have published more than 100 papers in important domestic journals and more than 20 textbooks, monographs and translations.</M07>
+<M07>The course of “College English” is “National Demonstration Unit of College English” and “College English Excellent Course in Liaoning Province”, winning the third prize of Provincial Excellent Teaching Achievement.</M07>
+<M07>College English 1- Critical Reading and other four courses have been approved as First-class Undergraduate Courses in Liaoning Province.</M07>
+<M07>One teacher won the Excellent Teacher of Baogang Education Award.</M07>
+
+<M03><M05>The department, combining the guiding ideology of “new liberal arts” with the background of science and engineering of DUT, based on the new requirements for high-quality talents, has unified instrumental value, humanistic value and international value of foreign languages to form a distinctive path for the cultivation of specialized talents.</M05></M03>
