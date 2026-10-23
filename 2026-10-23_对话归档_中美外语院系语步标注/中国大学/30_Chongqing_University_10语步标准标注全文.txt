@@ -1,0 +1,28 @@
+<OTHER>About Us</OTHER>
+
+<M02>Founded in 1932, School of Foreign Languages and Cultures (FLC) has now grown into one of the largest schools of humanity studies at Chongqing University.</M02>
+<M03>The mission of FLC is to cultivate high-level foreign language professionals with multi-disciplinary knowledge and international expertise.</M03>
+<M07>It is now one of the finest research and education centers for the study of foreign languages, literature, and culture in Southwest China.</M07>
+<M07>The School’s reputation for excellence keeps growing as it continues to improve its curriculum, teaching methods and educational technology to meet the challenges of China’s rapid social and economic development.</M07>
+
+<M05>The School offers 1 PhD program, 3 BA programs, 6 MA programs, and a variety of English courses for non-English majors at Chongqing University.</M05>
+<M04>The School has established a Research Center of Language Cognition & Language Application, in which there are 7 research institutes.</M04>
+<M07>During recent years, the faculty has conducted over 80 research projects commissioned by China’s National Social Sciences Plan, the Ministry of Education’s Social Sciences Research Project and Chongqing Municipality Social Sciences Research Project.</M07>
+<M07>The faculty members have published hundreds of monographs, textbooks, translations and research papers, some of which have won prestigious awards.</M07>
+
+<M06>The School is well equipped with up-to-date facilities and resources for teaching, learning and research, including a Language E-Learning Center, multi-media language laboratories, a computer-aided translation (CAT) lab, and other equipment and devices.</M06>
+
+<M08>In keeping with an ever-expanding global community, the School has established close relationships with schools and universities in the United Kingdom, the United States, Australia, Canada, Japan and Hong Kong Special Administrative Region, and sent abroad teachers and students as visiting scholars and exchange students.</M08>
+<M10>Experts at home and abroad are frequently invited to give lectures at the School.</M10>
+
+<M10>Address: 55# Huxi Southern Road, Campus D of Chongqing University, Shapingba District, Chongqing, P. R. China.</M10>
+
+<M10>Post code: 400031</M10>
+
+<M10>Tel: 86-23-65678500</M10>
+
+<M10>Fax: 86-23-65678500</M10>
+
+<M10>E-mail: cqucfl@cqu.edu.cn</M10>
+
+<M10>Website: www.cfl.cqu.edu.cn</M10>

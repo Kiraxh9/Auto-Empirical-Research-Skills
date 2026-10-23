@@ -1,0 +1,65 @@
+<OTHER>INTRODUCTION</OTHER>
+
+<M02>The School of Foreign Languages was established in 1993 based on the Department of Foreign Languages founded in 1951.</M02>
+<M06>The School boasts 192 faculty members, including 19 professors and 45 associate professors.</M06>
+<M05>The school now has seven undergraduate programs in English, Japanese, French, German, Russian and English-Chinese translation.</M05>
+<M02>We set up a doctoral program in English Language and Literature as a second-class discipline in 1998 and a doctoral program in foreign languages and literature as a first-class discipline in 2010.</M02>
+<M05>Now, we have five second-class doctoral degrees in English language and literature, Japanese language and literature, French language and literature, Russian language and literature, foreign linguistics and applied linguistics, one first-class master degree in foreign linguistics, six second-class master degrees in English language and literature, Russian language and literature, French language and literature, Japanese language and literature, German language and literature, and foreign linguistics and applied linguistics.</M05>
+<M05>Besides, two professional master degrees in education and MTI are also set up here.</M05>
+<M05>The school also has one post-doctoral mobile research center of foreign languages and literatures.</M05>
+<M07>According to the fourth China’s disciplinary evaluation of the Ministry of Education in 2017, the School’s Foreign Languages and Literatures is selected as A-Class (top 5%-10% in China).</M07>
+
+<OTHER>School of Foreign Languages, ECNU</OTHER>
+
+<M04>The school boasts eight study centers including the College English Teaching Studies Center, Australian Studies Center, the New Zealand Studies Center, the United States Studies Center, the Asia-Pacific Region Studies Center, the Translation Studies Center, Japanese Language Education Studies Center and the Theoretical Linguistics Studies Center, and one CSSCI Source Journal -- Foreign Language Learning Theory and Practice.</M04>
+
+<M07>In the past five years, in terms of teaching, two of our courses has been honored with the title of national quality courses, 4 with Shanghai quality courses.</M07>
+<M07>We won 1 first prize of Shanghai Teaching Achievements Competition and 6 teaching materials won provincial and ministerial level awards.</M07>
+<M07>Besides, one of our teacher was awarded the title of Shanghai Famous Teacher.</M07>
+<M07>In terms of scientific research, we won three third prizes for Outstanding Scientific Research Achievements Competition organized by the Ministry of Education and Shanghai.</M07>
+<M07>More than 20 monographs were published in various disciplines, more than 200 CSSCI papers were published, and more than 20 national social science and provincial-or-ministerial level projects were awarded.</M07>
+<M07>We won 2 outstanding talents prizes and 4 Shanghai Pujiang Talent Program.</M07>
+<M07>Some of these projects have the potential to fill gaps in academic circles at home and abroad.</M07>
+
+<M08>The school pays attention to international academic exchanges and has established long-term cooperative relations with the United States, Britain, Australia, Japan, Germany, France, Russia and other countries.</M08>
+<M08>Every year, students are selected to study abroad.</M08>
+<M06>At the same time, the school also recruits nearly 100 domestic and foreign visiting scholars, teachers seeking to advance teaching skills, and Masters of Education.</M06>
+<M08>There has been teachers who selected for the “China-US Fulbright Project” for four consecutive years, one in each year.</M08>
+<M10>In August 2011, Le Clezio, the 2008 Nobel Prize for Literature, was invited to give a lecture on the Great Summer Forum.</M10>
+<M08>In addition, in recent years, the college has established long-term stable teacher-student exchange programs, academic exchanges and partnerships with University of Cambridge, Université Sorbonne Nouvelle-Paris 3, Université Lyon 2, Université Paul-Valéry Montpellier III, WASEDA University, Moscow state university, Russia, U.S. Research Center, University of Purdue, USA., St. Olaf College, State University of New York at Albany, La Trobe University, The University of Melbourne, Monash University and University of Western Sydney.</M08>
+<M10>Besides, we successfully hosted many international conferences, such as the International Seminar on Translation and Translation Teaching in the Context of Globalization, the High-level Forum in Commemoration of the 30th Anniversary of the Establishment of China-US Diplomatic Relations, the 3rd International Conference of Australian Studies in China, an International Symposium on Patrick White’s Works, an International Seminar on Publication of Australian Studies in China, a Symposium on Proust’s Works, an International Symposium on Asia-Pacific Civil Society and Cultural Diversity, and the 14th International Conference on the Short Story in English.</M10>
+
+<M10>Dean: Yang Yanning
+Tel: (021) 54344898
+Office Address: Foreign Language Building 327</M10>
+
+<M10>Secretary of the Party Committee: Han Chunhong
+Tel: (021) 54342962
+Office Address: Foreign Language Building 321</M10>
+
+<M10>School Address: 500 Dongchuan road, Minhang district, shanghai
+Zip Code: 200241</M10>
+
+<OTHER>COURSE OF DEVELOPMENT OF THE SCHOOL</OTHER>
+
+<M02>The School of Foreign Languages of East China Normal University (ECNU) was established in 1951, and was called the Department of Foreign Languages back then.</M02>
+<M02>Born out of the merge of the English departments of Great China University and the School of Liberal Arts of Kwang Hua University, the department consisted of two majors, English and Russia.</M02>
+<M02>In 1954, in response to the call for learning from the Soviet Union’s experience in education in a comprehensive and systematic way, ECNU received instructions from the Ministry of Education, which called for learning from, and cancelled the English major.</M02>
+<M02>The original Department of Foreign Languages was changed to the Russian Language Department, and the enrollment of vocational students came to a halt.</M02>
+<M02>In 1956, the English program was reinstituted.</M02>
+<M02>In 1961, the department’s British language and literature program was divided into two majors, English language and English literature.</M02>
+<M02>In May 1972, the university merged with several universities in Shanghai, and was renamed Shanghai Normal University.</M02>
+<M02>In September of the same year, the department began to enroll students in German, Japanese, and 3-year French teacher training programs.</M02>
+<M02>In October, it started to offer language training classes.</M02>
+<M02>Until then, the programs provided by the department increased to five.</M02>
+
+<M02>After the Cultural Revolution, the university’s enrollment was back on track.</M02>
+<M02>In 1977, the university reused its original name, East China Normal University.</M02>
+<M02>At the same time, the enrollment of students in our department also returned to normal.</M02>
+<M02>Based on previous English and Russian programs, the department started to recruit undergraduates for four-year study.</M02>
+<M02>By then, the layout of common development of multilanguage programs took shape.</M02>
+
+<M02>In 1993, the School of Foreign Languages was established.</M02>
+<M05>Today, the school has an authorized first-level doctoral program in foreign language and literature, five authorized second-level doctoral programs in Japanese, Russian, French, linguistics and applied linguistics, six authorized graduate programs in English language and literature, Russian language and literature, French language and literature, Japanese language and literature, German language and literature, linguistics and applied linguistics, and two professional graduate programs in education and translation.</M05>
+<M05>For undergraduates, there are seven programs, namely English, Russian, French, German, Japanese, Translation, and Spanish.</M05>
+<M05>These programs showcase the school’s full-fledged discipline system.</M05>
