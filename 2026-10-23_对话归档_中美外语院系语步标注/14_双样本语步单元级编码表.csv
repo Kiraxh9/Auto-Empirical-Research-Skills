@@ -1,4 +1,4 @@
-﻿语料编号,高校,原文段落块号,标注单元序号,语步代码,分摊词数,单元词数,单元起始片段（前14词）
+语料编号,高校,原文段落块号,标注单元序号,语步代码,分摊词数,单元词数,单元起始片段（前14词）
 F08,Boston University,0,1,OTHER,4.0,4,African Studies Center About
 F08,Boston University,1,2,M09,6.0,6,Welcome to our AFRICAN STUDIES CENTER.
 F08,Boston University,2,3,M02+M07,21.5,43,The African Studies Center (ASC) at Boston University is one of the nation’s oldest
@@ -510,7 +510,7 @@ F09,Dalian University of Technology,2,15,M01,58.0,58,"Furthermore, the School of
 F09,Dalian University of Technology,2,16,M01,34.0,34,"Moreover, the School of Foreign Languages has been approved as a “Ministry of Education’s"
 F09,Dalian University of Technology,2,17,M01,17.0,17,The academic journal Foreign Language Education & Research is currently hosted by the School
 F09,Dalian University of Technology,3,18,M06,20.0,20,"Currently, the School of Foreign Languages has a high-level teaching and research team, composed"
-F09,Dalian University of Technology,3,19,M06+M07,20.0,40,"There are 149 faculty members (135 full-time teachers), 20 professors, 52 doctoral degree holders,"
+F09,Dalian University of Technology,3,19,M06,40.0,40,"There are 149 faculty members (135 full-time teachers), 20 professors, 52 doctoral degree holders,"
 F09,Dalian University of Technology,3,20,M07,37.0,37,"In the past five years, full-time teachers of the School have presided over 23"
 F09,Dalian University of Technology,3,21,M07,23.0,23,"More than 100 high-level research articles have been published both at home and abroad,"
 F09,Dalian University of Technology,3,22,M07,12.0,12,"Furthermore, over 40 academic monographs and 32 translated works have been published."
@@ -545,7 +545,7 @@ F09,Dalian University of Technology,24,50,OTHER,44.0,44,English Department Teach
 F09,Dalian University of Technology,25,51,OTHER,2.0,2,English Department
 F09,Dalian University of Technology,26,52,M02,24.0,24,The English Department was established in 1985 and is one of the first English
 F09,Dalian University of Technology,26,53,M05,32.0,32,"Relying on the research university characteristics and engineering advantages of Dalian University of Technology,"
-F09,Dalian University of Technology,27,54,M02+M07,41.0,82,"In 2001, it was granted the right to award a master’s degree in foreign"
+F09,Dalian University of Technology,27,54,M02,82.0,82,"In 2001, it was granted the right to award a master’s degree in foreign"
 F09,Dalian University of Technology,28,55,M06,24.0,24,"The English Department currently has 20 teachers, including 6 professors, 9 associate professors, 2"
 F09,Dalian University of Technology,28,56,M06,11.0,11,"Every year, there are 4 foreign teachers teaching in the department."
 F09,Dalian University of Technology,29,57,M05,16.0,16,"The English Department implements a large-scale enrollment, and general education is implemented in the"
@@ -584,7 +584,7 @@ F09,Dalian University of Technology,39,89,M07,13.0,13,"Among the courses, 8 of t
 F09,Dalian University of Technology,40,90,M02,8.0,8,Our Japanese undergraduate major was founded in 2001.
 F09,Dalian University of Technology,40,91,M07,25.0,25,"In 2019, the Japanese major was classed as a first-class undergraduate major in Liaoning"
 F09,Dalian University of Technology,40,92,M05,47.0,47,"At the Department of Japanese, students will be equipped with international vision, solid Japanese"
-F09,Dalian University of Technology,40,93,M05+M08,41.5,83,"Our Japanese major has always been committed to being “student-oriented”, emphasizing the integration of"
+F09,Dalian University of Technology,40,93,M05,83.0,83,"Our Japanese major has always been committed to being “student-oriented”, emphasizing the integration of"
 F09,Dalian University of Technology,40,94,M08,16.0,16,All of the students studying the Japanese major have online or offline access to
 F09,Dalian University of Technology,40,95,M08,30.0,30,"Over half of the students study abroad at Japanese universities (e.g., Osaka University, Nagoya"
 F09,Dalian University of Technology,40,96,M08,45.0,45,The Department of Japanese has established long-term cooperative relationships on translation internship with a
@@ -613,7 +613,7 @@ F09,Dalian University of Technology,49,118,M01,14.0,14,"And there is one directo
 F09,Dalian University of Technology,50,119,M05,39.0,39,"Following the development of the Development Zone Campus and demands for talent training, the"
 F09,Dalian University of Technology,50,120,M04,24.0,24,"Regarding scientific research, the Center mainly concentrates on the application of information technology in"
 F09,Dalian University of Technology,51,121,OTHER,5.0,5,English Teaching and Research Office
-F09,Dalian University of Technology,52,122,M02+M05,17.0,34,"The English Teaching and Research Office was established in August, 2002, and is responsible"
+F09,Dalian University of Technology,52,122,M05,34.0,34,"The English Teaching and Research Office was established in August, 2002, and is responsible"
 F09,Dalian University of Technology,52,123,M03,34.0,34,"With the principle of cultivating people with moral integrity, supported by leaders of DUT"
 F09,Dalian University of Technology,52,124,M05,22.0,22,"For building first-class disciplines and training first-class talents, a cooperative team of “English+majors” has"
 F09,Dalian University of Technology,52,125,M07,37.0,37,"At present, the English Teaching and Research Office has a National First-class Course English"
@@ -621,7 +621,7 @@ F09,Dalian University of Technology,52,126,M07,14.0,14,"With these efforts, Engl
 F09,Dalian University of Technology,52,127,M07,51.0,51,Students have got outstanding awards in competitions like the National English Competition for College
 F09,Dalian University of Technology,52,128,M07,15.0,15,The English ability of our students has received favorable comments from employers and other
 F09,Dalian University of Technology,53,129,M06,25.0,25,"There are now 10 full-time teachers at the English Teaching and Research Office, including"
-F09,Dalian University of Technology,53,130,M06+M07,36.0,72,"After several years of development, we have created an excellent teaching and research team"
+F09,Dalian University of Technology,53,130,M07,72.0,72,"After several years of development, we have created an excellent teaching and research team"
 F09,Dalian University of Technology,53,131,M07,17.0,17,"In addition, multiple national, provincial and DUT’s projects on teaching reform and scientific research"
 F09,Dalian University of Technology,54,132,OTHER,5.0,5,Japanese Teaching and Research Office
 F09,Dalian University of Technology,55,133,M06,22.0,22,"Currently, there are 12 full-time teachers in the Japanese Teaching and Research Office, with"
@@ -645,7 +645,7 @@ F09,Dalian University of Technology,60,150,M06,8.0,8,"Besides, three foreign tea
 F09,Dalian University of Technology,60,151,M07,30.0,30,The Department has won the first prize of Excellent Teaching Achievement Award of Liaoning
 F09,Dalian University of Technology,61,152,M05,44.0,44,The Major of Translation and Interpretation aims at cultivating high-quality inter-disciplinary talents with profound
 F09,Dalian University of Technology,61,153,M05,26.0,26,"Students are supposed to have comprehensive knowledge structure, proficient translation and interpreting ability, strong"
-F09,Dalian University of Technology,62,154,M05+M08,42.5,85,"The Department improves students’ cross-cultural communication skills and global competence through various activities, such"
+F09,Dalian University of Technology,62,154,M05,85.0,85,"The Department improves students’ cross-cultural communication skills and global competence through various activities, such"
 F09,Dalian University of Technology,63,155,M06,25.0,25,"The Department has foreign language smart classrooms, 3D foreign language virtual training rooms, an"
 F09,Dalian University of Technology,63,156,M05,17.0,17,"The teachers implement student-centered, problem-oriented, seminar-based, simulation-based and project-based teaching methods to cultivate high-quality"
 F09,Dalian University of Technology,64,157,M05,51.0,51,"The core courses include the following: Integrated English, English Speech and Debate, Critical Thinking"
