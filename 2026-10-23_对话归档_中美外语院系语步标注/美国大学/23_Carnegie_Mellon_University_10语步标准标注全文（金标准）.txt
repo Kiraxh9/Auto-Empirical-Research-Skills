@@ -1,0 +1,654 @@
+<M03>We work together to forge intercultural connections.</M03>
+
+<M07>The Department of Languages, Cultures & Applied Linguistics features award-winning teachers and internationally recognized researchers.</M07>
+<M05><M04>Our research and teaching promotes language learning, deepens cultural understanding through literary and cultural studies and highlights cutting-edge technology-enhanced language learning.</M04></M05>
+
+<M10>Meet the Department</M10>
+
+<M09>Give Today</M09>
+
+<M09>Support the Department of Languages, Cultures & Applied Linguistics in advancing global understanding.</M09>
+<M05><M06>With nine language and culture programs, study abroad opportunities, including guaranteed scholarships for all majors, and cutting-edge tech in VR, AR and podcasting, we empower students to explore and innovate during their time at CMU.</M06></M05>
+<M09>Your gift fuels opportunities that shape future leaders in academia, industry and beyond.</M09>
+
+<M09>Make a gift to LCAL today!</M09>
+
+<M09>A Warm Welcome from Department Head, Anne Lambright</M09>
+
+<M09>Welcome to the Department of Languages, Cultures & Applied Linguistics (LCAL)!</M09>
+<M09>We warmly invite you to visit our world by exploring our many course offerings, two majors and eight minors and other amazing opportunities to engage with the rich diversity of languages and cultures around us.</M09>
+
+<M05>From beginning language study to advanced seminars such as Podcasting en español, Topics in Arabic Media and Chinese Popular Culture, our engaging, student-centered classes dive deeply into the cultures, arts and histories of our nine language areas.</M05>
+<M05>For students interested in the how of language learning, our second language acquisition courses explore theoretical, technological, cognitive and policy issues, and discuss questions of bilingualism and multilingualism, language diversity and identity.</M05>
+<M05>Our offerings in English highlight a wide range of cultural production, from German film to Japanese anime and Chinese TikTok to gaming in French, as well as key topics of race and ethnicity, gender and sexuality, human rights and social justice.</M05>
+<M05>Like our advanced language seminars, these courses use the lens of cultural studies to examine other societies and understand diverse perspectives, giving students the tools to think more critically about the world around them and their place in it.</M05>
+<M07>No wonder students consistently rate LCAL courses as among their best experiences at Carnegie Mellon!</M07>
+
+<M04>More and more, the world needs truly global citizens with linguistic and cultural competencies to engage thoughtfully with people from all walks of life.</M04>
+<M04>You may choose to study abroad.</M04>
+<M04>You may choose to work in global companies.</M04>
+<M04>You may live in diverse communities.</M04>
+<M04>Perhaps all three.</M04>
+<M05>LCAL courses are excellent introductions to the languages, histories and cultures of your future classmates, colleagues and neighbors.</M05>
+<M05><M09>Our courses will give you the knowledge and the skills that employers are looking for — critical thinking, cross-cultural competence, global awareness — but honestly, I invite you to our LCAL community, courses and programs, because you will find them inspiring, fascinating and quite possibly life-changing.</M09></M05>
+<M09>If you can’t take advantage of transformative learning experiences during these four years, when will you?</M09>
+
+<M01>Anne Lambright
+Department Head and Paul Mellon Distinguished Professor of Hispanic Studies</M01>
+
+<OTHER>Dietrich College of Humanities and Social Sciences
+Department of Languages, Cultures & Applied Linguistics
+About Us</OTHER>
+
+<M10>The Department of Languages, Cultures & Applied Linguistics is located in Posner Hall 341.</M10>
+<M10>When classes are in session, we are typically available from 8:30 a.m. to 4:30 p.m., Monday through Friday.</M10>
+
+<M10>Department of Languages, Cultures & Applied Linguistics
+Carnegie Mellon University
+4980 Margaret Morrison St
+Posner Hall 341
+Pittsburgh, PA 15213
+Phone: (412) 268-5669
+Fax: (412) 268-1328</M10>
+
+<M10>View contact information for our department faculty</M10>
+
+<M01>Department Administrators
+
+Maya Best
+Experiential Learning and Study Abroad Coordinator
+
+Sue Connelly-Colizza
+Senior Academic Administrator
+
+Rachel Floyd
+Associate Director of Online Language Learning
+
+Anne Lambright
+Department Head
+
+Vera Lampley
+Senior Departmental Administrator
+
+Maddy Marrow
+Administrative Assistant
+
+Karen Richters
+Associate Director of Communications
+
+Stefani Taskas
+Digital Learning Experience Developer
+
+Rémi Adam van Compernolle
+Associate Department Head
+
+Nicole Winston
+Director of Operations</M01>
+
+<M01>Faculty
+
+Nevine Abraham
+Associate Teaching Professor of Arabic Studies
+
+Khaled Al Masaeed
+Associate Professor of Applied Linguistics, Second Language Acquisition and Arabic Studies
+
+Uju Anya
+Associate Professor of Second Language Acquisition
+
+Mathieu Berbiguier
+Visiting Assistant Professor of Korean Studies
+
+Stephen Brockmann
+Professor of German Studies
+
+Katharine E. Burns
+Associate Professor of Second Language Acquisition and Hispanic Studies
+
+Stephan Caspar
+Associate Teaching Professor in Media Creation and Multicultural Studies
+
+Isabelle Chen
+Assistant Professor of Global French Studies
+
+Sébastien Dubreil
+Teaching Professor of Global French Studies, Second Language Acquisition and Technology-Enhanced Learning
+
+Kenya C. Dworkin y Méndez
+Professor of Hispanic Studies; Director of the M.A. in Global Communication & Applied Translation Program
+
+José Estrada
+Associate Professor of Hispanic Studies
+
+Kiyono Fujinaga-Gordon
+Assistant Teaching Professor of Japanese Studies</M01>
+
+<M01>Part-Time Faculty
+
+Keely R. Austin
+Adjunct Instructor of Applied Linguistics & Second Language Acquisition
+
+Ester Hoogstaden
+Principal Lecturer of Global French Studies
+
+Naum Kats
+Principal Lecturer of Russian Studies
+
+Barbara Litt
+Senior Lecturer of Japanese Studies
+
+Mary Jayne McCullough
+Lecturer of Global Communication & Applied Translation
+
+Ethan Pullman
+Senior Lecturer of Arabic Studies
+
+Jon Ritzdorf
+Adjunct Instructor of Global Communication & Applied Translation
+
+Berit C. R. Royer
+Adjunct Lecturer of German Studies
+
+Zhongxin (Cindy) Sun
+Principal Lecturer of Chinese Studies
+
+Ziji Wang
+Adjunct Instructor of Chinese Studies
+
+Yukari Yamakawa
+Adjunct Instructor of Japanese Studies
+
+Lihong Zhang
+Adjunct Instructor of Chinese Studies</M01>
+
+<M01>Affiliated Faculty and Fellows
+
+Nicky Agate
+Associate Dean for Academic Engagement, Libraries
+
+Wendy Arons
+Professor of Dramatic Literature and Area Chair of Dramaturgy, School of Drama
+
+Johannes DeYoung
+Associate Professor, School of Art
+
+Michal Friedman
+Assistant Teaching Professor & Jack Buncher Professor of Jewish Studies, Department of History
+
+Bertony Louis
+Research Fellow
+
+Brian MacWhinney
+Director of Child Language Data Exchange System (CHILDES)
+
+Michael McEachrane
+Senior Research Fellow
+
+Courtney Moffet-Bateau
+Visiting Researcher
+
+Andreea Deciu Ritivoi
+William S. Dietrich Professor of English, Department of English
+
+Mukhtar Shehata
+Research Fellow
+
+Mandy Simons
+Professor, Department of Philosophy
+
+Alina A. von Davier
+Chief of Assessment, Duolingo</M01>
+
+<M01>Emeritus Faculty
+
+Christian W. Hallstein
+Teaching Professor Emeritus of German
+
+Paul Hopper
+Paul Mellon Distinguished Professor Emeritus of the Humanities, Rhetoric and Linguistics
+
+Zeinab Ibrahim
+Teaching Professor
+
+Yasufumi Iwasaki
+Associate Teaching Professor Emeritus of Japanese
+
+Barbara Johnstone
+Professor Emeritus of English and Linguistics
+
+Christopher Jones
+Teaching Professor Emeritus of French & Francophone Studies
+
+Keiko Koda
+Professor Emeritus of Japanese and Second Language Acquisition
+
+Susan G. Polansky
+Teaching Professor Emeritus of Hispanic Studies
+
+Donald Sutton
+Professor Emeritus of Chinese Studies
+
+G. Richard Tucker
+Paul Mellon University Professor of Applied Linguistics Emeritus
+
+Michael J. West
+Teaching Professor Emeritus of French and Francophone Studies
+
+Yueming Yu
+Teaching Professor Emeritus</M01>
+
+<M01>Doctoral Students
+
+Yumiko Adachi
+
+Esther Airemionkhale
+
+Adam A. Bramlett
+
+Valencia Epps
+
+Joseph Garcia
+
+Candice Guerbeau
+
+Seungjoo (Skylar) Kim
+
+Nour Kweider
+
+Ryuki Matsuura
+
+Esha Mukherjee
+
+Devon Renfroe</M01>
+
+<M01>Master's Students
+M.A. in Applied Linguistics & Second Language Acquisition
+
+Tianqi Geng
+
+Senia Golisek
+
+Leo Luan
+
+Ran Miao
+
+Ace Ryszkowski</M01>
+
+<OTHER>About Us</OTHER>
+
+<M05>In the Department of English, we’re proud to cultivate the next generation of readers and leaders.</M05>
+<M07><M05>The reason our graduates have become doctors, authors, venture capitalists, lawyers, and CEOs is because English at Carnegie Mellon ultimately offers equipment for living—the tools for clear and persuasive communication, for deep and patient thinking, for engaged citizenship, and for a fully realized personal and professional life.</M05></M07>
+<M04><M03>We consider humanity's biggest questions through the lenses of film, literature, and rhetoric, and we believe that writing—process and product—is a deep well of wisdom.</M03></M04>
+<M03>Far from opposing tech culture, we consider the reflective vision we offer as one of its most desirable components.</M03>
+<M07><M03>As Head of English, I'm extraordinarily proud of the work we do and aim to ensure that English continues to be not only a place where technology meets tradition but also where readers find refuge and leaders find language.</M03></M07>
+<M09>Please don't hesitate to get in touch to find out more about English at CMU.</M09>
+
+<M01>Christopher Warren
+Professor and Head, Department of English</M01>
+
+<OTHER>Contact Us</OTHER>
+
+<M10>English Main Office
+Baker Hall 259
+M-F: 8:30AM - 5:00PM
+P: (412) 268-2850</M10>
+
+<M10>English Posner Office
+Writing & Communication Program
+Graduate Program
+Posner Hall 231
+M-F: 8:00AM - 5:00PM
+P: (412) 268-4615</M10>
+
+<OTHER>Leadership</OTHER>
+
+<OTHER>Faculty</OTHER>
+
+<OTHER>Carnegie Mellon and the Folger Institute</OTHER>
+
+<M08>Carnegie Mellon University is a member of the Folger Institute Consortium, a network of colleges and universities that supports research and teaching through the Folger Shakespeare Library in Washington, D.C.</M08>
+<M06>Consortium membership provides Carnegie Mellon faculty, graduate students, librarians, archivists, and affiliates with access to scholarly programs, collections, funding opportunities, and a vibrant interdisciplinary community of scholars.</M06>
+
+<M04>The Folger Institute supports research across a wide range of fields, including literature, history, theater, religion, philosophy, political thought, book history, bibliography, manuscript studies, material culture, and the history of science and medicine.</M04>
+
+<OTHER>Consortium Benefits at a Glance</OTHER>
+
+<M06>- Registration fees waived for admitted participants in many Folger Institute programs</M06>
+<M06>- Eligibility for travel and lodging support</M06>
+<M06>- Access to advanced seminars, workshops, and paleography courses</M06>
+<M06>- Exclusive dissertation seminar opportunities for graduate students</M06>
+<M06>- Access to the Folger Shakespeare Library's world-renowned collections</M06>
+<M08>- Membership in a network of leading scholars in early modern studies and related fields</M08>
+
+<OTHER>Opportunities for Carnegie Mellon Students & Affiliates</OTHER>
+
+<OTHER>Scholarly Programs</OTHER>
+
+<M06>Carnegie Mellon affiliates may apply to a wide range of Folger Institute programs, including:</M06>
+
+<M06>- Advanced seminars</M06>
+<M06>- Skills courses and paleography workshops</M06>
+<M06>- Multi-session colloquia</M06>
+<M06>- Scholarly institutes and symposia</M06>
+<M06>- Dissertation seminars for doctoral students</M06>
+
+<M04><M08>These programs bring together scholars from across North America and beyond to engage deeply with emerging research, methodologies, and archival materials.</M08></M04>
+
+<OTHER>Registration Fee Waivers</OTHER>
+
+<M06>One of the most valuable benefits of consortium membership is the waiver of registration fees for admitted participants.</M06>
+<M06>Depending on the program, these fees can range from several hundred to several thousand dollars.</M06>
+
+<OTHER>Travel and Lodging Support</OTHER>
+
+<M06>Affiliates of consortium institutions may apply for grants-in-aid to help offset the costs of travel and lodging associated with Folger programs and research activities.</M06>
+
+<OTHER>Dissertation Support</OTHER>
+
+<M06>Graduate students from consortium institutions enjoy exclusive eligibility for the Folger Institute's annual dissertation seminar, a highly regarded program designed to support doctoral research and foster scholarly community among emerging researchers.</M06>
+
+<OTHER>Research Collections and Expertise</OTHER>
+
+<M06>Carnegie Mellon affiliates may take advantage of:</M06>
+
+<M06>- The Folger's renowned collections of rare books, manuscripts, prints, and archival materials</M06>
+<M06>- Research consultations with curators and librarians</M06>
+<M06>- Specialized reference services</M06>
+<M06>- Opportunities for extended archival research</M06>
+
+<M06>The Folger holds one of the world's premier collections for the study of Shakespeare, the Renaissance, and the early modern world.</M06>
+
+<OTHER>Newberry Library Reciprocity</OTHER>
+
+<M08>Through a reciprocal agreement between the Folger Institute and the Center for Renaissance Studies at the Newberry Library, consortium affiliates may also access selected scholarly opportunities and programs offered through the Newberry.</M08>
+
+<OTHER>Who Should Apply?</OTHER>
+
+<M04>Folger Institute programs may be of interest to scholars working in:
+
+- Shakespeare and Renaissance literature
+- Early modern history
+- History of science and medicine
+- Religious studies
+- Philosophy and political thought
+- Theater and performance studies
+- Book history and bibliography
+- Manuscript studies and paleography
+- Digital humanities
+- Art history and material culture</M04>
+
+<M08>Faculty, postdoctoral researchers, graduate students, librarians, archivists, and independent scholars regularly participate in Folger Institute programs.</M08>
+
+<OTHER>Getting Started</OTHER>
+
+<M09>- Explore current Folger Institute programs, fellowships, and events (see links below).</M09>
+<M09>- Identify opportunities aligned with your research or teaching interests.</M09>
+<M09>- Contact Carnegie Mellon's Folger Consortium representatives with questions about eligibility or the application process.</M09>
+<M09>- Apply using your Carnegie Mellon affiliation to take advantage of consortium benefits.</M09>
+
+<OTHER>Carnegie Mellon Representatives</OTHER>
+
+<M09>Interested in applying for a Folger seminar, workshop, fellowship, or dissertation program?</M09>
+<M09>Contact CMU’s representatives to the Consortium to discuss eligibility, consortium benefits, and upcoming opportunities:</M09>
+
+<M10>Sam Lemley
+Director, Posner Center for Special Collections
+Curator of Special Collections
+CMU Libraries
+samlemley@cmu.edu</M10>
+
+<M10>Stephen Wittek
+Associate Professor
+Director of Literary and Cultural Studies
+Department of English
+swittek@andrew.cmu.edu</M10>
+
+<OTHER>About the Folger Shakespeare Library</OTHER>
+
+<M06>The Folger Shakespeare Library is home to the world's largest Shakespeare collection and one of the most significant repositories of rare books, manuscripts, and early modern materials.</M06>
+<M06>Through the Folger Institute, Carnegie Mellon scholars gain access to a distinguished community of researchers and an unparalleled environment for the study of the early modern world.</M06>
+
+<M01>Our Leadership
+
+Executive Committee
+
+Department Head: Chris Warren
+
+Director of Graduate Studies: Doug Coulson
+
+Director of Writing & Communication Program: Danielle Zawodny Wetzel
+
+Director of Creative Writing Program: Lauren Shapiro
+
+Director of Literary & Cultural Studies Program: Stephen Wittek
+
+Director of Rhetoric Program: James Wynn
+
+Directors of Film & Visual Media Program: Jeff Hinkelman
+
+Director of Professional & Technical Communication Programs: Suguru Ishizaki
+
+Department Management
+
+Business Manager: Beryl Omune</M01>
+
+<OTHER>Faculty</OTHER>
+
+<M10>View all individual faculty profiles</M10>
+
+<M04>Faculty by Area of Study
+
+- Creative Writing</M04>
+<OTHER>- Emeritus</OTHER>
+<M04>- Film & Visual Media
+- Global Communication & Applied Translation
+- Gender Studies
+- Humanities Analytics
+- Literary and Cultural Studies
+- Professional Writing
+- Rhetoric
+- Technical Writing & Communication
+- Writing & Communication</M04>
+
+<OTHER>Contact Us</OTHER>
+
+<OTHER>Faculty and Staff Resources
+Current Student Resources
+Courses</OTHER>
+
+<M01>Office Staff
+
+Jess Bittel
+Director of Academic Affairs
+
+Eyona Bivins
+Senior Administrative Coordinator
+
+Laura Donaldson
+Associate Director of Academic Affairs
+
+Jessica Manack (part-time)
+Communications Specialist
+
+Beryl Omune
+Financial Administrator
+
+Amy Stoebe
+Assistant Director of Writing & Communication</M01>
+
+<OTHER>Our Undergraduates</OTHER>
+
+<M01>The Department of English is home to over 200 undergraduate student majors and minors.</M01>
+<M05>Because of the interdisciplinary nature of CMU, students have the opportunity to explore a variety of academic interests, pairing unique major and minor programs together.</M05>
+<M05>Our students have combination majors such as Creative Writing and Business, Technical Writing & Communication and Art, and Film & Visual Media and Computer Science.</M05>
+
+<M09>Learn more about all our English undergraduate programs.</M09>
+
+<M06>12:1
+Student-Teacher Ratio</M06>
+
+<M07>3000+
+Alumni</M07>
+
+<M07>90+
+Members of Phi Beta Kappa</M07>
+
+<M01>Student Spotlights
+
+Jimmy Baracia
+Senior
+Graduation Date: May 2025
+Primary Major: Creative Writing
+Additional Major: Professional Writing
+Hometown: Brick, NJ
+
+Phoenix Bernardin
+Senior
+Graduation Date: May 2025
+Primary Major: Film & Visual Media
+Minor: Creative Writing
+Hometown: Torrington, CT</M01>
+
+<M01>M.A. Students in the Department of English
+
+Joanna Abel
+M.A. in Professional Writing
+
+Shanzeh Afzal
+M.A. In Literary and Cultural Studies
+
+Reem Alghazzi
+M.A. in Global Communication and Applied Translation
+
+Amani Alolayani
+M.A. in Global Communication and Applied Translation
+
+Misha Aqil
+M.A. In Literary and Cultural Studies
+
+Paul Beer
+M.A. in Rhetoric
+
+Austin Culver
+M.A. in Rhetoric
+
+Matthew Denton
+M.A. in Rhetoric
+
+Vanessa Dionicio
+M.A. in Global Communication and Applied Translation
+
+Nellie Downie
+M.A. In Literary and Cultural Studies
+
+Nathan Eke
+M.A. in Professional Writing
+
+David Gardner
+M.A. in Professional Writing</M01>
+
+<OTHER>Contact Us</OTHER>
+
+<OTHER>Faculty and Staff Resources
+Current Student Resources
+Courses
+Carnegie Mellon University Press
+Arts Greenhouse
+Oakland Review
+Dietrich College of Humanities and Social Sciences</OTHER>
+<M10>Baker Hall 259, 5000 Forbes Avenue Pittsburgh, PA 15213
+(412) 268-2850</M10>
+
+<M01>Ph.D. Students in the Department of English
+
+Henry Aceves
+
+Rose Chang
+
+Laura DeLuca
+
+Elizabeth Dieterich
+
+Catherine Evans
+
+Mercy Faleyimu
+
+Maria Ferrato
+
+Andrea Francioni Rooney
+
+Kiera Gilbert
+
+Baron Glanvill
+
+Nat Hileman
+
+Emma Johnson</M01>
+
+<OTHER>Contact Us</OTHER>
+
+<OTHER>Faculty and Staff Resources
+Current Student Resources
+Courses
+Carnegie Mellon University Press
+Arts Greenhouse
+Oakland Review</OTHER>
+
+<OTHER>Our History</OTHER>
+<M02>Over 100 Years of English at Carnegie Mellon</M02>
+
+<M02>In 1919, the English major was formed.</M02>
+<M02>The school was still "Carnegie Tech" and the English Department was housed in the Margaret Morrison Carnegie School for Women (MMCC).</M02>
+<M02>At that time, only women could major in English.</M02>
+<M07>In an article on the history of the MMCC, Eileen McConomy (MM’56) says, "Our education was rigorous. Our women professors were the forerunners of the feminist movement and inspired us to take charge of our lives, to not be afraid to speak out for what we believed was right, and to demand excellence in all that we did."</M07>
+
+<M02><M07>In 1958, the BS in Technical Writing & Editing, the first degree of its kind in the country, was added as a possible major within MMCC under the initiative of Erwin Steinberg.</M07></M02>
+<M02><M08>During the 1960s, in a period of increasing emphasis on education (and government funding for innovative curriculum ideas), the English & History departments organized the Carnegie Education Center to develop innovative high school and college curricula and developed nationally-funded and recognized curricula for AP high school English courses.</M08></M02>
+<M02>From 1968-1969, Carnegie Tech became Carnegie University and finally Carnegie Mellon University.</M02>
+<M02>The division of Humanities & Social Sciences became the College of Humanities and Social Sciences, and degrees in English and Technical Writing were transferred from MMCC to H&SS.</M02>
+<M02>Soon after, the newly formed Department of English officially began hiring research faculty.</M02>
+
+<M02>1969: Under the leadership of Gladys Schmitt and Jerry Costanzo, the B.A. in Creative Writing is added to other two English Degrees (B.A. in English and B.S. in Technical Writing.)</M02>
+<M07>The B.A. was one of the first undergraduate degrees in Creative Writing in the country.</M07>
+
+<M02>1972: Jerry Costanzo founds Carnegie Mellon University Press in the English Department.</M02>
+<M07>The Press eventually publishes "Thomas and Beulah" by Rita Dove, which wins the Pulitzer Prize for Poetry in 1986.</M07>
+
+<M02>1980: The Rhetoric program is established in 1980, along with the M.A. in Professional Writing program and the Ph.D. in Rhetoric.</M02>
+
+<M02><M07>1986: The Ph.D. in Literary & Cultural Theory program is added, spearheading changes in the academic landscape of English departments across the U.S.</M07></M02>
+<M02>The M.A. concentration in Literary & Cultural Studies soon follows.</M02>
+<M07>The founding Cultural Studies Association conference was hosted on CMU's campus in 2003.</M07>
+
+<M02>1996: B.A. in Literary & Cultural Studies and B.A. in Rhetoric merge to form B.A. in English.</M02>
+
+<M02>2017: The Humanities Analytics minor is founded.</M02>
+
+<M02>2018: The B.A. in Film & Visual Media launches.</M02>
+
+<M02>2019: The M.A. in Global Communication and Applied Translation launches, along with a modernized English B.A., reimagined as: the B.A. in Literature and Culture.</M02>
+
+<M04><M05>Today, the English Department features ten rich areas of study: First-Year Writing, Creative Writing, Professional Writing, Technical Writing, Literary and Cultural Studies, Rhetoric, Gender Studies, Humanities Analytics, Film & Visual Media, and Global Communication and Applied Translation.</M05></M04>
+
+<OTHER>Our Affiliated Programs</OTHER>
+
+<M01>The Department of English is proud to house and support the following thriving humanities programs.</M01>
+
+<OTHER>The Oakland Review</OTHER>
+
+<M05>A national journal, The Oakland Review is edited and produced by undergraduates in the Creative Writing program in the Department of English.</M05>
+<M05>The journal features a range of writers and artists from across the country, while enriching the literary culture of CMU's campus.</M05>
+
+<OTHER>Pittsburgh Review of Books</OTHER>
+
+<M01><M08>An interdisciplinary humanities periodical housed in CMU’s Dietrich College of Humanities and Social Sciences and published by the English Department, PRoB features essays, reviews, interviews, and excerpts that engage with salient and pressing issues.</M08></M01>
+<M03>True to Pittsburgh’s historical reputation for hard work and creativity, PRoB is committed to the democratic, visionary, and inclusive values that have defined this city at its best.</M03>
+
+<OTHER>Three Rivers Chapter: Rhetoric Society of America (RSA)</OTHER>
+
+<M04><M05>Comprised of Rhetoric graduate students, the Rhetoric Society of America (RSA) Three Rivers Chapter seeks to expand knowledge of and engagement with rhetorical studies through reading groups, student and faculty-led workshops, and departmental speaker series.</M05></M04>
+
+<OTHER>Belt Magazine</OTHER>
+
+<OTHER>Belt Magazine is a digital publication by and for the Rust Belt and greater Midwest.</OTHER>
+<OTHER>Founded in 2013 as an antidote to shallow, distorted representations of the region, we challenge simplistic national narratives by paying local journalists, writers, photographers, and poets to cover their communities with depth.</OTHER>

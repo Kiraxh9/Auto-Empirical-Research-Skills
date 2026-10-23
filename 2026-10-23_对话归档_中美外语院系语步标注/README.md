@@ -7,11 +7,22 @@
 ```text
 2026-10-23_对话归档_中美外语院系语步标注/
 ├── 美国大学/
-│   └── 11_Boston_University_10语步标准标注全文.txt
+│   ├── 11_Boston_University_10语步标准标注全文.txt
+│   ├── 15_Brown_University_10语步标准标注全文.txt
+│   ├── 16_California_Institute_of_Technology_10语步标准标注全文.txt
+│   ├── 17_Columbia_University_10语步标准标注全文.txt
+│   ├── 18_Cornell_University_10语步标准标注全文.txt
+│   ├── 19_Duke_University_10语步标准标注全文.txt
+│   ├── 20_Georgia_Institute_of_Technology_10语步标准标注全文.txt
+│   ├── 21_Harvard_University_10语步标准标注全文.txt
+│   ├── 22_Johns_Hopkins_University_10语步标准标注全文.txt
+│   └── 23_Carnegie_Mellon_University_10语步标准标注全文（金标准）.txt
 ├── 中国大学/
 │   └── 12_Dalian_University_of_Technology_10语步标准标注全文.txt
 ├── 13_中美双样本扩展标注统计与质检报告_BU与DUT.md
 ├── 14_双样本语步单元级编码表.csv
+├── 24_美国八校_语步单元级编码表.csv
+├── 25_美国八校扩展标注_方法与质检报告.md
 └── README.md
 ```
 
@@ -23,6 +34,9 @@
 | [`中国大学/12_Dalian_University_of_Technology_10语步标准标注全文.txt`](./中国大学/12_Dalian_University_of_Technology_10语步标准标注全文.txt) | Dalian University of Technology（`F09`，中国） | `190` | `4,771` | ✅ `100.00%` | `97.69%` |
 | [`13_中美双样本扩展标注统计与质检报告_BU与DUT.md`](./13_中美双样本扩展标注统计与质检报告_BU与DUT.md) | 双样本统计、四样本横向对照、`RQ1–RQ5` 验证、边界判定记录 | — | — | — | — |
 | [`14_双样本语步单元级编码表.csv`](./14_双样本语步单元级编码表.csv) | 单元级明细（段落块号／单元序号／语步代码／分摊词数／起始片段） | `683` | — | — | — |
+| **美国八校批次（`F15–F22`）** | Brown / Caltech / Columbia / Cornell / Duke / Georgia Tech / Harvard / Johns Hopkins，见 [`美国大学/`](./美国大学/) | `6,490` | `119,150` | ✅ 词级与字符级双重核验 | `97.67%` |
+| [`25_美国八校扩展标注_方法与质检报告.md`](./25_美国八校扩展标注_方法与质检报告.md) | 批次方法、校准结果（CMU 人工金标准主码一致率 `71.8%`）、逐校延展度与跨样本对照 | — | — | — | — |
+| [`24_美国八校_语步单元级编码表.csv`](./24_美国八校_语步单元级编码表.csv) | 八校 `6,490` 行单元级明细，可直接复算全部 `Extensiveness` | `6,490` | — | — | — | — |
 
 ## 三、标注规范与配套文件
 
