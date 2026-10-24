@@ -1,0 +1,23 @@
+<OTHER>School of Foreign Languages and Literature</OTHER>
+
+<M02>The predecessor of the School of Foreign Languages and Literature was the English Department of Beijing Normal University founded in 1912, where famous scholars like Lin Yutang and Liang Shiqiu have taught, and alumni Zhou Gucheng and Xiong Shiyi have studied.</M02>
+<M02>In 2002, the Foreign Languages Department and the Department of Foreign Language for Non-majors at Beijing Normal University merged to form the School of Foreign Languages and Literature.</M02>
+
+<M01>The school consists of the English Department, the Russian Department, the Japanese Department and the Teaching and Research Department of Foreign Languages for Non-majors, as well as the Russian Research Center of the Ministry of Education’s Regional and National Research Base, two university-level research centers, that is, the Functional Linguistics Research Center and the East Asian Comparative Cultural Studies Center, and nine college-level research institutes (centers) such as the Institute of Foreign Language Education and Teacher Education and the Institute of Foreign Literature.</M01>
+<M06>The school hosts a CSSCI journal Russian Literature and Art and a national core Chinese journal Foreign Language Teaching in Primary and Secondary Schools.</M06>
+
+<M06>The school has 85 teachers, including 21 professors and 35 associate professors.</M06>
+<M07>Among them, there are 18 doctoral tutors, 25 master tutors, 5 outstanding talents of the Ministry of Education in the new century, one Baosteel outstanding teacher and one renowned teacher of Beijing.</M07>
+<M06>The school has also hired more than 20 distinguished scholars at home and abroad as visiting professors, honorary professors and part-time professors.</M06>
+
+<M05>The school has been authorized to grant doctorates and master’s degrees in first-level disciplines of foreign languages and literature.</M05>
+<M05>It has five doctoral programs of second-level disciplines, namely English language and literature, Japanese language and literature, Russian language and literature, foreign linguistics and applied linguistics, and English teaching theory, as well as a mobile post-doctoral research center in first-class disciplines.</M05>
+
+<M07>During the period of 2014-2017, teachers from the School of Foreign Languages and Literature presided over 144 research projects, including 12 national-level projects and 29 provincial and ministerial-level projects.</M07>
+<M07>Faculty members of the school have published 418 academic papers in journals like Journal of Pragmatics, Language Teaching Research, Foreign Literature Review, Foreign Language Teaching, including 3 SSCI papers and 75 CSSCI papers.</M07>
+<M07>Meanwhile, they have published 130 monographs, translations, edited books and textbooks.</M07>
+
+<M08>In addition, the school organizes multi-level overseas exchanges to broaden students’ international vision.</M08>
+<M08>In the past four years, more than 110 students have studied and exchanged overseas.</M08>
+<M08>The English Department and the University of Manchester in the United Kingdom have set up a 2+2 joint training program.</M08>
+<M08>The Japanese Department has been approved as the Asian campus of the “International Graduate School of Teacher Training in East Asia”, which has effectively promoted the internationalization of the school.</M08>

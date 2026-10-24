@@ -1,0 +1,165 @@
+<OTHER>School of Foreign Languages of Huazhong University of Science and Technology</OTHER>
+
+<OTHER>Overview</OTHER>
+
+<M05>School of Foreign Languages of Huazhong University of Science and Technology offers undergraduate degrees in 5 majors, namely English Language & Literature, Japanese Language & Literature, German Language & Literature, French Language & Literature and Translation.</M05>
+<M01>The College English Teaching Center is in charge of the foreign language teaching of the whole university.</M01>
+<M05>The school has one authorized primary master program (Master of Language & Literature), and four authorized secondary master programs (Master of Linguistics & Applied Linguistics, English Language & Literature, Japanese Language & Literature, German Language & Literature) as well as one MTI program (Master of Translation and Interpretation).</M05>
+<M05>Besides, there is also one authorized secondary doctoral program (Comparative Study on Chinese and Foreign Language Culture).</M05>
+<M07>Moreover, “Foreign Languages & Literature” is the key discipline of Hubei Province.</M07>
+
+<M06>There are in total 164 full-time teachers in the school, including 17 professors and 69 associate professors, nine of them are doctoral supervisors and 30 of them are master supervisors.</M06>
+<M07>We have one “Outstanding Teacher of Hubei Province” and two top teachers of our university.</M07>
+<M07>Moreover, two of the professors hold a post in Teaching Steering Committee of Foreign Languages, CET-4 and CET-6 Examination Committee of Ministry of Education as well as English Professional Steering Committee.</M07>
+<M07>There are three professors respectively serve as a member of the China Bilingual Lexicography Committee, China Association for Comparative Studies of English and Chinese as well as a permanent member of Hubei Foreign Literature Association.</M07>
+
+<M07>Among all the courses, there are two national excellent courses, namely “College English” and “English-Chinese Translation” which have been upgraded as national excellent resources sharing courses.</M07>
+<M07>Also, we have three provincial excellent courses, two of which have been identified as provincial quality resources sharing courses.</M07>
+<M07>In addition, there are eleven flagship courses and one high-quality video open course as well as one top-quality public selective course for the whole university.</M07>
+
+<M06>The school houses a range of advanced teaching and research facilities.</M06>
+<M01>There are seven research centers including Foreign Language Education Research Institute, Linguistic Research Center, Translation Research Center, and Comparative Culture/Literature Research Institute as well as Country/Region Research Center, Japanese Culture Research Center and German Culture Research Center.</M01>
+<M06>Besides, there are Simultaneous Interpretation Laboratory, Computer-aided Translation Laboratory, Interpretation Training Platform and Language Learning Demonstration Center of Hubei Province.</M06>
+
+<OTHER>History</OTHER>
+
+<M02>School of Foreign Languages of Huazhong University of Science and Technology (HUST) is founded based on the former Russian Teaching Group of Public Course Teaching-research Office of Huazhong College of Technology in 1953.</M02>
+<M02>During its development history, it has gone through several reforms which lead to its faster development, higher standard, larger scale as well as stronger strength, achieving splendid achievements.</M02>
+
+<M02>In 1959, the Huazhong College of Technology established the department of basic courses with several divisions including Foreign Language Office, which consisted of Russian group and English group, later Japanese group added.</M02>
+
+<M02>In 1980, based on the above three teaching-research groups, the Department of Foreign Languages was set up.</M02>
+
+<M02>In September, 1981, the Department of Foreign Languages recruited the first undergraduates majoring in English for Science and Technology.</M02>
+
+<M02>In September, 1988, the first students majoring in Japanese were admitted.</M02>
+
+<M02>In May, 2000, the former Huazhong University of Technology, Tongji Medical University, Wuhan Urban Construction Institute and Cadre Administration Department of Science and Technology Ministry were integrated into HUST.</M02>
+<M02>Meanwhile, the former Department of Foreign Languages of Huazhong University of Technology, the Department of Foreign Languages of Tongji Medical University and the former Foreign Teaching-research Office of Wuhan Urban Construction Institute were merged into the Foreign Language Department of HUST.</M02>
+
+<M02>In October, 2005, the Department of Foreign Languages was renamed School of Foreign Languages of HUST with the Department of English, the Department of Japanese, and the Department of German as well as College English Teaching Center, Voice Learning Demonstration Center, Foreign Language Testing Center and Voice Laboratory.</M02>
+
+<M02>In March, 2009, the Department of Translating and Interpreting was established.</M02>
+
+<M02>In October, 2011, the Department of French was set up.</M02>
+
+<OTHER>Laboratories</OTHER>
+
+<M06>The school houses three professional laboratories including the “Simultaneous Interpretation Laboratory”, “Computer-aided Translation Laboratory” and “Interpretation Training Platform” as well as 21 multimedia language laboratories, covering an area of 2522.5 square meters in total.</M06>
+<M06>The hardware devices include computers of Dale, Lenovo, Founder and professional voice equipment such as Panasonic WE-LL500AACL while the software consists of high-quality language teaching platforms of Panasonic, BOSCH, TRADOS and TELEVIC.</M06>
+
+<OTHER>School Library</OTHER>
+
+<M06>Covering an area of 150 square meters, the school library provides 80 kinds of periodicals, including 18 foreign journals and 72 Chinese journals, as well as more than 20,000 books.</M06>
+
+<OTHER>Student Union</OTHER>
+
+<M01>The Student Union of Huazhong University of Science and Technology is a student organization on behalf of all students of the university.</M01>
+<M01>From the foundation of its first session, the Student Union, aiming at serving for students whole-heartedly, continually improved the quality of its members and set up good student cadre images.</M01>
+<M01>They had directed the work of its branches in every department and held various activities on science, culture and academy, which were highly praised.</M01>
+<M01>HUST has currently 49 clubs and associations.</M01>
+
+<OTHER>Literature and Art</OTHER>
+
+<M01>- Drama Association
+- Guitar Association
+- Cartoon Association
+- Bamboo Flute and Vertical Bamboo Flute Association
+- International Standard Dance Association
+- Movie Appreciation Association
+- Lecture and Eloquence Association
+- Music Association
+- Etiquette Association
+- Dance Association</M01>
+
+<OTHER>Practice</OTHER>
+
+<M01>- Young Volunteers’ Association
+- Public Relation Association
+- National Defense Association
+- Stamp-Collecting Association
+- White-Flay Dolphin Protection Association
+- Association of Pioneers of Scientific and Technological Work
+- Market Planning Association
+- Photography Association
+- Advertising Association
+- Marketing Association
+- Travelers’ Club
+- Brand Association
+- Expedition Association</M01>
+
+<OTHER>Science and Technology</OTHER>
+
+<M01>- CAI Association
+- Linux Association
+- Radio Association
+- Mathematical Model-Building Association
+- Physics Association
+- Digitalization and Net Association
+- E-commerce Association
+- Computer Association</M01>
+
+<OTHER>Sports</OTHER>
+
+<M01>- Badminton Association
+- Volleyball Association
+- Table Tennis Association
+- Football Association
+- Chess Association
+- Kongfu Association
+- Chinese Chess Association
+- Basketball Association</M01>
+
+<OTHER>Humanities and Social Sciences</OTHER>
+
+<M01>- Xiayu Poetry Society
+- Thinking Space Association
+- Future Administrators’ Association
+- Astronomy Enthusiasts’ Association
+- Economics Club
+- Laws Association
+- Duo Voice Association
+- Future Leaders’ Association
+- English Association
+- Psychology Enthusiasts’ Association</M01>
+
+<OTHER>University Library</OTHER>
+
+<M02>Huazhong University of Science and Technology (HUST) Library was a merger of the original HUST Library, Tongji Medical School Library and Wuhan Urban Construction Institute Library.</M02>
+<M02>HUST Library, formerly known as Huazhong Institute of Technology Library, was founded in 1953.</M02>
+<M02>Tongji Medical School Library, originally know as “DeWen Medical School”, was founded in 1907.</M02>
+<M02>“Wuhan Urban Construction School Library” came from “Zhongnan Construction Engineering School Library”, which was founded in 1952.</M02>
+<M02>When Wuhan Urban Construction School was rebuilt in July, 1981, the library was also reconstructed.</M02>
+<M02>When the three universities merged in May, 2000, Wuhan Urban Construction Institute Library was merged into HUST Library, now called “East Campus Library”.</M02>
+<M02>The formal Tongji Medical University Library was renamed Medical School Library and merged into HUST Library in October, 2006, now called “Medical Science Library”.</M02>
+<M06>The three fully functional libraries have a total floor area of 42642 square meters.</M06>
+<M06>After the new extension to the Main Library is put into use, the total floor area will reach 67090 square meters.</M06>
+<M06>Now the library collection amounts to 5.36 million volumes (including 1.6 million E-books), which covers 9 disciplines (such as science, engineering, literature, management, medicine and etc.).</M06>
+<M06>The collection of the following disciplines has reached the research level: Mechanical Science; Mechanical Industry; Electrical Engineering; Thermal Power Engineering of Power Plant; Metallography; Metallurgical Technology; Electronic Materials and Components; Refrigeration and Cryogenic Engineering; Physical Electronics and Optical Electronics; Computer Devices and Equipments; Industrial Automation; Pattern Recognition and Intelligence Control; Systems Engineering; Communication and Information Systems; Environmental Hygiene; Basic Medical Science; Pathology; Internal Medicine; Epidemiology; Surgery; Obstetrics and Gynecology; Pharmacology.</M06>
+<M06>The library has a very comprehensive collection of medical literature in German and urban construction, which is one of the featured library collection.</M06>
+
+<M06>In recent years, HUST Library has put more efforts to construct documentary resources.</M06>
+<M06>The library manages to speed up the development of documentary resources and improve the literature availability and coverage through collecting and integrating E-publications and internet resources, constructing characteristic databases and conducting documentary exchange with other publishers and universities at home and abroad.</M06>
+<M06>Thus the information needs of university staff and students could be met to the most.</M06>
+<M06>At present, the library has 522 Chinese and foreign databases and owns 1.6 million E-books and 25405 E-journals.</M06>
+<M06>Besides, the library also constructs its own characteristic databases like “Chinese and Foreign Bibliographic Database”, “Hubei Union Catalogue Database of Foreign Language Journals”, “HUST Thesis Database”, “Machinery Manufacturing and Automation Database”, etc.</M06>
+
+<M06>The library has over 40 reading rooms, with about 3300 study places in total, which provides the “complete-open reading service”.</M06>
+<M06>The library has 4 electronic reading rooms, equipped with more than 300 computers.</M06>
+
+<M06>In the past few years, the library has strengthened the construction of the networking environment with the help of “211 Project” and “Action Plan”.</M06>
+<M06>Now, a high speed LAN has been established.</M06>
+<M06>At present, the three libraries possess over 800 computer terminals and numerous information nodes.</M06>
+<M06>The disk array capacity has reached 358TB.</M06>
+<M06>With a rapid developing network system, the library has preliminarily transformed from traditional library based on physical collections preservation and service to a modern library abundant in digital resources, which has greatly improved the means and conditions for the readers to access information.</M06>
+<M06>The library’s networking system could provide round-the-clock service of high quality for the readers, including bibliographic query, disc retrieval, full-text retrieval of E-resources, online interlibrary loan and document delivery, online information resources navigation, online user education, etc.</M06>
+
+<M07>At present, the library is honored as “The Excellent Library” and “Research-level Literature Collection Unit” in Hubei Province.</M07>
+<M07>It is the core member library of CALIS as well.</M07>
+<M07>The library is one of the first “University Scientific and Technological Novelty Search Workstation” approved by the Ministry of Education.</M07>
+<M07>What’s more, the library is also the novelty searching unit recognized by the Commission of Science, Technology, and Industry for National Defense and the Ministry of Health.</M07>
+
+<OTHER>Teaching Building</OTHER>
+
+<M06>Teaching buildings in HUST, apart from those belonging to schools and departments, including East-9, East-12, West-5 and West-12, which provide sufficient place and neat and quiet environment, are your best choice for both in-class learning and self-study.</M06>
+<M06>Additionally, rock tables and chairs within groves scattered inside the campus offer students another choice for studying, especially for morning reading.</M06>
