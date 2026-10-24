@@ -1,0 +1,1077 @@
+<OTHER>Department of Classics</OTHER>
+
+<M02>The Department of Classics is one of Brown’s original academic departments, established when Brown was founded in 1764.</M02>
+
+<M04>The department offers advanced work in Ancient Greek, Latin, Sanskrit and Modern Greek languages, literatures, history and philosophy.</M04>
+
+<OTHER>Honoring Tradition, Embracing Modernity</OTHER>
+
+<M03>While we are committed to the traditional study of ancient Greek and Roman cultures, languages and literature, our department also considers Classical Studies to be a collaborative discipline that encompasses a number of subjects.</M03>
+
+<M05>Students are encouraged to take courses in Art History, Archaeology, Comparative Literature, Egyptology and Assyriology, Philosophy and several other affiliated areas.</M05>
+
+<M03>We believe these studies with overlapping interests will foster cross-disciplinary collaboration and innovation.</M03>
+
+<OTHER>Academic Community</OTHER>
+
+<M04>The research interests of our faculty testify to the numerous and varied areas that comprise the study of Classics.</M04>
+
+<M05>Each year, the Classics Department hosts a series of lectures, seminars, and colloquia, offered both by our own faculty and by invited speakers and participants.</M05>
+
+<M06>In addition, the department regularly welcomes a number of international scholars who have won fellowships or short-term awards to work with Brown faculty on a formal or informal basis.</M06>
+
+<M10>Faculty Publications
+Annual Lectures and Meetings</M10>
+
+<OTHER>Student-Centric Engagement</OTHER>
+
+<M04>Our students are very much involved in the department’s activities.</M04>
+
+<M10>The Classics Departmental Undergraduate Group (DUG) plans excursions, discussions and social events for both students and faculty.</M10>
+
+<M05>Classics graduate students contribute to the department’s lively program of intellectual exchange in numerous ways, including serving as teaching fellows and teaching assistants, organizing a regular colloquium series, and planning and hosting an annual lecture.</M05>
+
+<M09>Visit our Facebook page and our Instagram account to catch a glimpse of what’s going on right now in the Classics Department at Brown.</M09>
+
+<M10>You can also subscribe to our announcements and newsletter.</M10>
+
+<M10>Departmental Undergraduate Group (DUG)
+Announcements and Newsletters
+Facebook
+Instagram</M10>
+
+<OTHER>Donate to the Classics Department</OTHER>
+
+<M09>Your generous gift will support the continued study of classical antiquity at Brown University and the lively Classics@Brown community. Through your donation, the Classics Department can continue to foster an innovative and collaborative program, lead ground-breaking research in the field, and achieve excellence in teaching.</M09>
+
+<OTHER>Donate to Classics@Brown</OTHER>
+
+<OTHER>Contact Information</OTHER>
+
+<M10>Mailing Address
+Department of Classics
+Brown University
+Box 1856
+Providence, RI 02912-1856</M10>
+
+<M10>Phone
+401-863-1267</M10>
+
+<M10>Email
+classics_department@brown.edu</M10>
+
+<OTHER>Office Hours</OTHER>
+
+<M01>Academic Year
+8:30 a.m. - 5:00 p.m., Monday - Friday</M01>
+
+<M01>Summer Hours
+8:00 a.m. - 4:00 p.m., Monday - Friday</M01>
+
+<OTHER>Visit Us</OTHER>
+
+<M10>Macfarlane House
+48 College Street, Providence, RI 02906</M10>
+
+<M04>The main office of the Classics Department is located in Macfarlane House, just down the hill from Brown’s iconic Van Wickle Gates.</M04>
+
+<M02>Macfarlane House hosts the offices of several departmental faculty and emeritus faculty, our Couch Memorial Library, the graduate student lounge, and a seminar room.</M02>
+
+<M10>Wilbour Hall
+2 Prospect Street, Providence, RI 02906</M10>
+
+<M01>The Department of Classics occupies the lower level, first and third floor of Wilbour Hall.</M01>
+
+<M06>Wilbour Hall hosts the offices of several departmental faculty along with an office for Teaching Fellows and Teaching Assistants.</M06>
+
+<M01>Brown’s Department of Egyptology and Assyriology is also located in Wilbour Hall.</M01>
+
+<OTHER>Maps and Directions</OTHER>
+
+<M04>Caveat autocinetistes!</M04>
+
+<M04>("Let the driver beware") If you are using GPS to find us, be sure to type in "Macfarlane House" as the address, otherwise you will most certainly get lost.</M04>
+
+<M04>Also, parking is at a premium around campus.</M04>
+
+<M04>Although those arriving after business hours should have little difficulty parking within a few blocks of Macfarlane House or Wilbour Hall, visitors are encouraged to allow enough time to find parking.</M04>
+
+<M04>Parking and driving directions can be found on the About Brown page.</M04>
+
+<M06>Various campus maps are available from Brown's Department of Facilities Management.</M06>
+
+<OTHER>Follow us on social media
+Facebook
+Instagram</OTHER>
+
+<OTHER>department of comparative literature</OTHER>
+
+<OTHER>About Us</OTHER>
+
+<M04>Comparative Literature is the study of cultural expression across linguistic boundaries.</M04>
+
+<M06>The community of comparatists at Brown includes faculty, graduate students, and undergraduates who share a commitment to multilingualism and interdisciplinary study.</M06>
+
+<M04>This community includes scholars of literature in English, French, Spanish, Portuguese, German, Italian, Swedish, Russian, Chinese, Japanese, Korean, Hebrew, Arabic, Latin, and Greek.</M04>
+
+<M04>Areas of focus include classical reception, post-colonial literature, environmental humanities, literary theory, and translation studies.</M04>
+
+<M04>Although these groupings may suggest segregated interests, the Department’s hallmark is inclusiveness and collaboration.</M04>
+
+<M06>Faculty and students work in several areas, several literatures, and often several disciplines.</M06>
+
+<M04>Department offerings and research make frequent use of linguistics, film, photography, visual art, music, philosophy, history, sociology, political science, computer science, medicine, and the digital humanities.</M04>
+
+<M05>Courses span the cultures of the world and historical periods ranging from antiquity to the present.</M05>
+
+<M04>Students read widely from different literatures and disciplines, developing a focused critical understanding of important literary and cultural questions.</M04>
+
+<M04>Both the Department’s undergraduate and graduate programs are held to be among the finest in the country.</M04>
+
+<OTHER>Info for Prospective Concentrators</OTHER>
+
+<M05>Interested in declaring a concentration in Comparative Literature?</M05>
+
+<M04>Click below.</M04>
+
+<OTHER>Administrative Hours</OTHER>
+
+<M04>Academic Year 8:30 am to 5:00 pm, Monday - Friday
+Summer Hours 8:00 am to 4:00 pm, Monday - Friday</M04>
+
+<M04>Spring 2026 Instructor Office Hours</M04>
+
+<OTHER>Faculty Instructors</OTHER>
+
+<M10>Azoulay, Ariella
+155 George St. 209
+x3-2807
+ON LEAVE</M10>
+
+<M04>Bernstein, Susan
+Prospect 202
+x3-3165
+Wed 2:30-4:30 pm</M04>
+
+<M04>Calotychos, Vangelis
+Macfarlane 210
+x3-2173
+Contact for appointment</M04>
+
+<M04>Chin, Tamara
+Prospect 305
+x3-6925
+Contact for appointment</M04>
+
+<M04>Clayton, Michelle
+Rochambeau 214
+x3-9205
+ON LEAVE</M04>
+
+<M10>Eccleston, Sasha-Mae
+Wilbour 102A
+x3-1856
+Tue 11 am-12 pm via Zoom (please sign up for a meeting time)</M10>
+
+<M10>Freeman, Joshua
+Prospect 106
+Wed 3-5 pm (please sign up for a meeting time)</M10>
+
+<M04>Haynes, Kenneth
+Prospect 301
+x3-3616
+Thu 10 am-12 pm</M04>
+
+<M04>Hicks-Bartlett, Alani
+Rochambeau 201
+x3-2567
+Contact for appointment</M04>
+
+<M04>Ierulli, Molly
+Prospect 211
+x3-3383
+Contact for appointment</M04>
+
+<M04>Kanchan, Namrata
+Prospect 313
+Contact for appointment</M04>
+
+<M04>Levy, Dore
+Prospect 205
+x3-7975
+Contact for appointment</M04>
+
+<M10>McLaughlin, Kevin
+70 Brown St. 211
+x3-9525
+Contact for appointment</M10>
+
+<M04>Mostefai, Ourida
+Prospect 212
+x3-2494
+Tue 10 am-12 pm, or by appointment</M04>
+
+<M04>Muhanna, Elias
+Prospect 206
+x3-2610
+Tue 1-3 pm</M04>
+
+<M04>Nasser, Dima
+Blistein 226
+Mon 11 am-1 pm, or by appointment</M04>
+
+<M10>Niedermaier, Jeffrey
+Prospect 306
+x3-3696
+Wed 12:30-2:30 pm by appointment (please sign up for a meeting time)</M10>
+
+<M04>Pabon, Maru
+Prospect 304
+Tue 9:30-11:30 am by appointment</M04>
+
+<M04>Perry, Samuel
+Gerard 201
+x3-9762
+Mon 2-3 pm and Tue 12-1 pm</M04>
+
+<M04>Redfield, Marc
+Prospect 201
+x3-3624
+Wed 12-1:45 pm, or by appointment</M04>
+
+<M04>Reed, Joseph
+Macfarlane 203
+x3-6230
+Wed 12-1 pm, or by appointment</M04>
+
+<M04>Richter, Gerhard
+190 Hope 104
+x3-2650
+Tue 1:30-2:30 pm</M04>
+
+<M04>Sng, Zachary
+190 Hope 101
+x3-3002
+Contact for appointment</M04>
+
+<M04>Stewart-Steinberg, Suzanne
+190 Hope 301
+x3-6898
+By appointment</M04>
+
+<M04>Szendy, Peter
+Blistein 221
+497-3919
+ON LEAVE</M04>
+
+<M04>Valente, Luiz
+Meiklejohn 203
+x3-1830
+Mon 2-3 pm and Tue 2-4 pm, or by appointment</M04>
+
+<M04>Whitfield, Esther
+Prospect 302
+x3-3277
+Tue 10 am-12 pm</M04>
+
+<OTHER>Teaching Fellows & Teaching Assistants</OTHER>
+
+<M04>Gonzalez, Andrés
+Rochambeau House 301, or Zoom
+Mon 11 am-12 pm</M04>
+
+<M04>Holyoak, Caroline
+Prospect House Basement
+Thu 10:30 am-12:30 pm</M04>
+
+<M04>Manuel, Steven
+Zoom
+Thu 2-4 pm, or by appointment</M04>
+
+<M04>Morales, Alejandro
+Prospect 102
+Wed & Fri 10-11 am</M04>
+
+<M04>Webb, Benjamin
+Prospect 102
+Wed & Fri 10-11 am</M04>
+
+<OTHER>Department Officers</OTHER>
+
+<M10>Professor Kenneth Haynes, Department Chair
+kenneth_haynes@brown.edu</M10>
+
+<M10>Professor Esther Whitfield, Director of Graduate Studies
+esther_whitfield@brown.edu</M10>
+
+<M10>Professor Marc Redfield, Director of Undergraduate Studies
+marc_redfield@brown.edu</M10>
+
+<M10>Professor Ourida Mostefai, Director of the Honors Program
+ourida_mostefai@brown.edu</M10>
+
+<OTHER>Concentration Advisors</OTHER>
+
+<M10>Professor Joshua Freeman
+joshua_l_freeman@brown.edu</M10>
+
+<M10>Professor Kenneth Haynes
+kenneth_haynes@brown.edu</M10>
+
+<M10>Professor Alani Hicks-Bartlett
+alani_hicks-bartlett@brown.edu</M10>
+
+<M10>Professor Dore Levy
+dore_levy@brown.edu</M10>
+
+<M10>Professor Maru Pabon
+maru_pabon@brown.edu</M10>
+
+<M10>Professor Marc Redfield
+marc_redfield@brown.edu</M10>
+
+<OTHER>Administrative Staff</OTHER>
+
+<M10>Rebecca Bardsley
+Academic Department Team Manager
+rebecca_bardsley@brown.edu
+401-863-1267
+Macfarlane House</M10>
+
+<M10>Tiffany Lewis
+Administrative Coordinator
+tiffany_lewis@brown.edu
+401-863-2818
+Prospect House</M10>
+
+<M10>Tracy Miller
+Student Affairs Manager
+tracy_miller@brown.edu
+401-863-3543
+Prospect House</M10>
+
+<OTHER>Contact or Visit Us</OTHER>
+
+<M10>Department of Comparative Literature
+Brown University
+Box 1935
+36 Prospect Street
+Providence, RI 02912</M10>
+
+<M10>Phone (401) 863-2818
+comp_lit@brown.edu</M10>
+
+<M10>Subscribe to CompLit@Brown Announcements
+Campus Map</M10>
+
+<OTHER>Follow Us on Social Media
+@CompLitAtBrown
+Facebook
+Instagram</OTHER>
+
+<OTHER>CompLit@Brown Intranet</OTHER>
+
+<M07>Department of French and Francophone Studies
+Centre d'Excellence</M07>
+
+<M05>Brown University has been selected by the French Embassy as a member of its network of Centers of Excellence housed at major research universities.</M05>
+
+<M04>These centers receive recurring financial support and yearly project-based support to fund a wide variety of activities and research.</M04>
+
+<M04>Their mission is to integrate, support, and promote research and teaching connected with France.</M04>
+
+<M07>The Center of Excellence at Brown University
+Discover more about Brown's French Center of Excellence, housed at the Cogut Institute for the Humanities.</M07>
+
+<M10>Center Events and Past Projects
+Learn about how the Center of Excellence fosters research and collaboration on topics related to France and the French-speaking world.</M10>
+
+<M08>French Embassy Network of Centers of Excellence
+See a list of universities currently housing a Center of Excellence and learn more about the structure of the Centers and their partnership with the French Embassy.</M08>
+
+<OTHER>Brown DELF Testing Center</OTHER>
+
+<M01>The Department of French and Francophone Studies opened a DELF Testing Center in Spring 23 to provide French learners the opportunity to certify their language proficiency level.</M01>
+
+<M04>DELF is a French acronym that means Diploma in French language studies (“Diplôme d’études en langue française” in French) and this diploma is awarded by the French Ministry of Education to demonstrate the proficiency across the 4 communication skills of non-French candidates (French learners).</M04>
+
+<M04>More precisely, it is a global assessment that validates communication skills in French as a foreign language, and this certification is internationally recognized.</M04>
+
+<OTHER>FAQ Section</OTHER>
+
+<M10>Can I register for different DELF levels at once?</M10>
+
+<M10>Can I register for the mock DELF, but not yet for the real DELF exam?</M10>
+
+<M04>Where do I pay to secure my DELF registration?</M04>
+
+<M06>I am a student on financial aid.</M06>
+
+<M04>Can I get some financial support?</M04>
+
+<M05>Am I required to take a DELF exam to participate in the Brown in France program?</M05>
+
+<M04>How can I prepare for the DELF exam?</M04>
+
+<M04>As a French learner, and potential DELF candidate, 4 DELF options are possible as each option corresponds to a different level of proficiency according to the Common European Framework of Reference for Languages.</M04>
+
+<M04>These 4 options are exemplified below for your convenience:</M04>
+
+<M04>DELF B2 = Independent user 2
+DELF B1 = Independent user 1
+DELF A2 = Basic user 2
+DELF A1 = Basic user 1</M04>
+
+<M10>To help you choose your DELF proficiency test registration level (A1, A2, B1 or B2), you may contact your current French instructor, consult the DELF Resources below, and/or contact the director of the DELF testing center at Brown (Stéphanie Gaillard at stephanie_gaillard@brown.edu).</M10>
+
+<M04>Depending on your project(s) with the French language (i.e., internship, work, immigration), the DELF might be a necessary certification to work professionally or to undertake studies in a French/Francophone university or Grande École.</M04>
+
+<M04>The DELF is also required for immigration purposes in various French-speaking countries such as Canada, France, or Belgium.</M04>
+
+<M06>For more information regarding the cost, potential financial aid, and how to formally register, please visit the “DELF Registration” section.</M06>
+
+<M06>To best prepare for this French certification, you have many resources at your disposal.</M06>
+
+<M06>Be fully engaged in your current French class(es)
+Visit the following online resources to help you better understand the DELF.</M06>
+
+<M04>France Education International (FEI).</M04>
+
+<M04>On this website you can:
+See actual exams and their corrections (A1, A2, B1, B2).</M04>
+
+<M05>Read the candidate manual to help you prepare for the exam (exam format, skills listed by levels, and many tips).</M05>
+
+<M04>Watch their YouTube channel on which you can see the DELF oral exam and see how they are graded.</M04>
+
+<M04>A useful web application, developed by Data Science Fellow Nuj Naguleswaran, here at Brown to help you understand the language skills you need to master (Can-Do statements) at each level of the Common European Framework of Reference for Languages (CEFRL), on which DELF exams are based.</M04>
+
+<M10>The website “RFI savoirs” (Radio France Internationale: international radio news network) offers training for listening comprehension tests, you can access it here.</M10>
+
+<M10>Participate in social events (as much as possible) offered by the Department of French & Francophone Studies for you.</M10>
+
+<M06>Go to the Rockefeller Library (Carrel Rock B-006) to consult prep books that have been purchased for you to help you prepare for this certification.</M06>
+
+<M10>ABC DELF – CLÉ international (A1, A2, B1, and B2 levels)
+Le DELF 100% réussite – Didier (A1, A2, B1, and B2 levels)
+Attend events organized from the Center for Language Studies
+Practice your French with classmates and friends every day.</M10>
+
+<M01>The Department of French and Francophone Studies is offering the DELF at a reduced cost.</M01>
+
+<M01>The DELF exam, regardless of the chosen level (A1, A2, B1 or B2), is composed of 2 parts:</M01>
+
+<M04>Oral comprehension, written comprehension and production
+Oral interview</M04>
+
+<M04>Below is a recap table of the pricing according to the DELF levels for Brown/RISD students</M04>
+
+<M04>DELF pricing and exam info for Brown/ RISD candidates</M04>
+
+<M01>CEFRL Levels
+Cost per candidate Brown/RISD
+Written Part Duration
+Oral Part Preparation
+Oral Part Duration</M01>
+
+<M04>A1 $54 1h20 10 min 5-7 min
+A2 $58 1h40 10 min 6-8 min
+B1 $62 1h45 10 min 15 min
+B2 $76 2h30 30 min 20 min</M04>
+
+<M04>Below is a recap table of the pricing according to the DELF levels for outside candidates</M04>
+
+<M04>DELF pricing and exam info for outside Brown/RISD candidates</M04>
+
+<M01>CEFRL Levels
+Cost per candidate Outside Brown/RISD
+Written Part Duration
+Oral Part Preparation
+Oral Part Duration</M01>
+
+<M04>A1 $135 1h20 10 min 5-7 min
+A2 $145 1h40 10 min 6-8 min
+B1 $155 1h45 10 min 15 min
+B2 $190 2h30 30 min 20 min</M04>
+
+<M04>Our next DELF sessions will take place in April 2026 at the following dates:</M04>
+
+<M10>Part one (= épreuves collectives)
+DELF A1 & A2: Monday, April 6, 2026 | in the afternoon, available upon request only (contact: stephanie_gaillard@brown.edu)
+DELF B1: Tuesday, April 7, 2026 | 2-4 pm | Sayles Hall, Room 104
+DELF B2: Wednesday, April 8, 2026 | 2-4:45 pm | Rockefeller Library, Room 412</M10>
+
+<M04>Part two for all DELF levels (= épreuves individuelles)
+DELF ALL levels:
+Saturday April 11, 2026 (exact time will be sent by email)</M04>
+
+<M04>All exams for part 2 will take place in Sayles Hall 204 & 205 (entrance from 75 Waterman St., building located in front of the main green).</M04>
+
+<M04>If you are an external candidate, please make sure to arrive 30 min ahead of time (for both parts) so that can can help you access the buildings that require a Brown ID card.</M04>
+
+<M10>When registration opens for the April 2026 session, click here to register and secure your spot.</M10>
+
+<M04>As our center has limited capacity, spots are limited and tend to fill quickly.</M04>
+
+<M04>All registrations are final.</M04>
+
+<M04>Please note, our center offers only DELF exams.</M04>
+
+<M04>If you need to take the DALF, please consult this webpage.</M04>
+
+<OTHER>French DELF Testimonies @ Brown University</OTHER>
+
+<M04>Testimonies 2023
+Testimonies 2024
+Testimonies 2025</M04>
+
+<OTHER>Rochambeau House</OTHER>
+
+<M10>84 Prospect Street
+Parker, Thomas & Rice, architects
+Owned and occupied by Brown University</M10>
+
+<OTHER>Naming and Origins</OTHER>
+
+<M04>Rochambeau House was named for Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau (1725-1807), the French General who fought alongside George Washington at the battle of Yorktown in the American Revolutionary war.</M04>
+
+<M08>Designed by a Boston firm of distinguished residential architects in close collaboration with Mrs. Sharpe, this substantial house recalls Parisian hotel particulars of the eighteenth century.</M08>
+
+<M04>Both the picturesque farms and chateaux and the sophisticated city dwellings of France were used as sources for American houses in the 1920s.</M04>
+
+<M04>Providence has a number of these, but this is by far the most substantial.</M04>
+
+<M04>What most distinguishes the Sharpe House is quality of design and workmanship in concert with the personal vision and involvement of Mrs. Sharpe, whose good taste and personality reveal themselves throughout the house and the garden.</M04>
+
+<M04>Much of the interior decorative work, including a number of cornices and all of the paneling in the southeast room, was imported from France.</M04>
+
+<OTHER>Present Day</OTHER>
+
+<M04>The use of French sources here makes the building eminently appropriate for its reuse by Brown.</M04>
+
+<M01>Today, as Rochambeau House, it is home to the University’s Department of French and Francophone Studies and Department of Hispanic Studies, fulfilling Mrs. Sharpe's wish to see her home used by her husband's and son's alma mater.</M01>
+
+<M04>Mrs. Sharpe’s great passion was landscape.</M04>
+
+<M04>Responsible for plantings at Brown University, India Point Park, and throughout the city through the Sharpe Tree Fund, she oversaw the developing landscape around her house.</M04>
+
+<M04>In the early 1980s, she reflected on her design involvement: "My biggest contribution is the garden, with its plan and plantings entirely my doing.</M04>
+
+<M04>No landscape designer helped me in the garden."</M04>
+
+<M04>On the west side of the house is a terrace overlooking a formal lawn, with beds and paving arranged in false perspective to increase the perception of depth.</M04>
+
+<M04>Attention to detail is keen: a seventeenth-century English lead water spout with Mr. Sharpe's monogram, espaliered pear trees along the west wall, and garden benches copied from those in Napoleon's garden in Elba.</M04>
+
+<M04>Throughout the grounds, both spatial organization and selection of materials are superbly balanced.</M04>
+
+<OTHER>Contact Us</OTHER>
+
+<M10>Address
+Rochambeau House
+84 Prospect Street
+Box 1961
+Providence, Rhode Island 02912</M10>
+
+<M10>Phone
+(401) 863-3517</M10>
+
+<M10>Fax
+(401) 863-1669</M10>
+
+<M10>Email
+french_francophone_studies@brown.edu</M10>
+
+<M10>More About Rochambeau House
+Rochambeau House Building Use Policy</M10>
+
+<OTHER>Departmental Officers</OTHER>
+
+<M10>Virginia Krause
+Professor, Departmental Chair
+virginia_krause@brown.edu</M10>
+
+<M10>Thangam Ravindranathan
+Professor, Director of Undergraduate Studies
+thangam_ravindranathan@brown.edu</M10>
+
+<M10>Lewis Seifert
+Professor, Director of Graduate Studies
+lewis_seifert@brown.edu</M10>
+
+<OTHER>Faculty Advisors</OTHER>
+
+<M10>Stéphanie Ravillon
+Associate Teaching Professor of French Studies, Brown in France Faculty Advisor, Language Placement Advisor
+stephanie_ravillon@brown.edu</M10>
+
+<OTHER>Connect with us</OTHER>
+
+<OTHER>Department of Italian Studies</OTHER>
+
+<M04>Italian Studies at Brown explores the culture, history and society of Italy and educates the next generation of scholars to focus on Italy in a global context.</M04>
+
+<OTHER>Mission</OTHER>
+
+<M06>Faculty members work with students to identify emergent problems leading to interdisciplinary research in content and method, through literary, historical and art historical studies, critical and sociopolitical theory, with an emphasis on the digital humanities and the latest methodologies in language pedagogy.</M06>
+
+<M03>Our mission is strengthened by long-term alliances between our department and Anthropology, Archeology, History of Art & Architecture, Classics, Comparative Literature, Computer Science, Film and Media Studies (MCM), History, Literary Arts, Musicology, Philosophy, Women and Gender Studies.</M03>
+
+<M04>Italian Studies fosters and actively encourages an inclusive and diverse learning environment.</M04>
+
+<OTHER>History</OTHER>
+
+<M05>The study of Italian culture and civilization has enjoyed steady growth at Brown since 1842, when the University first initiated a formal program in Italian language instruction.</M05>
+
+<M05>In the 1860s, courses in Italian history were first offered to Brown students, followed by courses in Italian art and architecture a few years later.</M05>
+
+<M05>In 1960, Italian language and literature courses were brought under the auspices of a new department of Spanish and Italian and, in the 1980s, exchange programs were developed with the University of Bologna and the University of Turin.</M05>
+
+<M02>In 1989, the Department of Italian Language and Literature was established as an autonomous academic unit, and in 2002 the unit renamed itself as Department of Italian Studies, reflecting its current interdisciplinary configuration.</M02>
+
+<OTHER>Meet Our Faculty and People</OTHER>
+
+<M06>Explore the expertise, experiences and backgrounds of Italian Studies faculty, staff, graduate students and alumni.</M06>
+
+<OTHER>Faculty</OTHER>
+
+<M10>Cristina Abbona-Sneider
+Associate Teaching Professor of Italian Studies, Director of Italian Language Studies, Director of Undergraduate Studies
+cristina_abbona@brown.edu
+401-863-3970
+Research Profile
+190 Hope St., Rm.</M10>
+
+<M05>302
+Research Interests: Constructivist curriculum design, digital pedagogy, alternative assessment, intercultural competence</M05>
+
+<M10>Caroline Castiglione
+Professor of Italian Studies, Professor of History
+caroline_castiglione@brown.edu
+401-863-2098
+Research Profile
+190 Hope St., Rm.</M10>
+
+<M04>303
+Research Interests: Political, legal, gender, family, and women's history, adversarial literacy in Early Modern Italy.</M04>
+
+<M10>Anna Maria Digirolamo
+Adjunct Assistant Professor of Italian Studies, Resident Director of Brown in Bologna Program
+anna_maria_digirolamo@brown.edu</M10>
+
+<M10>Ronald Martinez
+Professor of Italian Studies
+ronald_martinez@brown.edu
+401-863-3950
+Research Profile
+190 Hope St., Rm.</M10>
+
+<M04>308
+Research Interests: Dante and Trecento Studies, Renaissance drama and cultural history.</M04>
+
+<M10>Laura Odello
+Visiting Associate Professor - French and Francophone Studies, Visiting Associate Professor - Italian Studies
+laura_odello@brown.edu
+Research Interests: Contemporary philosophy, psychoanalysis and literature, Italian feminism, film, translation</M10>
+
+<M10>Massimo Riva
+Professor of Italian Studies, Coordinator of the Virtual Humanities Lab, Affiliated Professor of Modern Culture and Media, On leave Spring 2026
+massimo_riva@brown.edu
+401-863-3984
+Presidential Award Lecture
+Research Profile
+190 Hope St., Rm 202
+Research Interests: Eighteenth and Nineteenth C. studies, Media Archaeology, Visual Studies, Digital Humanism</M10>
+
+<M10>Suzanne Stewart-Steinberg
+The John P. Birkelund Distinguished Professor of European Studies, Professor and Chair of Italian Studies, Professor of Comparative Literature, Affiliated Professor of Modern Culture and Media
+suzanne_stewart-steinberg@brown.edu
+401-863-3380
+Research Profile
+190 Hope St., Rm 301
+Research Interests: Italian and German literature of the 19th and 20th centuries, psychoanalysis and literary and cultural theory, with particular interests in the construction of gender, memory wars in contemporary Italy, fascist land reclamation.</M10>
+
+<OTHER>Research & Publications</OTHER>
+
+<M06>Faculty of Italian Studies delve into a wide array of topics within Italian culture, history, and language, contributing to the vibrant academic landscape in the field through their rigorous research and thought-provoking publications.</M06>
+
+<OTHER>Areas of Research</OTHER>
+
+<M06>Faculty currently study: the symbiotic evolution of politics and mothering in early modern Italy (Castiglione); the collaboration of the Papacy with Fascism (Kertzer); the role of images in forming networks of publishers, printers and patrons in early modern Rome (Lincoln); Dante’s poetic valorization of early modern technologies (Martinez); the archaeology of virtual reality in the eighteenth and nineteenth centuries (Riva); Fascism, Post-Fascism and the questions of reclamation and consent (Stewart-Steinberg).</M06>
+
+<M06>View Faculty profiles.</M06>
+
+<OTHER>Faculty Bookshelf</OTHER>
+
+<M06>Explore books written and edited by the Italian Studies faculty.</M06>
+
+<OTHER>Virtual Humanities Lab</OTHER>
+
+<M06>The Virtual Humanities Lab (VHL) provides a portal and a collaborative platform for faculty-led digital projects in Italian literature, philosophy, history and history of art and architecture, ranging from the early modern to the contemporary period.</M06>
+
+<OTHER>Italian Studies Colloquium</OTHER>
+
+<M05>The Italian Studies Colloquium is a bi-weekly forum and seminar for an exchange of ideas and work of the community of Italian scholars at Brown and invited outside scholars.</M05>
+
+<M06>Graduate students enroll and present their work in progress, and engage the work of faculty and visitors.</M06>
+
+<OTHER>department of literary arts</OTHER>
+
+<OTHER>Contact</OTHER>
+
+<M04>Phone, email, mailing address and administration contacts.</M04>
+
+<M10>Phone
+(401) 863-3260</M10>
+
+<M10>Email
+writing@brown.edu</M10>
+
+<M10>Mailing & Street Addresses
+Box 1923
+Brown University
+Providence, RI 02912</M10>
+
+<M10>68 & 1/2 Brown Street, Providence</M10>
+
+<OTHER>Administration</OTHER>
+
+<M10>Matt Carlson
+Academic Office and Technical Coordinator
+matt_carlson@brown.edu</M10>
+
+<M10>Karan Mahajan
+Associate Professor of Literary Arts, Director of Graduate Studies
+Karan_Mahajan@brown.edu</M10>
+
+<M10>Gale Nelson
+Academic Department Director, Senior Lecturer
+pgn@Brown.edu</M10>
+
+<M10>Matthew Shenoda
+Professor and Chair of Literary Arts
+matthew_shenoda@brown.edu</M10>
+
+<M10>Jenny Witt
+Student Affairs Manager
+Jennifer_Witt@brown.edu</M10>
+
+<M04>Along with only a handful of other writing programs nationwide, Literary Arts at Brown University provides a home for innovative writers of fiction, poetry, electronic writing (hypertext) and mixed media.</M04>
+
+<M02>Established in 1970 by poet, translator and critic Edwin Honig, Literary Arts continues its tradition of hiring and retaining a faculty comprised of nationally and internationally known authors.</M02>
+
+<M05>Each year, the department offers 60 – 70 classes, awards the M.F.A. degree to ten to 12 graduate student writers, and confers Honors on about 20 talented undergraduate writers.</M05>
+
+<M05>In spring 2005, Literary Arts established the undergraduate concentration in Literary Arts.</M05>
+
+<OTHER>Diversity, Inclusion & Equity</OTHER>
+
+<M01>The Department of Literary Arts actively seeks to provide a welcoming venue and a creative home for diverse artistic voices and historically underrepresented groups.</M01>
+
+<M10>In its workshops, programming, and day-to-day interactions, Literary Arts is committed to fostering an atmosphere of inclusiveness and respect for all students, faculty, staff and visitors.</M10>
+
+<M03>We are committed to the inclusion of diverse perspectives, identities, histories, and ways of knowing, and to the critical examination and exploration, through written word, performance, digital media, and scholarship, of the roles of power and privilege in our community and beyond.</M03>
+
+<M04>Literary Arts embraces the importance of increasing representation, voice, and participation for all identity groups in our classrooms and performance spaces.</M04>
+
+<M03>As such, the department formed, beginning in 2016, a Diversity and Inclusion Action Plan Committee comprised of faculty, staff, and students, with the goal of examining how Literary Arts can best ensure ongoing inclusion and diversity in its graduate and undergraduate programs, its MFA admissions, its hiring, and in its engagement with the wider community.</M03>
+
+<M10>The department embraces the university’s Pathways to Diversity and Inclusion plan, which acknowledges that “institutions of higher education, including Brown, have traditionally failed to fully include people of all races, ethnicities, creeds, socioeconomic classes, gender identities, sexual orientations, and disability statuses” and outlines steps that must be taken in order to remediate past practices.</M10>
+
+<M04>By ensuring that the Literary Arts community itself is fully inclusive, and by ensuring that all members of the community are fully valued and supported, the department seeks to support the university’s goals.</M04>
+
+<OTHER>Incident Reporting</OTHER>
+
+<M06>If you have experienced a serious incident of discrimination, harassment or sexual harassment, please visit the website of Office of Equity Compliance and Reporting (OECR) to learn about university staff and resources available to help you.</M06>
+
+<M10>You can file an incident report by contacting equity_reporting@brown.edu or by calling 401-863-1800.</M10>
+
+<OTHER>Courses</OTHER>
+
+<M05>DIAP Courses can be found by visiting Courses @ Brown and selecting "DIAP Courses" from the curricular programs filter at the bottom of the site.</M05>
+
+<M01>Department of Portuguese & Brazilian Studies</M01>
+
+<OTHER>Bem vindes/Bem-vindas/Bem-vindos</OTHER>
+
+<M07>The Department of Portuguese and Brazilian Studies has an international reputation for excellence in research and teaching on the Portuguese-speaking world — which encompasses eight different countries on four continents (Brazil, Portugal, Angola, Cape Verde, Mozambique, Guinea-Bissau, São Tomé and Príncipe, and East Timor), as well as Lusophone immigrant communities in the United States.</M07>
+
+<OTHER>Excellence in Research and Teaching</OTHER>
+
+<M05>The Department of Portuguese and Brazilian Studies offers an interdisciplinary undergraduate concentration in Portuguese and Brazilian Studies as well as graduate programs in literature and culture leading to master's and doctoral degrees.</M05>
+
+<M05>Students are able to work with a distinguished faculty and to take advantage of the extensive resources on the Portuguese-speaking world at the Rockefeller, John Hay and John Carter Brown libraries.</M05>
+
+<M01>The Ph.D. program in Portuguese and Brazilian Studies has acquired a solid reputation for its comprehensive approach to the literatures and cultures of the Portuguese-speaking world.</M01>
+
+<M07>The doctoral program has maintained one of the highest admissions yields in Brown's Graduate School as well as an outstanding placement record for its Ph.D. graduates.</M07>
+
+<OTHER>Beyond Brown</OTHER>
+
+<M05>The department extends its resources beyond the immediate university community by maintaining exchanges with Brazilian and Portuguese universities, by publishing books and several scholarly journals, and by organizing a varied program of cultural events.</M05>
+
+<OTHER>Contact</OTHER>
+
+<M01>The Department of Portuguese and Brazilian Studies is located in Meiklejohn House, at 159 George Street, between Thayer Street and Brook Street, in the heart of the Brown University campus.</M01>
+
+<M10>Phone
+(401) 863-3042</M10>
+
+<M10>Email
+pobs@brown.edu</M10>
+
+<M10>Street Address
+Meiklejohn House
+159 George Street
+Providence, RI 02912</M10>
+
+<M10>Mailing Address
+Box O
+Brown University
+Providence, RI 02912</M10>
+
+<OTHER>History of the Department</OTHER>
+
+<M07>Over decades, the Department of Portuguese and Brazilian Studies has become nationally and internationally known for excellence in teaching and research on the Portuguese-speaking world.</M07>
+
+<OTHER>Early Development and Founding Faculty</OTHER>
+
+<M02>The history of Portuguese and Brazilian Studies as a separate unit dates back to 1975, although the teaching of Portuguese language began as a steady offering in 1971 and Portuguese and Brazilian literature and culture courses began in 1969.</M02>
+
+<M02>A group of faculty members in English (George Monteiro), Portuguese (Nelson H. Vieira), Anthropology (George Hicks), History (Robert Padden), Sociology (Peter Evans), and Afro-American Studies (Anani Dzidzienyo) whose teaching and research interests focused mainly or in part on the Portuguese-speaking world, joined forces to establish the multidisciplinary Center for Portuguese and Brazilian Studies and Bilingual Education in 1975.</M02>
+
+<M04>It was the second multidisciplinary center at Brown.</M04>
+
+<M01>The Center for Portuguese and Brazilian Studies and Bilingual Education was formalized in 1977 within the context of the first wave of internationalization at Brown, under President Howard Swearer, and of the push towards interdisciplinarity under Provost Maurice Glicksman.</M01>
+
+<M04>Onésimo T. Almeida and Adeline Becker joined the group a few months later in 1975 as instructors respectively in Portuguese Studies and Bilingual Education.</M04>
+
+<M05>Luiz F. Valente and Leonor Simas-Almeida joined the program in the 1980s.</M05>
+
+<M05>From the outset the Center operated as a de facto department, with its own courses, undergraduate concentration, graduate programs, FTEs, governance, and a keen capacity to attract outside funding.</M05>
+
+<M04>It pioneered an interdisciplinary model for the study of foreign language and culture at both the undergraduate and graduate levels, which has now become standard in other language-based units.</M04>
+
+<M04>It also identified at an early date the literature and interdisciplinary direction that the field of Portuguese and Brazilian Studies would continue to develop into the twenty-first century.</M04>
+
+<OTHER>National and International Recognition</OTHER>
+
+<M07>Over the last four decades, the center/department has become nationally and internationally known for excellence in research and teaching on the Portuguese-speaking world.</M07>
+
+<M05>In 1991 the former center was granted status as a multidisciplinary department, and a PhD in Luso-Brazilian Studies was approved, with a primary focus on language, literature and culture, but including an interdisciplinary component in history and the social sciences, which had also characterized the unit’s master’s and bachelor’s programs.</M05>
+
+<M05>Through joint appointments and other initiatives, the Department of Portuguese and Brazilian Studies collaborated increasingly with a variety of units, including the Brazil Initiative, Departments of Africana Studies, Anthropology, Comparative Literature, Education, History, the Program in Judaic Studies, Music, and Theater Arts and Performance as well as the Center for Latin American and Caribbean Studies, the Watson Institute for International Studies, the John Carter Brown Library, the Center for Environmental Studies, and the Education Alliance.</M05>
+
+<OTHER>Benefactors</OTHER>
+
+<M01>The Department of Portuguese and Brazilian Studies has an extraordinary record in attracting external funding from foundations, government agencies and individual benefactors.</M01>
+
+<M02>The Karina P. Lago Memorial Fund in Portuguese and Brazilian Studies
+The Belda Family Fund for Brazilian Studies
+The John and Clarice Scarritt Fund in Portuguese and Brazilian Studies
+The Calouste Gulbenkian Foundation
+The Luso-American Foundation (FLAD)
+Instituto Camões
+CNPq and CAPES
+Brazilian Ministry of Culture
+National Commission for the Commemorations of the Portuguese Discoveries
+Fundação Oriente
+Instituto Português do Oriente
+Department of Culture Azorean Regional Government</M02>
+
+<OTHER>Visiting Professorships</OTHER>
+
+<M01>The Department of Portuguese and Brazilian Studies offers three visiting professorships.</M01>
+
+<OTHER>FLAD/Brown Visiting Professorship</OTHER>
+
+<M06>Since 1993, the Luso-American Foundation (FLAD) and the Department of Portuguese and Brazilian Studies have maintained a vibrant cooperation agreement under whose auspices Brown has hosted Visiting Professors in Portuguese Studies in the areas of Anthropology, Sociology, Political Science and History.</M06>
+
+<M05>This program is officially known as the FLAD/Brown Visiting Professorship.</M05>
+
+<M06>About the Professorship
+FLAD Visiting Professors
+Past FLAD Visiting Professors</M06>
+
+<OTHER>Camões/Brown Lectureship in Portuguese Literature</OTHER>
+
+<M04>Sponsored by the Instituto Camões, the Camões Visiting Lecturer (Leitorado) has promoted Portuguese language and culture at Brown from 1974 to 1999.</M04>
+
+<M06>About Camões/Brown Lectureship in Portuguese Literature
+Past Camões Visiting Professors</M06>
+
+<OTHER>Fulbright Distinguished Award in Brazilian Literature at Brown University</OTHER>
+
+<M10>The Fulbright Distinguished Award in Brazilian Literature at Brown University grants one award to a Brazilian scholar who will spend one academic semester researching and/or lecturing in the Fall term (September to December) or Spring term (January to May), following Brown University’s academic calendar.</M10>
+
+<OTHER>About the Fulbright Distinguished Award</OTHER>
+
+<OTHER>Collaborators & Collections</OTHER>
+
+<M08>Through joint appointments and other initiatives, the Department of Portuguese and Brazilian Studies collaborates with a variety of departments and on-campus partners.</M08>
+
+<OTHER>University Collaborators</OTHER>
+
+<M01>Africana Studies
+Anthropology
+Brazil Initiative
+Center for Latin American and Caribbean Studies
+Comparative Literature
+Hispanic Studies
+History
+John Carter Brown Library
+John Hay Library
+Modern Culture and Media
+Watson Institute for International Studies</M01>
+
+<OTHER>Collections</OTHER>
+
+<M06>Miguéis Archives</M06>
+
+<M02>Created in 1983, The José Rodrigues Miguéis Archives are housed in Special Collections at the John Hay Library.</M02>
+
+<M02>They contain the personal papers and selected volumes from the private library of the late Portuguese writer.</M02>
+
+<M06>The collection includes drafts and typescripts of his writings, personal and professional correspondence, notebooks, postcards, diplomas, calendars, diaries, photographs, legal and medical documents, drawings, newspaper clippings, book reviews, and monographs.</M06>
+
+<OTHER>Skidmore Collection</OTHER>
+
+<M09>In April 2006, Professor Thomas E. Skidmore donated his personal library and papers to Brown University Library.</M09>
+
+<M06>The monograph collection consists of approximately 6,000 items, mainly in English and Portuguese language, and it reflects over thirty years of collecting 19th- and 20th-century materials on Brazil and other areas of Latin America.</M06>
+
+<OTHER>Brasiliana Collection</OTHER>
+
+<M06>Brown University Library is committed to become the premier academic collection for Brazilian Studies outside of Brazil.</M06>
+
+<M06>The Brasiliana Collection focuses on Brazilian literature, history, education, anthropology, cross-cultural studies, race relations, ethnic studies, cultural studies, environmental studies, music, public policy, sociology and Portuguese second-language acquisition.</M06>
+
+<OTHER>International Partners</OTHER>
+
+<M08>The department also maintains close cooperation with several universities in Brazil and Portugal through joint publications and research projects, sponsorship of events, advising of doctoral students, hosting of postdoctoral scholars and study abroad.</M08>
+
+<OTHER>Visiting Scholars</OTHER>
+
+<M04>Over the past three decades the department has welcomed a steady flow of visiting scholars from other institutions in the United States, as well as from abroad; these scholars have come to Brown to conduct research for dissertations, books, and articles.</M04>
+
+<M06>Most of the foreign scholars have been supported by grants from funding agencies of the Brazilian government (CAPES and CNPq), from Portuguese foundations such as Calouste Gulbenkian, Instituto Camões and FLAD (Luso-American Development Foundation), and from the Fulbright Commission.</M06>
+
+<OTHER>Department Resources</OTHER>
+
+<OTHER>Department Field Guide</OTHER>
+
+<M06>The Department Field Guide contains helpful information for incoming faculty and graduate students about getting started and working in Portuguese and Brazilian Studies, including departmental operations and procedures, Meiklejohn House facilities and support, transportation and parking, administrative policies, teaching and advising, student life, Brown's campus, and Providence.</M06>
+
+<OTHER>Download the Department Field Guide</OTHER>
+
+<OTHER>department of slavic studies</OTHER>
+
+<OTHER>About</OTHER>
+
+<M01>The Department of Slavic Studies at Brown University focuses on the study of Russian, Czech, and Polish cultures, literatures, and languages.</M01>
+
+<M02>Founded in 1947 by Edward J. Brown, one of the pioneers of Russian literary history in the United States, ours is one of the oldest Slavic departments in the country.</M02>
+
+<M10>Building on a strong tradition of academic excellence and teaching, in recent years the department has become fundamentally interdisciplinary.</M10>
+
+<OTHER>Bridging Traditions and Realities</OTHER>
+
+<M04>One of our main goals is to retrace the complex links between rich intellectual and literary traditions and larger historical and sociopolitical processes.</M04>
+
+<M04>This approach is particularly valuable as Russian and East European societies reshape themselves in new geopolitical contexts.</M04>
+
+<M06>The former Soviet bloc offers an exciting laboratory for studying issues of national, ethnic, gender, and social identity in a quickly and radically changing world, and to provide a truly global perspective on these issues.</M06>
+
+<OTHER>Our Students</OTHER>
+
+<M04>Concentrators in Slavic Studies receive a solid grounding in one or more Slavic languages, literatures, and cultures.</M04>
+
+<M07>Our graduates go on to careers in a number of fields, including literature and linguistics, law, diplomacy, journalism, publishing, performing arts, and international business, as well as more traditional graduate study in Slavic languages and literatures.</M07>
+
+<OTHER>People</OTHER>
+
+<M06>Our faculty are leading scholars in the field, who produce innovative scholarship and teaching.</M06>
+
+<M04>Their expertise covers a wide range of topics in Russian and Polish culture and intellectual history from the eighteenth to the twenty-first century, including literature, theater, film, art, and political movements, as well as Czech linguistics.</M04>
+
+<OTHER>Academics</OTHER>
+
+<M01>The Department of Slavic Studies is the center for campus study of Eastern Europe and Russia at Brown and is strategically linked to a number of fields across the humanities and social sciences, including literature, performing arts, history, economics, and international relations.</M01>
+
+<OTHER>program of linguistics</OTHER>
+
+<M04>Language is an integral part of what it means to be human: to be human is to be a linguistic being.</M04>
+
+<M04>All languages are highly structured systems which speakers have unconsciously mastered and use for communication, social meaning and many other purposes.</M04>
+
+<OTHER>Exploring Linguistic Inquiries</OTHER>
+
+<M04>Linguistics seeks to formally model what these systems are and can be (including their sounds or signs, words, syntax, and semantics) and to discover how these systems interact with reasoning, social behavior and many other aspects of the human experience.</M04>
+
+<M04>Linguists also ask: How and why do languages change over time?</M04>
+
+<M04>How do languages vary and in what ways are they similar?</M04>
+
+<M04>How are they acquired by children?</M04>
+
+<M04>How are languages stored and processed in adults?</M04>
+
+<M04>How are languages and dialects used for the expression of social identity?</M04>
+
+<M04>How can linguists help preserve the world’s variety of languages in the face of continued loss of many of the worlds’ languages?</M04>
+
+<OTHER>Offerings of the Linguistics Program</OTHER>
+
+<M05>The Brown Program in Linguistics offers courses in the principles of language structure and is committed to allowing students to apply this knowledge to the many facets of language as a human social, cultural and cognitive system.</M05>
+
+<M06>Brown Linguistics faculty and students study such topics in a wide range of languages from across the globe and using a wide range of empirical methodologies.</M06>
+
+<M05>Particular strengths of our program include the study of language variation (within a language, across languages, and within society), and the study of meaning, communication, mind, and the role of information in the ways languages are structured.</M05>
+
+<OTHER>Additional Information</OTHER>
+
+<OTHER>Contact Us</OTHER>
+
+<M10>Linguistics is currently housed on the ground floor of Arnold Lab at 91 Waterman St.</M10>
+
+<OTHER>People</OTHER>
+
+<M06>The Brown Linguistics community is made up of core faculty, staff, visiting professors and postdocs, graduate and undergraduate students and affiliate faculty.</M06>
+
+<M10>Linguistics is currently housed on the ground floor of Arnold Lab at 91 Waterman St.</M10>
+
+<M10>Phone
+401-863-9555</M10>
+
+<M10>Email
+Linguistics@brown.edu</M10>
+
+<M10>Mailing Address
+Linguistics Program
+Box 1947
+Brown University
+Providence, RI 02912 USA</M10>
+
+<M10>Package Delivery
+Arnold Lab Suite 101
+91 Waterman St.
+Providence, RI 02912 USA</M10>
+
+<M10>Uriel Cohen Priva
+Associate Professor of Linguistics
+uriel_cohen_priva@brown.edu</M10>
+
+<M10>Pauline Jacobson
+Professor of Linguistics, Director of Undergraduate Studies
+pauline_jacobson@brown.edu</M10>
+
+<M10>Carmen Garcia
+Program Manager
+carmen_garcia@brown.edu
+401-863-9555</M10>
+
+<OTHER>Get To Know Us</OTHER>
+
+<M06>The Brown Linguistics community is made up of core faculty, staff, visiting professors and postdocs, graduate and undergraduate students and affiliate faculty.</M06>
+
+<OTHER>View All People</OTHER>

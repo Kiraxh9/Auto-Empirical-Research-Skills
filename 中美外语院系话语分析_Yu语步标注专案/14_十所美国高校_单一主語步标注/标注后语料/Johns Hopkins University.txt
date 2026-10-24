@@ -1,0 +1,212 @@
+<M01>Johns Hopkins University
+Center for Africana Studies</M01>
+
+<M02>Founded in 2004, the Center for Africana Studies offers students a BA in Africana Studies and a minor.</M02>
+
+<M04>The center promotes rigorous, methodical, and unflinching discussion about the TransAtlantic Slave Trade and its fundamental role in making modern society.</M04>
+
+<M06>The center serves as the intellectual home for students, researchers, and faculty across the university whose interests include historical, political, artistic, scientific, literary, educational, and economic work engaging with Africa and the African Diaspora.</M06>
+
+<M03>Its mission is to serve as a critical corrective to the academy’s traditional approach to knowledge creation and dissemination.</M03>
+
+<M05>Our courses focus on the human experience in the context of social, political, demographic, cultural, religious, and economic systems.</M05>
+
+<M04>They also offer a unique perspective on racism, colonialism, capitalism, and geography that properly situates the importance of people of color to the making of the modern world.</M04>
+
+<OTHER>Department of Classics</OTHER>
+
+<M06>The Department of Classics at Johns Hopkins University has a long and distinguished history of scholarship and excellence.</M06>
+
+<M06>Its first professor, however, held racist views that we condemn.</M06>
+
+<M04>Since the university’s inception, classics has been at the heart of humanistic studies at Johns Hopkins.</M04>
+
+<M05>The university adopted the most effective model of scholarship at the time—the German seminar, which combined teaching with research—as the basis for training students at Hopkins.</M05>
+
+<M04>This revolutionary structure was central to the new model of the “research university” that Johns Hopkins University pioneered.</M04>
+
+<M01>Today, the Department of Classics at Johns Hopkins seeks to maintain and enhance this tradition of leadership and innovation.</M01>
+
+<M06>Members of the current faculty are highly interdisciplinary.</M06>
+
+<M04>We combine philological, historical, iconographical, and comparative methods in our investigations of the cultures, broadly conceived, of ancient Greece and Rome, with additional expertise in Reception Studies (aka “The Classical Tradition”) and in the post-classical use of Greek and Latin.</M04>
+
+<M04>The undergraduate and graduate programs reflect these characteristics.</M04>
+
+<M02>They are founded upon intensive study of ancient Greek and Latin language and literature, but also require rigorous work in such fields as ancient history, art, archaeology, and philosophy, while allowing considerable flexibility to accommodate individual interests.</M02>
+
+<M04>These programs aim to produce broad, versatile scholars who have a holistic view of ancient cultures and of the evidence by which those cultures are comprehended.</M04>
+
+<M06>The classics department enjoys close ties with several local and regional institutions whose missions include the study of the ancient world, including the Walters Art Museum, with its world-class collection of antiquities and manuscripts; the Baltimore Museum of Art, with its Roman mosaics; and the Center for Hellenic Studies in Washington, D.C. Internationally, it is a member of the American School of Classical Studies in Athens, the American Academy in Rome, and the Intercollegiate Center for Classical Studies in Rome.</M06>
+
+<M06>The department’s main scholarly resource is the Milton S. Eisenhower Library, which has broad and deep holdings in the various fields of classical antiquity.</M06>
+
+<M06>The department also has access to a significant collection of Greek, Roman, and Etruscan antiquities, housed in the Johns Hopkins Archaeological Museum, located alongside its own quarters in Gilman Hall.</M06>
+
+<OTHER>Statement on Basil Gildersleeve</OTHER>
+
+<M05>American classicist Basil Lanneau Gildersleeve (born 1831, in Charleston, South Carolina) received his bachelor’s degree at Princeton and his doctorate at the University of Göttingen.</M05>
+
+<M04>For 20 years he taught at the University of Virginia.</M04>
+
+<M02>In 1875, Daniel Coit Gilman, president of the newly founded Johns Hopkins University, invited Gildersleeve to become the university’s first professor.</M02>
+
+<M04>Gildersleeve assumed his new position in 1876 and remained at Hopkins until his retirement in 1915.</M04>
+
+<M05>He was instrumental in the adoption of the German model of the research seminar for the new university.</M05>
+
+<M02>Considered by many in his time to be an icon in American classical scholarship, Gildersleeve established the first graduate seminar in the country and founded the American Journal of Philology, still a leading journal in the field.</M02>
+
+<M06>His internationally recognized scholarship enabled him to bring robust studies of Latin and Greek languages to Johns Hopkins.</M06>
+
+<M04>During the Civil War, Gildersleeve served in the Confederate Army in the summer months, when the University of Virginia was not in session.</M04>
+
+<M04>He was seriously wounded in the leg; he would later recount that he lost his pocket copy of Homer on the battlefield.</M04>
+
+<M04>During the war, Gildersleeve also penned unsigned editorials for the Richmond Examiner that, even considering their time and place, stand out for the malevolence of their racism.</M04>
+
+<M07>Gildersleeve remained an advocate for the Confederacy throughout his academic career, and the Johns Hopkins University Press republished his “The Creed of the Old South” (1896) and “A Southerner in the Peloponnesian War” (1897) on the occasion of his retirement from the university.</M07>
+
+<M07>Both essays draw liberally on Gildersleeve’s classical learning, culminating the career of a classicist who, despite his noteworthy contributions as a scholar, teacher, and educational innovator, repeatedly lent material and moral support to the forces of racial oppression.</M07>
+
+<M01>Today, the Department of Classics at Hopkins repudiates the racist views of Gildersleeve and pledges its efforts to bring the benefits of discovery to the world.</M01>
+
+<M03>We are committed to diversity in all of its forms, and we educate our students to think both critically and creatively about the past, including about the history and mixed legacy of the discipline of classics itself.</M03>
+
+<M06>We continuously search for new ways to recruit a diverse body of students and faculty, and we actively oppose racism, sexism, homophobia, and other forms of discrimination in higher education and beyond.</M06>
+
+<OTHER>The Department of Comparative Thought and Literature</OTHER>
+
+<M01>The Department of Comparative Thought and Literature (CTL) investigates different traditions of thought in order to expand understanding of the ecologies of human expression.</M01>
+
+<M04>Our conception of thought is capacious and includes literature, aesthetic and moral philosophy, and legal and political theory.</M04>
+
+<M04>Interdisciplinary collaboration is the Department’s signature focus, along with commitments to intellectual curiosity and flexibility, attentive reading and criticism, and creative modes of comparison across linguistic, cultural, and temporal boundaries.</M04>
+
+<M06>The research and teaching of the faculty draw upon philosophy, literature, film, and the arts.</M06>
+
+<M04>Both undergraduates and graduate students are encouraged to undertake projects that draw from diverse media, genres, and traditions, within and beyond the humanities.</M04>
+
+<M05>The courses offered provide students with a broad foundation in the methods, histories, and genres of comparative approaches, with a focus on themes that engage both literature and philosophy, as well as other forms of human expression.</M05>
+
+<M05>Every year, the department hosts several associates, who are faculty members from other institutions that stay for an extended period to present lectures, give seminars, and interact with faculty and students.</M05>
+
+<M04>Previous and current associates include many distinguished scholars, such as Christiane Voss, Dipesh Chakrabarty, Frances Ferguson, Philip Fisher, Anita LaFrance Allen, Susan James, Barbara Cassin, David Wellbery, Robert Pippin, Jean-Luc Marion, Eli Friedlander, Sari Nusseibeh, and Toril Moi.</M04>
+
+<OTHER>History</OTHER>
+
+<M02>In the mid-20th century, the department, which was then known as the Humanities Center, was established as a meeting ground for the various humanities departments.</M02>
+
+<M04>With Charles Singleton as its first director, the center aimed to strengthen the humanities at Johns Hopkins and provide a place where scholars could engage in theoretical reflections on the human sciences, including European movements such as structuralist thought and literary hermeneutics.</M04>
+
+<M04>The department’s first full academic year was 1966–67, and from the outset, its founders sought to establish a focal site for structuralism in the U.S., based on the model of the “sixième section” of the École Pratique des Hautes Études in Paris or the Institut für Sozialforschung at the University of Frankfurt.</M04>
+
+<M10>The conference held in the fall of its inaugural year, “The Languages of Criticism and the Sciences of Man: The Structural Controversy” brought many of the leading figures of European thought together in the U.S. and continues to be cited as both the substantial introduction of structuralist thought into the American academy and an important moment of transition between structuralism and post-structuralism.</M10>
+
+<M05>This model of exchange and innovation continued into the 21st century with a robust program of visiting scholars, professors, and lecturers.</M05>
+
+<M01>As of January 1, 2018, the name of the Humanities Center has been changed to Department of Comparative Thought and Literature.</M01>
+
+<M04>The new name recognizes the department’s ongoing commitment to serious interdisciplinary study, with a focus on questions at the intersection of literature, philosophy, and aesthetics.</M04>
+
+<M06>It also represents the various literatures, philosophies, religions, political systems, cultures, and methodologies that its faculty studies and applies.</M06>
+
+<OTHER>The Department of Modern Languages and Literatures</OTHER>
+
+<M01>The Department of Modern Languages and Literatures encompasses the study of French, German, Hebrew, Italian, Portuguese, Spanish, and Yiddish.</M01>
+
+<M05>More than 100 courses are offered every year, including introductory language classes, upper-level topics courses and community-based practicums, and advanced graduate seminars in literature and theory.</M05>
+
+<OTHER>Statement of Commitment</OTHER>
+
+<M03>The department is committed to creating a safe, inclusive, equitable, culturally responsive, and supportive environment where all students, faculty, and staff feel welcomed, respected, and seen.</M03>
+
+<M04>Every member of our community can find ways to shape this ongoing process.</M04>
+
+<M03>The department is dedicated to fostering diverse approaches and ideas within the fields of language, literature, and media.</M03>
+
+<M04>This includes attending to structurally marginalized and historically minoritized knowledges in our critical and imaginative inquiries.</M04>
+
+<M04>Our curricula and co-curricular activities are meant to reflect this commitment.</M04>
+
+<M05>In recruiting, admissions, hiring, course staffing, and promotions, we are guided by the principles of inclusive excellence.</M05>
+
+<M03>We are actively committed to work to overcome biases and to strive to prevent on our campus micro-aggressions and identity-based trauma.</M03>
+
+<M06>Therefore, the department welcomes suggestions and concerns from any member—students, staff, and faculty—that might help us improve our pedagogical and collegial relationships.</M06>
+
+<M04>These comments can be directed to the Diversity Champion and/or the Department Chair.</M04>
+
+<OTHER>Our Research</OTHER>
+
+<M06>Our internationally recognized faculty publish research on topics ranging from the interplay of literature and science in the European Renaissance and Age of Enlightenment, to the nexus of literature and politics in the colonial and post-colonial Americas, Caribbean, and Africa; from literature’s engagement with aesthetics, philosophy, religion, and the environment to theories of gender and the history of the body; from the technologies of the book to the poetics of the stage and screen.</M06>
+
+<M07>The department is the birthplace of the Modern Language Association and home to Modern Language Notes, one of the leading academic journals in literary studies.</M07>
+
+<OTHER>Undergraduate and Graduate Studies</OTHER>
+
+<M05>Undergraduates who major or minor in one of our programs gain nuanced understanding not only of the language, culture, and literature they choose to study, but of the ways different systems of expression shape how we see the world.</M05>
+
+<M04>Shared emphasis on the analysis of complex texts—poems, novels, essays, plays, films—provides students with critical tools valuable in any professional context.</M04>
+
+<M05>The major, especially when coupled with study abroad, prepares students for graduate study in humanistic fields as well as for global careers and professions where language expertise is an expectation.</M05>
+
+<M05>The minor can complement any number of major courses of study in the humanities, social sciences, science, or engineering.</M05>
+
+<M05>Graduate students enrolled in our Ph.D. programs in German, Jewish Languages and Literatures (Hebrew, Yiddish), and Romance Languages (French, Italian, or Spanish) hail from all over the world.</M05>
+
+<M06>A combination of fellowships and graduate teaching assistantships across five years of study provides students pedagogical training and opportunities to acquaint themselves with the norms of the discipline.</M06>
+
+<M07>Upon earning their doctorates, they go on to teach in colleges, universities, and high schools in the U.S. and abroad, as well as to diverse careers in cultural institutions, public agencies, and the private sector.</M07>
+
+<OTHER>The Department of Near Eastern Studies</OTHER>
+
+<M02>Founded in 1883, the Department of Near Eastern Studies of the Johns Hopkins University was the first in the United States to offer a PhD in the field.</M02>
+
+<M05>The department now offers programs of study leading to the PhD in four areas: Assyriology, Egyptology, Hebrew Bible and Northwest Semitic Studies, and Near Eastern Archaeology/Near Eastern Art.</M05>
+
+<M04>The department’s approach is to study ancient Near Eastern civilizations with all the modern tools of analysis (e.g., literary, legal, anthropological), but primarily through ancient written records and physical evidence.</M04>
+
+<M05>The study of language and script forms the core of our program, with an emphasis on gaining ability to access sources in the original.</M05>
+
+<M04>At the same time, written records and physical evidence can only be understood in context, which includes their archaeological and historical background and their relationship with the surrounding cultures.</M04>
+
+<M04>Our programs of study emphasize an interdisciplinary approach to the civilizations of the region.</M04>
+
+<M05>They consist of a major area of concentration, a minor from another area (usually a language), and a series of history seminars covering all three principal sub-regions: Egypt, Mesopotamia, and Syria-Palestine.</M05>
+
+<M04>The ancient Near East covers nearly 4,000 years of history from Mesopotamia to the Mediterranean and beyond (i.e., the areas occupied today by Egypt, Iraq, Israel, Palestine, Syria, Jordan, Lebanon, Ethiopia and South Arabia).</M04>
+
+<M04>Chronologically, the department covers the time periods from the invention of writing (by 3,500 BCE) up to and even including the Hellenistic world.</M04>
+
+<M04>The cultures it covers include: Egyptian, Sumerian, Babylonian, Assyrian, Hittite, Ugaritic, Aramean, Phoenician, and Israelite.</M04>
+
+<M04>Interdisciplinary efforts are a prominent feature of academic life at Johns Hopkins.</M04>
+
+<M06>The department’s faculty members frequently collaborate in joint teaching and research ventures among themselves and with faculty from other disciplines.</M06>
+
+<M05>Students are encouraged to adopt the same spirit of collaboration within the department and, where relevant, to participate in courses in other departments.</M05>
+
+<M04>The Near Eastern Studies Department sponsors four archaeological field projects (directed by Profs.</M04>
+
+<M04>Bryan, Harrower, and Schwartz).</M04>
+
+<M04>Archaeology is a model of cross-disciplinary research, spanning the humanities, social sciences, and natural sciences.</M04>
+
+<M04>Our field projects study such multidisciplinary issues as human subsistence, human interaction with climate and physical environment, patterns of settlement, political and economic organization, and religious activity and thought.</M04>
+
+<OTHER>Named Professorships</OTHER>
+
+<M06>The department consists of eight full-time faculty members, plus one full-time faculty member with a joint appointment in Near Eastern Studies and the History of Art, with five named professorships:</M06>
+
+<M01>Marie-Lys Arnette, Assistant Professor, Alexander Badawy Chair in Egyptian Art and Archaeology</M01>
+
+<OTHER>Jerrold S. Cooper, W.W. Spence Professor Emeritus</OTHER>
+
+<OTHER>Marian Feldman, W.H. Collins Vickers Chair in Archaeology</OTHER>
+
+<M06>Theodore J. Lewis, the Blum-Iwry Professor of Near Eastern Studies</M06>
+
+<M01>Alice Mandell, the William Foxwell Albright Professor of Biblical and Ancient Near Eastern Studies</M01>
+
+<OTHER>Glenn M. Schwartz, the Whiting Professor of Archaeology</OTHER>
