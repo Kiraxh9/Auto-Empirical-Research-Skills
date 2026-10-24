@@ -54,7 +54,7 @@ def main():
     detail, summary, problems = [], [], []
     for fname, (raw, units) in data.items():
         # 写出标注文本
-        text = '\n\n'.join(f'<{lb}>{t}</{lb}>' for lb, t in units)
+        text = '\n\n'.join(f'<{lb}>{t.strip(chr(10))}</{lb}>' for lb, t in units)
         open(os.path.join(OUT_DIR, fname), 'w', encoding='utf-8').write(text + '\n')
         open(os.path.join(RAW_DIR, fname), 'w', encoding='utf-8').write(raw)
         # 校验 1：逐词零删改（剥离标签后与原始语料逐字符比对）
