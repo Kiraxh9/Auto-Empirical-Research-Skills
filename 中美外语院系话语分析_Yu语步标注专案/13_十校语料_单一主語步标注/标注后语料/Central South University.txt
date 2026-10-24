@@ -1,0 +1,317 @@
+<OTHER>College profile</OTHER>
+
+<M02>The School of Foreign Languages of Central South University was formed in April 2000 by the merger of the former School of Foreign Languages of Changsha Railway University, the School of Foreign Languages of Central South University of Technology and the Department of Foreign Languages of Hunan Medical University.</M02>
+
+<M02>With a history of more than 50 years since its inception in 1972, the school has developed into an innovative, high-level foreign language education and research school with profound cultural heritage, a strong educational team, complete teaching facilities, rich academic resources, excellent social services, extensive international cooperation, and excellent quality.</M02>
+
+<M06>Strong teaching staff.</M06>
+
+<M06>Guided by the "four features" and "four guides", the College has continuously strengthened the construction of teachers and education teams, forming a well-structured and high-quality teaching team and education collective.</M06>
+
+<M06>As of December 31, 2023, the College has more than 200 faculty members, including 24 professors and 81 associate professors, 1 senior translator of the Translators Association of China, 1 member of the National Translation Teaching Committee, 1 vice president and Secretary general of the National first-level Association, 3 executive directors of the National first-level Association, 2 vice presidents of the national second-level association, 8 executive directors and 8 directors of the National second-level Association.</M06>
+
+<M07>1 Excellent young and middle-aged translator of China Translation Association, 1 former Chief translator of the Ministry of Railways, 1 European Union certified (JICS) co-interpreter, 1 academic leader of Hunan University, and 1 excellent social science expert of Hunan Province.</M07>
+
+<M02>In the course of running the school for a long time, the school has emerged a group of famous foreign language educators, such as Professor Shen Baoji, a famous translator, poet and pioneer of French literature research; Professor Yang Shoukang, one of the pioneers and senior translators of Chinese science and technology translation; Professor Xiao Liming, one of the initiators and founders of the Comparative Study of English and Chinese and a famous scholar; French translator Professor She Xiebin and other outstanding representatives of the older generation.</M02>
+
+<M02>Generation after generation, the academic pursuit and professional style of the Central and South Chinese foreign language speakers who devote themselves to academic study, education, enthusiasm for profession and loyalty to career have been inspiring the faculty and staff of the school.</M02>
+
+<M04>Integrated development of disciplines.</M04>
+
+<M01>The school has English Department, French Department, Japanese Department, Spanish Department, University Foreign Language Education Center, MTI Education Center, Language Teaching Experiment Center (Language and Culture Learning and Exchange Center), foreign language Examination and Training Center.</M01>
+
+<M05>It offers four majors, English, French, Japanese and Spanish, and is the designated unit of the "Diplomatic talent selection" of the Ministry of Foreign Affairs.</M05>
+
+<M07>The English major is a national first-class undergraduate major construction point.</M07>
+
+<M05>There are doctoral and master's programs in the first-level discipline of foreign languages and literature, and the first-level doctoral program consists of four fields: foreign Linguistics and applied Linguistics, foreign literature, translation studies, comparative literature and cross-cultural studies.</M05>
+
+<M05>The master's program in first-level disciplines consists of four second-level disciplines: Foreign Linguistics and applied Linguistics, English Language and Literature, French Language and Literature, and Japanese Language and literature, among which foreign linguistics and applied Linguistics and English Language and literature are the key disciplines of Hunan Province.</M05>
+
+<M06>The platform is rich in resources.</M06>
+
+<M08>The college is the secretariat unit and affiliated unit of the National first-level Association of China English-Chinese Comparative Research Association, and the chairman of the Hunan University Foreign Language Education Steering Committee.</M08>
+
+<M07>It is one of the first 9 institutions in China to have a master's degree in translation and interpretation at the same time.</M07>
+
+<M07>The academic journal "Foreign Language and Translation" has a high reputation in the industry.</M07>
+
+<M06>The College has four provincial-level research bases and think tanks: Hunan Humanities and Social Science Research Base - Translation Research Base, Hunan ASEAN Culture Research and Exchange Center, Hunan Foreign Cultural Exchange and International Language Environment Construction Research Center, Hunan Zhuao Zhonghua Ethnic Community Consciousness Culture Translation and External Communication Research Base.</M06>
+
+<M08>The college has a rich internship and practice platform, and signed joint training agreements with 23 units such as Qin Shi Huang Mausoleum Museum, Hunan Provincial Council for the Promotion of International Trade, China Daily, Global Network, China Power Construction Central South Survey and Design Research Institute, English World, Hunan Museum, Longping High-tech, Yizhu Technology, Zoomlion, Provincial Children's Hospital, and "Chinese Bridge" base.</M08>
+
+<M07>The quality of personnel training is excellent.</M07>
+
+<M03>The school has always adhered to the socialist direction of running a school, adhering to the school motto of "applying the economy to the world, combining knowledge and practice", adhering to the school philosophy of "ideological guidance, value shaping, knowledge imparting, ability training and wisdom enlightenment", insisting on cultivating virtues and cultivating talents, and continuously promoting teaching reform.</M03>
+
+<M07>In recent years, the school has built 6 national first-class courses and 15 provincial first-class courses.</M07>
+
+<M07>He has won two grand prizes in the National Curriculum Ideological and Political Competition, and strives to educate the Party and the country.</M07>
+
+<M07>In the past 50 years, he has trained more than 12,000 foreign language professionals.</M07>
+
+<M07>The graduates are distributed in various fields such as education, culture, politics and economy, management, scientific research, management and diplomacy, and have made extraordinary contributions to the cause of socialist modernization of China in different jobs.</M07>
+
+<M03>College mission: Mingde enlightening wisdom to cultivate people</M03>
+
+<M03>College Value: Integration of Chinese and foreign Boya Rixin Public Office Jingyi Avenue to Jian</M03>
+
+<M03>College vision: world-class foreign language education college with distinctive features</M03>
+
+<M10>Address: School of Foreign Languages, Central South University, No.932, Lushan South Road, Changsha City, Hunan Province
+
+Postcode: 410083
+
+Contact number: 0731-88879371</M10>
+
+<OTHER>Current</OTHER>
+
+<M01>Li Tao
+Secretary of the Party Committee
+Mr. Li oversees all Party Committee affairs, including faculty and leadership development as well as emeritus faculty...</M01>
+
+<M01>Yang Wen DI
+Dean
+Professor Yang leads overall administrative operations, advancing professional standards and ethical conduct across t...</M01>
+
+<M01>Sun Sheng
+Deputy Party Committee Secretary
+Mr. Sun directs student affairs, faculty union activities, the Next Generation Committee, and institutional complianc...</M01>
+
+<M01>Fan Wu Qiu
+Associate Dean
+Professor Fan directs research initiatives, academic program development, and scholarly publications. He serves as li...</M01>
+
+<M01>Zhong Wen Ming
+Associate Dean
+Professor Zhong manages graduate programs, degree requirements, and alumni relations. He assists the Dean with Academ...</M01>
+
+<M01>Hou He Yu
+Associate Dean
+Professor Hou oversees human resources, laboratory operations, and international partnerships. He coordinates Adminis...</M01>
+
+<M01>Wang Hualing
+Associate Dean
+Professor Wang directs the College Foreign Language public curriculum. She co-manages the Business Office with fellow...</M01>
+
+<M01>Yan Hongfu
+Associate Dean
+Professor Yan oversees undergraduate instruction. He co-manages the Business Office with fellow academic deans and se...</M01>
+
+<OTHER>Department of English</OTHER>
+
+<M02>Founded in 1972, the Department of English is one of the earliest of its kind in China.</M02>
+
+<M07>It was designated as a National Distinctive Program in 2010 and recognized as a pilot reform program by both Hunan Province and the Ministry of Education in 2012 and 2015, respectively.</M07>
+
+<M07>Its primary discipline, Foreign Languages and Literature, is a Flagship Discipline of Hunan Province.</M07>
+
+<M07>The program was selected as a Provincial First-Class Undergraduate Program in 2019 and a National First-Class Undergraduate Program in 2020.</M07>
+
+<M06>It also hosts the Hunan Provincial Demonstration Base for University-Industry Cooperative Education and the Hunan Provincial Translation Research Base.</M06>
+
+<M05>The department offers Ph.D. and Master's degree programs in the discipline of Foreign Languages and Literature, as well as one of the first authorized Master of Translation and Interpreting (MTI) programs in China, covering both interpreting and translation.</M05>
+
+<M06>More than 80% of the existing faculty members hold senior academic ranks, and over 60% have doctoral degrees.</M06>
+
+<M01>The department enrolls more than 500 undergraduates and nearly 400 master's and doctoral students.</M01>
+
+<M07>In recent years, faculty members have secured more than 10 national-level projects and over 60 provincial-level projects, as well as more than 10 projects funded by the Ministry of Education, including two industry-academia collaborative education projects and one project on course-based civic education.</M07>
+
+<M07>The faculty has also published more than 500 high-quality academic papers, and one faculty member was recognized by the Ministry of Education as a Distinguished Educator for Course-based Civic Education.</M07>
+
+<M07>Under the guidance of the faculty, students have won more than 20 Grand Prizes and over 40 First Prizes in national competitions.</M07>
+
+<M05>This program offers a complete and integrated training system spanning undergraduate, master's, and doctoral levels.</M05>
+
+<M05>The training objectives are: to cultivate senior English professionals who uphold the core values of socialism, possess deep love for their country and people, support the leadership of the Communist Party of China, maintain a sound worldview, outlook on life, and values, demonstrate a pragmatic spirit, profound humanistic qualities, and excellent professional competence, and achieve comprehensive development in moral, intellectual, physical, aesthetic, and labor education, preparing them to contribute to the great task of national rejuvenation; to cultivate highly competent English professionals with outstanding expertise and versatile competencies, a strong sense of patriotism, a broad international perspective, and well-developed professional ethics and teamwork.</M05>
+
+<M05>This program requires students to have a firm political direction, good ideological character and sound personality.</M05>
+
+<M05>They are expected to possess comprehensive humanistic knowledge, a strong sense of responsibility toward national development, systematic and integrated knowledge of English language and literature, interdisciplinary skills, and professional competence.</M05>
+
+<M05>Students are trained to develop strong logical thinking, critical awareness, creativity, and the ability for independent, lifelong, and collaborative learning.</M05>
+
+<M05>They are also equipped with cross-cultural communication skills and the ability to conduct research using emerging digital technologies.</M05>
+
+<M07>Graduates are mainly employed in foreign affairs, foreign trade, culture, education, communication, finance, Internet and other fields and industries, engaged in translation, teaching, scientific research, management, international exchange and communication, finance and other professional related jobs.</M07>
+
+<M05>This program requires students to have a clear political orientation, strong moral character, and well-rounded personalities.</M05>
+
+<M05>They are expected to possess broad humanistic knowledge, a strong sense of responsibility for national development, systematic knowledge of English language and literature, interdisciplinary competencies, and professional competence.</M05>
+
+<M05>Students are trained to develop strong logical reasoning, critical awareness, creative thinking, and capabilities for independent learning, lifelong learning, and collaborative learning.</M05>
+
+<M05>They are also equipped with cross-cultural communication skills and the ability to conduct research using digital technologies.</M05>
+
+<M07>Graduates are mainly employed in foreign affairs, foreign trade, culture, education, communication, finance, Internet, and other fields and industries, engaged in translation, teaching, scientific research, management, international exchange and communication, and related professions.</M07>
+
+<M05>At present, the program has established a complete, modular, systematic curriculum framework consisting of a broad disciplinary foundation, core courses, specialized modules, and internship and practical training components.</M05>
+
+<M05>At the same time, it also offers English minor courses for the whole school.</M05>
+
+<M05>The core courses of this program are: Outline of Chinese Culture, History of World Civilization, Introduction to English Literature, British Literature, American Literature, Introduction to the English Translation of Chinese Classics, Basic Interpretation, Translation Theory and Practice, General Linguistics, Introduction to English for Science and Technology.</M05>
+
+<OTHER>Department of Spanish</OTHER>
+
+<M02>Founded in 2010, the Spanish major has enrolled full-time undergraduate students since 2011 and graduate students since 2017.</M02>
+
+<M07>The first-level discipline for Spanish is Foreign Languages and Literature, which is a flagship discipline in Hunan Province.</M07>
+
+<M06>Currently, the program has nine full-time teachers (including one foreign teacher), four of whom hold doctoral degrees and two are master's advisors.</M06>
+
+<M07>In recent years, Spanish teachers have led one national-level project and multiple provincial- and ministerial-level projects, published many high-quality academic papers, and guided students to win dozens of awards in national and provincial-level competitions.</M07>
+
+<M05>Practicing the educational philosophy of “character development, knowledge transmission, competence building, and intellectual inspiration,” the program is committed to cultivating professionals grounded in socialist core values.</M05>
+
+<M05>Graduates will possess strong Spanish language proficiency and relevant domain knowledge, and the ability to meet the demands of China's international exchange, economic development, cultural dissemination, education, and academic research.</M05>
+
+<M05>The program also aims to foster students’ awareness of self-directed learning, innovation, and critical thinking ability.</M05>
+
+<M08>The program has signed agreements for “3+1” undergraduate training with prestigious Spanish universities, including the Autonomous University of Barcelona, University of Alcalá, University of Salamanca, and University of Santiago de Compostela.</M08>
+
+<M08>The proportion of students participating in international exchange programs over the years exceeds 47%.</M08>
+
+<M07>Over the years, the passing rate of EEE-4 and EEE-8 for students of Spanish major has consistently been significantly higher than the national average.</M07>
+
+<M07>Students have achieved outstanding results in various academic competitions at all levels, winning three awards in regional competitions and three awards in provincial-level competitions in the past two years.</M07>
+
+<M07>Among the 141 graduates from the last five years, 17 pursued further studies in China, 27 pursued further studies abroad, and 97 were employed.</M07>
+
+<M07>The rate of students pursuing advanced degrees exceeds 40%, and the employment rate has remained at 100% for several consecutive years.</M07>
+
+<OTHER>College Foreign Language Education Center</OTHER>
+
+<M01>The College Foreign Language Education Center consists of four teaching and research sections and has a total of 117 full-time faculty members, including 10 professors and 51 associate professors.</M01>
+
+<M06>Among them, 22 faculty members hold doctoral degrees.</M06>
+
+<M01>The Center is responsible for providing foreign language instruction for undergraduate and postgraduate students from non-language majors across the university.</M01>
+
+<M05>The courses offered include College English as a required course for undergraduates in regular programs, university-wide Advanced English elective courses and general education courses, Basic College English for students in arts and sports programs, IELTS courses (Listening and Speaking, Reading and Writing, and Speaking and Writing) for international classes, Advanced English Speaking and Writing for the Excellence Program, English courses for preparatory students, Legal English for law majors, Medical English, Advanced Medical English, and Academic Writing in Medical English for medical students, Chinese language courses for international students, as well as Academic English courses for postgraduate students from non-language majors.</M05>
+
+<M05>In addition, some faculty members also teach at the Dundee International Institute of Central South University (DIICSU) and offer courses for doctoral, master's, and undergraduate students in the English program of the School of Foreign Languages.</M05>
+
+<M05>Drawing on the School’s doctoral program in English Language and Literature and the Flagship Discipline of Foreign Linguistics and Applied Linguistics in Hunan Province, the Center follows an approach that prioritizes teaching while enhancing quality through research-informed pedagogy and has achieved remarkable teaching results.</M05>
+
+<M07>Over the past five years, faculty members of the Center have been awarded four National First-Class Undergraduate Courses and 10 Provincial First-Class Undergraduate Courses.</M07>
+
+<M07>They have completed 25 provincial-level educational research and teaching reform projects, won three Provincial Teaching Excellence Awards and five university-level Teaching Excellence Awards, and received 11 provincial teaching competition awards as well as nine provincial Course-based Civic Education teaching competition awards.</M07>
+
+<M07>Faculty members have also received five awards in the “Top 30” Classroom Teaching Competition of Central South University.</M07>
+
+<M07>Under their guidance, students have won more than 100 awards in various competitions.</M07>
+
+<M07>In addition, the faculty have published more than 90 academic papers and served as chief editors of five textbooks.</M07>
+
+<M05>The objective of College English teaching is to develop students’ ability to use English effectively, enhance their intercultural communication awareness and competence, foster autonomous learning ability, and improve their overall cultural literacy.</M05>
+
+<M05>It aims to enable students to use English effectively in their studies, daily life, social interactions, and future careers, thereby meeting the needs of national, social, institutional, and personal development.</M05>
+
+<M05>According to the Undergraduate Talent Training Program of Central South University, College English adopts a differentiated instruction approach based on the talent cultivation requirements of different schools and departments.</M05>
+
+<M05>Instruction is organized into three types of classes: regular, arts and sports, and international classes.</M05>
+
+<M05>The College English curriculum consists of compulsory courses at the foundational stage and a series of elective courses at the advanced stage.</M05>
+
+<M05>Teaching is conducted under a three-by-three pedagogical model, which integrates three major teaching forms and three key teaching stages.</M05>
+
+<M05>The teaching forms include ubiquitous self-directed learning based on textbooks and online learning platforms, knowledge instruction delivered through MOOCs, micro-courses, and related formats, and small-group interactive sessions supported by multimedia classrooms.</M05>
+
+<M05>The teaching stages consist of pre-class self-study, in-class interactive communication, and post-class consolidation and enhancement.</M05>
+
+<M06>The College English teaching environment is modern and well-equipped.</M06>
+
+<M06>The university has invested over 80 million RMB to build the Foreign Language Network Teaching Building, which houses nearly 10,000 square meters dedicated to College English teaching and experimental instruction.</M06>
+
+<M06>It includes 36 digital language laboratories with more than 1,400 seats and three self-access learning facilities with 400 seats, accommodating up to 1,800 students simultaneously for study or online English examinations.</M06>
+
+<M06>The school has also installed a satellite reception system, enabling students in all foreign language classrooms to watch international language programs.</M06>
+
+<M06>In addition, a campus-wide broadband network provides access across all campuses and student dormitories, creating a comprehensive, ubiquitous learning environment for College English.</M06>
+
+<M04>In today’s globalized world, language serves not only as a tool for communication but also as a bridge for cultural transmission and exchange.</M04>
+
+<M05>The Center keeps close track of the latest trends in foreign language teaching both domestically and internationally, continuously updating educational concepts, optimizing teaching models, and strengthening course-based civic education.</M05>
+
+<M05>By balancing teaching and research, and prioritizing both teaching quality and talent development, the Center continually advances College English education.</M05>
+
+<M03>At the same time, it is committed to enhancing faculty professional competence and research capacity, fostering a dynamic and innovative teaching environment, and striving to cultivate high-quality, versatile graduates capable of meeting the demands of future society.</M03>
+
+<OTHER>Department of French Language</OTHER>
+
+<M02>Founded in 1972, the French major is one of the earliest French undergraduate programs in science and technology universities in China.</M02>
+
+<M02>In 1979, CSU began to enroll master’s students in French language and literature and was authorized to confer master’s degrees in 1986.</M02>
+
+<M07>It was approved as a Provincial First-Class Undergraduate Program in 2020.</M07>
+
+<M07>The first-level discipline for French is Foreign Languages and Literature, which is a first-tier doctoral program and a flagship discipline in Hunan Province.</M07>
+
+<M06>After more than 50 years of development, the professional teaching team is mainly composed of mid-career faculty with senior academic ranks, demonstrating great potential for growth.</M06>
+
+<M06>Currently, there are nine full-time faculty and one foreign teacher, among whom seven hold doctoral degrees and one is a postdoctoral researcher.</M06>
+
+<M06>The faculty includes one professor, six associate professors, and six master's advisors.</M06>
+
+<M06>Full-time faculty holding doctoral degrees or senior academic ranks account for 78% of the faculty, and 100% have overseas study experience.</M06>
+
+<M07>In recent years, the department has secured four projects funded by the National Social Science Fund, one project funded by the Ministry of Education’s Humanities and Social Sciences Research program, and dozens of grants from the Hunan Provincial Social Science Fund, the Hunan Provincial Social Science Achievement Evaluation Committee, the Hunan Provincial Department of Education, and Hunan Provincial Philosophy and Social Science Research Bases.</M07>
+
+<M07>More than 10 academic monographs, translated books, and more than 50 papers have been published.</M07>
+
+<M07>Among them, over 20 papers are indexed in ESI and CSSCI.</M07>
+
+<M07>Besides, two provincial-level first-class courses are offered.</M07>
+
+<M05>Adhering to the mission of “cultivating talent and serving the nation,” the department is characterized by multilingual integration, an integrated bachelor's, master’s, and doctoral program, industry-academia-research collaborative education, and international cooperative schooling.</M05>
+
+<M06>It boasts a strong faculty team, a curriculum system combining teaching and research, resource platforms for disciplinary integration, and a mechanism for industry-academia collaborative education.</M06>
+
+<M05>These features cultivate students’ broad academic perspectives and strong adaptability.</M05>
+
+<M07>In recent years, the number of students pursuing interdisciplinary further studies or careers has increased annually.</M07>
+
+<M07>The employment rate for graduates in the past five years has reached 100%.</M07>
+
+<OTHER>Department of Japanese Language</OTHER>
+
+<M02>The Japanese program was founded in 1985 and was authorized to confer a Master's degree in Japanese Language and Literature in 2007.</M02>
+
+<M07>Its primary discipline, Foreign Languages and Literature, is a Flagship Discipline of Hunan Province.</M07>
+
+<M07>In 2021, 2022, and 2023, it was ranked among Tier-A programs in Shanghai Ranking's Best Chinese Subjects for three consecutive years and has been designated as a Provincial First-Class Undergraduate Program.</M07>
+
+<M06>The program currently has 12 full-time faculty members, with a student-to-faculty ratio of 1:6.</M06>
+
+<M06>Among them, four hold doctoral degrees and five hold senior academic ranks.</M06>
+
+<M06>All faculty members have overseas study or work experience, forming a highly qualified teaching and research team dedicated to student development.</M06>
+
+<M07>In recent years, faculty members have led five provincial and ministerial scientific research projects, published more than 10 academic monographs and translations, and produced more than 30 high-quality papers in leading academic journals at home and abroad.</M07>
+
+<M07>Faculty members won two national teaching competition awards and provincial teaching competition awards.</M07>
+
+<M07>Under the guidance of the faculty, students have achieved outstanding results in various academic competitions, winning more than forty regional-level or higher awards.</M07>
+
+<M05>The Japanese program offers both undergraduate and graduate education.</M05>
+
+<M05>It is characterized by multilingual integration, integrated bachelor's, master's, and doctoral programs, industry-academia-research collaboration, and international cooperative education.</M05>
+
+<M08>The program has established student exchange partnerships with Chiba University, Akita University, Kagoshima University, and the University of Shiga Prefecture in Japan, with more than 50% of students participating in the exchange program each academic year.</M08>
+
+<M07>Over the years, students have taken the Test for Japanese Majors (TJM) Band 4 and Band 8, as well as the Japanese-Language Proficiency Test (JLPT) N1 and N2, achieving pass rates well above the national average.</M07>
+
+<M07>The graduate school enrollment rate exceeds 40%, and the employment rate has remained at 100% for many consecutive years.</M07>
+
+<M07>Graduates are active in foreign affairs, economy and trade, culture, journalism, education, scientific research, and other fields.</M07>
+
+<M05>Core courses: Advanced Japanese (I), Advanced Japanese (II), Japanese Speech and Debate, Japanese Interpretation, Japanese Translation, Introduction to Chinese–Japanese Linguistic Comparison, Introduction to Japanese Lexicology, Japanese academic paper Writing</M05>
+
+<M07>Career Outcomes: Graduates are mainly employed in government agencies such as the Ministry of Foreign Affairs; institutions of higher education such as East China Normal University and Guangxi University; and well-known enterprises at home and abroad such as Huawei and Baidu.</M07>
+
+<M07>In terms of further study, nearly 90% of domestic students enter China’s Double First-Class universities and well-known foreign language universities, such as Peking University, Nanjing University, Beijing Foreign Studies University, and Shanghai Foreign Studies University.</M07>
+
+<M07>Students pursuing studies outside mainland China are admitted to prestigious universities and institutions, including the University of Tokyo, the University of Tsukuba, Ochanomizu University, the University of London, and City University of Hong Kong.</M07>
+
+<OTHER>Administration</OTHER>
