@@ -28,6 +28,7 @@ MUTED = "62748A"
 PALE = "F7F9FC"
 PALE_BLUE = "EAF1F8"
 PALE_ORANGE = "FFF3E5"
+PALE_TEAL = "E8F4F2"
 WHITE = "FFFFFF"
 LINE = "D8E1EB"
 
@@ -639,6 +640,75 @@ def slide_07(deck):
     deck.save_slide(c)
 
 
+def slide_08(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 4.20, 0.30, "06　下一阶段计划", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 11.20, 0.52, "下一阶段：解释差异并转化研究成果", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "在定量比较基础上，回答差异为何形成，并将研究发现转化为写作建议与论文",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    flow_y, flow_h = 2.30, 3.48
+    # Existing quantitative foundation.
+    c.rect(0.80, flow_y, 2.55, flow_h, PALE_BLUE, radius=0.12)
+    c.rect(1.04, 2.57, 0.78, 0.30, BLUE, radius=0.08)
+    c.text(1.04, 2.57, 0.78, 0.30, "已完成", 9, WHITE, bold=True,
+           align="center", valign="middle")
+    c.text(1.04, 3.02, 2.07, 0.38, "现有定量基础", 15, NAVY, bold=True)
+    foundation = ["60个院系文本", "10个核心语步", "语步分布与语言实现"]
+    for i, item in enumerate(foundation):
+        y = 3.68 + i * 0.48
+        c.circle(1.06, y + 0.08, 0.12, BLUE)
+        c.text(1.32, y, 1.77, 0.28, item, 10.5, TEXT, valign="middle")
+    c.line(1.04, 5.18, 3.10, 5.18, "C9D9E9", 0.8)
+    c.text(1.04, 5.36, 2.07, 0.26, "提供可解释的文本证据", 9.5, BLUE, bold=True)
+
+    # Qualitative interpretation.
+    c.rect(3.78, flow_y, 3.72, flow_h, WHITE, line=TEAL, radius=0.12, width=1.0)
+    c.rect(3.78, flow_y, 3.72, 0.07, TEAL)
+    c.text(4.02, 2.58, 3.24, 0.38, "01　质性解释", 15, NAVY, bold=True)
+    c.text(4.02, 3.03, 3.24, 0.28, "结合典型文本与语境例证", 10, MUTED)
+    qualitative = ["跨文化话语分析", "批评话语分析", "社会文化语境解释"]
+    for i, item in enumerate(qualitative):
+        y = 3.48 + i * 0.50
+        c.rect(4.02, y, 3.24, 0.38, PALE_TEAL, radius=0.08)
+        c.text(4.02, y, 3.24, 0.38, item, 10.5, TEAL, bold=True,
+               align="center", valign="middle")
+    c.text(4.02, 5.14, 3.24, 0.45,
+           "重点解释差异背后的\n制度、政策与文化动因", 10, TEXT, align="center", spacing=1.18)
+
+    # Outputs: strategy library and paper.
+    c.rect(8.15, flow_y, 4.25, flow_h, WHITE, line=ORANGE, radius=0.12, width=1.0)
+    c.rect(8.15, flow_y, 4.25, 0.07, ORANGE)
+    c.text(8.40, 2.58, 3.75, 0.38, "02　成果转化", 15, NAVY, bold=True)
+    c.rect(8.40, 3.14, 3.75, 0.98, PALE_ORANGE, radius=0.09)
+    c.text(8.62, 3.29, 3.31, 0.28, "话语策略建议库", 12, ORANGE, bold=True)
+    c.text(8.62, 3.62, 3.31, 0.40,
+           "语步组织 · 核心概念 · 国际化\n工具性—人文性目标平衡", 9.5, TEXT, spacing=1.16)
+    c.rect(8.40, 4.37, 3.75, 0.98, PALE_BLUE, radius=0.09)
+    c.text(8.62, 4.52, 3.31, 0.28, "研究论文", 12, BLUE, bold=True)
+    c.text(8.62, 4.85, 3.31, 0.40,
+           "整合定量结果与质性解释\n完成论文撰写与修改", 9.5, TEXT, spacing=1.16)
+
+    c.chevron(3.48, 3.79, 0.16, 0.36, TEAL)
+    c.chevron(7.82, 3.79, 0.16, 0.36, ORANGE)
+
+    c.rect(0.80, 6.04, 11.60, 0.43, NAVY, radius=0.08)
+    c.text(1.02, 6.04, 11.16, 0.43,
+           "由“有何差异”推进到“为何形成、如何服务英文简介写作”",
+           11, WHITE, bold=True, align="center", valign="middle")
+
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "08 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
@@ -648,6 +718,7 @@ def main():
     slide_05(deck)
     slide_06(deck)
     slide_07(deck)
+    slide_08(deck)
     deck.save()
 
 
