@@ -1,5 +1,6 @@
 from pathlib import Path
 from functools import lru_cache
+import csv
 
 from PIL import Image, ImageDraw, ImageFont
 from pptx import Presentation
@@ -409,12 +410,87 @@ def slide_04(deck):
     deck.save_slide(c)
 
 
+def slide_05(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 4.20, 0.30, "04　研究结果｜语步分布", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 10.60, 0.52, "语步出现率：美国文本的覆盖更稳定", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "中美样本共享10个语步，国别差距主要集中于M09、M08与M03",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    # Main editable paired-bar chart, driven by table 2-2.
+    c.rect(0.80, 2.18, 8.15, 4.12, WHITE, line=LINE, radius=0.11, width=0.8)
+    c.text(1.03, 2.37, 2.30, 0.30, "文本出现率（%）", 11, BLUE, bold=True)
+    c.rect(6.15, 2.43, 0.16, 0.10, BLUE, radius=0.02)
+    c.text(6.39, 2.34, 0.62, 0.28, "中国", 9.5, MUTED, valign="middle")
+    c.rect(7.16, 2.43, 0.16, 0.10, ORANGE, radius=0.02)
+    c.text(7.40, 2.34, 0.72, 0.28, "美国", 9.5, MUTED, valign="middle")
+
+    plot_x, plot_w = 1.55, 6.45
+    for tick in [0, 25, 50, 75, 100]:
+        x = plot_x + plot_w * tick / 100
+        c.line(x, 2.88, x, 6.03, LINE, 0.5)
+        c.text(x - 0.22, 2.64, 0.44, 0.20, str(tick), 8, MUTED, align="center")
+
+    data_path = ROOT.parent / "analysis" / "table_2_2_move_occurrence.tsv"
+    with data_path.open(encoding="utf-8-sig", newline="") as f:
+        occurrence = list(csv.DictReader(f, delimiter="\t"))
+    for i, row in enumerate(occurrence):
+        code = row["语步"]
+        china = float(row["中国出现率(%)"])
+        us = float(row["美国出现率(%)"])
+        y = 2.95 + i * 0.31
+        c.text(1.02, y + 0.01, 0.42, 0.24, code, 8.5, TEXT, bold=True, valign="middle")
+        for j, (value, color) in enumerate([(china, BLUE), (us, ORANGE)]):
+            by = y + 0.025 + j * 0.125
+            width = plot_w * value / 100
+            c.rect(plot_x, by, width, 0.085, color, radius=0.018)
+            c.text(plot_x + width + 0.06, by - 0.025, 0.48, 0.14,
+                   f"{value:.1f}", 7.5, MUTED, valign="middle")
+
+    # Three key gaps.
+    c.rect(9.15, 2.18, 3.25, 4.12, PALE_BLUE, radius=0.11)
+    c.text(9.39, 2.37, 2.77, 0.38, "关键差距（百分点）", 11, BLUE, bold=True)
+    by_code = {row["语步"]: row for row in occurrence}
+    key_moves = [
+        ("M09", "受众互动与行动引导"),
+        ("M08", "合作网络与社会服务"),
+        ("M03", "使命愿景与公共价值"),
+    ]
+    for i, (code, name) in enumerate(key_moves):
+        row = by_code[code]
+        china = float(row["中国出现率(%)"])
+        us = float(row["美国出现率(%)"])
+        gap = float(row["美国-中国(百分点)"])
+        y = 2.88 + i * 1.00
+        c.rect(9.39, y, 2.77, 0.84, WHITE, radius=0.09)
+        c.text(9.57, y + 0.10, 2.40, 0.26, f"{code}　{name}", 10, NAVY, bold=True)
+        c.text(9.57, y + 0.43, 1.70, 0.27,
+               f"{china:.1f}% → {us:.1f}%", 11.5, TEXT, bold=True, valign="middle")
+        c.text(11.20, y + 0.40, 0.75, 0.30, f"+{gap:.1f}", 14, ORANGE,
+               bold=True, align="right", valign="middle")
+    c.text(9.39, 5.94, 2.77, 0.22, "其余7个语步差距均≤10个百分点", 8.5, MUTED, align="center")
+
+    c.text(0.84, 6.40, 8.00, 0.20,
+           "注：出现率为该国30个文本中包含相应语步的文本比例。", 8.5, MUTED)
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "05 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
     slide_02(deck)
     slide_03(deck)
     slide_04(deck)
+    slide_05(deck)
     deck.save()
 
 
