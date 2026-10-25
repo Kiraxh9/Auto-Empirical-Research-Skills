@@ -484,6 +484,96 @@ def slide_05(deck):
     deck.save_slide(c)
 
 
+def slide_06(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 4.20, 0.30, "04　研究结果｜语步分布", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 11.20, 0.52, "篇幅与开篇：M05为共同核心，开篇功能不同", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "M05的篇幅占比中位数在两国均约20%；M02更常开启中国文本，M05更常开启美国文本",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    # Left: editable dumbbell chart for median move-length shares.
+    c.rect(0.80, 2.18, 7.65, 4.12, WHITE, line=LINE, radius=0.11, width=0.8)
+    c.text(1.03, 2.37, 2.90, 0.30, "语步词数占比中位数（%）", 11, BLUE, bold=True)
+    c.circle(5.92, 2.43, 0.12, BLUE)
+    c.text(6.11, 2.34, 0.55, 0.28, "中国", 9.5, MUTED, valign="middle")
+    c.circle(6.86, 2.43, 0.12, ORANGE)
+    c.text(7.05, 2.34, 0.55, 0.28, "美国", 9.5, MUTED, valign="middle")
+
+    length_path = ROOT.parent / "analysis" / "table_2_3_move_length.tsv"
+    with length_path.open(encoding="utf-8-sig", newline="") as f:
+        lengths = list(csv.DictReader(f, delimiter="\t"))
+    position_path = ROOT.parent / "analysis" / "table_2_4_move_position_opening.tsv"
+    with position_path.open(encoding="utf-8-sig", newline="") as f:
+        positions = {row["语步"]: row for row in csv.DictReader(f, delimiter="\t")}
+
+    plot_x, plot_w, scale_max = 1.52, 5.55, 22.0
+    # Highlight the shared core move before drawing the grid.
+    c.rect(1.00, 4.12, 7.15, 0.28, PALE_BLUE, radius=0.04)
+    for tick in [0, 5, 10, 15, 20]:
+        x = plot_x + plot_w * tick / scale_max
+        c.line(x, 2.88, x, 6.00, LINE, 0.5)
+        c.text(x - 0.22, 2.64, 0.44, 0.20, str(tick), 8, MUTED, align="center")
+
+    for i, row in enumerate(lengths):
+        code = row["语步"]
+        china = float(row["中国占比中位数(%)"])
+        us = float(row["美国占比中位数(%)"])
+        y = 2.95 + i * 0.30
+        x_cn = plot_x + plot_w * china / scale_max
+        x_us = plot_x + plot_w * us / scale_max
+        c.text(1.02, y + 0.005, 0.40, 0.23, code, 8.5, TEXT, bold=True, valign="middle")
+        c.line(x_cn, y + 0.12, x_us, y + 0.12, LINE, 1.2)
+        c.circle(x_cn - 0.065, y + 0.055, 0.13, BLUE)
+        c.circle(x_us - 0.065, y + 0.055, 0.13, ORANGE)
+        if code == "M05":
+            c.text(x_us - 0.52, y + 0.025, 0.40, 0.19, f"{us:.1f}", 8, ORANGE,
+                   bold=True, align="right", valign="middle")
+            c.text(x_cn + 0.12, y + 0.025, 0.40, 0.19, f"{china:.1f}", 8, BLUE,
+                   bold=True, valign="middle")
+    c.text(1.03, 6.03, 7.05, 0.20, "M05　课程教学与培养目标：在两组文本中均居篇幅占比首位",
+           8.5, BLUE, bold=True, align="center")
+
+    # Right: two opening-position comparisons.
+    c.rect(8.68, 2.18, 3.72, 4.12, PALE_BLUE, radius=0.11)
+    c.text(8.95, 2.37, 3.18, 0.30, "开篇比例（%）", 11, BLUE, bold=True)
+    opening_cards = [
+        ("M02", "历史沿革与学脉传承", "中国更常以历史开篇"),
+        ("M05", "课程教学与培养目标", "美国更常以课程教学开篇"),
+    ]
+    for i, (code, name, takeaway) in enumerate(opening_cards):
+        row = positions[code]
+        china = float(row["中国开篇比例(%)"])
+        us = float(row["美国开篇比例(%)"])
+        y = 2.88 + i * 1.48
+        c.rect(8.95, y, 3.18, 1.30, WHITE, radius=0.09)
+        c.text(9.12, y + 0.10, 2.84, 0.25, f"{code}　{name}", 10, NAVY, bold=True)
+        for j, (label, value, color) in enumerate([("中国", china, BLUE), ("美国", us, ORANGE)]):
+            ly = y + 0.42 + j * 0.30
+            by = ly + 0.055
+            c.text(9.12, ly, 0.38, 0.20, label, 8.5, MUTED, valign="middle")
+            c.rect(9.55, by, 1.90 * value / 100, 0.10, color, radius=0.02)
+            c.text(9.55 + 1.90 * value / 100 + 0.06, by - 0.035, 0.46, 0.17,
+                   f"{value:.1f}", 8, color, bold=True, valign="middle")
+        c.text(9.12, y + 1.05, 2.84, 0.19, takeaway, 8.8,
+               BLUE if code == "M02" else ORANGE, bold=True, align="center")
+    c.text(8.95, 5.88, 3.18, 0.36,
+           "开篇＝该语步为文本首个语步\n完整首次位置热图见附录", 8.2, MUTED,
+           align="center", spacing=1.15)
+
+    c.text(0.84, 6.40, 7.70, 0.20,
+           "注：篇幅占比＝语步词数／文本独立词数，图中取各组中位数。", 8.5, MUTED)
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "06 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
@@ -491,6 +581,7 @@ def main():
     slide_03(deck)
     slide_04(deck)
     slide_05(deck)
+    slide_06(deck)
     deck.save()
 
 
