@@ -88,6 +88,21 @@ class Canvas:
         self.draw.line([self.px(x1), self.px(y1), self.px(x2), self.px(y2)], fill=pil_rgb(color), width=max(1, self.px(width / 72)))
         return shape
 
+    def chevron(self, x, y, w, h, fill):
+        shape = self.slide.shapes.add_shape(MSO_SHAPE.CHEVRON, Inches(x), Inches(y), Inches(w), Inches(h))
+        shape.fill.solid(); shape.fill.fore_color.rgb = rgb(fill)
+        shape.line.fill.background()
+        points = [
+            (self.px(x), self.px(y)),
+            (self.px(x + w * 0.55), self.px(y)),
+            (self.px(x + w), self.px(y + h / 2)),
+            (self.px(x + w * 0.55), self.px(y + h)),
+            (self.px(x), self.px(y + h)),
+            (self.px(x + w * 0.45), self.px(y + h / 2)),
+        ]
+        self.draw.polygon(points, fill=pil_rgb(fill))
+        return shape
+
     def text(self, x, y, w, h, text, size=16, color=TEXT, bold=False,
              align="left", valign="top", font="Microsoft YaHei", spacing=1.12):
         box = self.slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
@@ -200,9 +215,73 @@ def slide_01(deck):
     deck.save_slide(c)
 
 
+def slide_02(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 3.20, 0.30, "01　项目概览", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 6.40, 0.52, "项目整体路线", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "定量比较已完成，下一阶段由“描述差异”转向“解释差异与策略转化”",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    # Editable status legend.
+    c.circle(10.23, 0.57, 0.12, BLUE)
+    c.text(10.42, 0.49, 0.78, 0.28, "已完成", 10, MUTED, valign="middle")
+    c.circle(11.33, 0.57, 0.12, ORANGE)
+    c.text(11.52, 0.49, 1.02, 0.28, "下一阶段", 10, MUTED, valign="middle")
+
+    stages = [
+        ("01", "语料构建", "中国、美国各30个\n外语院系英文简介", "60个院系文本"),
+        ("02", "框架与校订", "AI预标注\n人工逐篇校订", "10个核心语步"),
+        ("03", "语步分布", "出现率 · 篇幅\n开篇位置", "比较结构组织"),
+        ("04", "语言实现", "关键词 · 词丛\n搭配与语义组", "聚焦4个核心语步"),
+        ("05", "语境与转化", "跨文化话语分析\n批评话语分析\n社会文化语境解释", "策略建议库 · 论文"),
+    ]
+    xs = [0.80, 3.18, 5.56, 7.94, 10.32]
+    card_y, card_w, card_h = 2.20, 2.08, 3.50
+    for i, ((num, title, desc, tag), x) in enumerate(zip(stages, xs)):
+        active = i == 4
+        accent = ORANGE if active else BLUE
+        c.rect(x, card_y, card_w, card_h,
+               PALE_ORANGE if active else WHITE,
+               line=ORANGE if active else LINE, radius=0.11, width=1.0 if active else 0.8)
+        c.rect(x, card_y, card_w, 0.07, accent)
+        c.rect(x + 0.18, card_y + 0.25, 0.86 if active else 0.72, 0.30,
+               ORANGE if active else PALE_BLUE, radius=0.08)
+        c.text(x + 0.18, card_y + 0.25, 0.86 if active else 0.72, 0.30,
+               "下一阶段" if active else "已完成", 9,
+               WHITE if active else BLUE, bold=True, align="center", valign="middle")
+        c.text(x + 0.18, card_y + 0.73, 1.25, 0.54, num, 27, accent, bold=True)
+        c.text(x + 0.18, card_y + 1.37, 1.73, 0.42, title, 16, NAVY, bold=True, valign="middle")
+        c.text(x + 0.18, card_y + 1.98, 1.73, 0.86, desc, 11, MUTED, spacing=1.25)
+        c.line(x + 0.18, card_y + 2.93, x + 1.90, card_y + 2.93,
+               ORANGE if active else LINE, 0.8)
+        c.text(x + 0.18, card_y + 3.06, 1.73, 0.28, tag, 10,
+               ORANGE if active else BLUE, bold=True, valign="middle")
+
+    for i, x in enumerate([2.95, 5.33, 7.71, 10.09]):
+        c.chevron(x, 3.75, 0.16, 0.34, ORANGE if i == 3 else LINE)
+
+    c.rect(0.80, 5.98, 11.60, 0.48, PALE_BLUE, radius=0.08)
+    c.text(1.00, 5.98, 1.25, 0.48, "本次汇报重点", 10, BLUE, bold=True, valign="middle")
+    c.text(2.36, 5.98, 9.70, 0.48,
+           "03 语步分布　·　04 语言实现　　｜　　05 语境与转化为下一阶段计划",
+           11, TEXT, valign="middle")
+
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "02 / 07", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
+    slide_02(deck)
     deck.save()
 
 
