@@ -213,7 +213,7 @@ def slide_01(deck):
     c.text(0.80, 6.52, 3.00, 0.34, "外语学院", 13, NAVY, bold=True)
     c.text(0.80, 6.93, 6.60, 0.30, "汇报人：________　　指导教师：________", 11, MUTED)
     c.text(10.60, 6.90, 1.20, 0.30, "2026年", 11, MUTED, align="right")
-    c.text(11.90, 6.90, 0.65, 0.30, "01 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.90, 0.65, 0.30, "01 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -265,7 +265,7 @@ def slide_02(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "02 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "02 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -328,7 +328,7 @@ def slide_03(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "03 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "03 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -407,7 +407,7 @@ def slide_04(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "04 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "04 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -481,7 +481,7 @@ def slide_05(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "05 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "05 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -571,7 +571,7 @@ def slide_06(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "06 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "06 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -636,7 +636,7 @@ def slide_07(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "07 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "07 / 09", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -705,7 +705,42 @@ def slide_08(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "08 / 08", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "08 / 09", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
+def slide_09(deck):
+    c = deck.add_slide(bg=NAVY)
+    c.rect(0, 0, 0.16, SLIDE_H, ORANGE)
+    c.rect(0.16, 0, 0.055, 1.28, BLUE)
+
+    c.text(0.84, 0.66, 6.50, 0.34,
+           "本科生创新训练培育项目｜中期汇报", 12, ORANGE, bold=True)
+    c.text(0.84, 2.00, 10.80, 0.82,
+           "谢谢各位评委老师", 35, WHITE, bold=True, valign="middle")
+    c.text(0.86, 3.03, 6.00, 0.48,
+           "恳请批评指正", 19, "D8E1EB", valign="middle")
+    c.rect(0.86, 3.82, 0.78, 0.05, ORANGE)
+    c.text(0.86, 4.28, 10.80, 0.42,
+           "基于语料库技术的中美外语院系英文简介话语比较分析",
+           13, "D8E1EB", valign="middle")
+
+    # Minimal editable visual echoing the three-part research path.
+    c.line(9.90, 1.40, 9.90, 5.72, "456078", 1.0)
+    closing_stages = [
+        (1.74, "01", "语步分布", BLUE),
+        (3.02, "02", "语言实现", TEAL),
+        (4.30, "03", "语境解释", ORANGE),
+    ]
+    for y, num, label, color in closing_stages:
+        c.circle(10.26, y, 0.52, color)
+        c.text(10.26, y, 0.52, 0.52, num, 11, WHITE, bold=True,
+               align="center", valign="middle")
+        c.text(11.02, y + 0.04, 1.45, 0.44, label, 13, WHITE, bold=True, valign="middle")
+
+    c.line(0.86, 6.45, 12.48, 6.45, "456078", 0.8)
+    c.text(0.86, 6.72, 3.00, 0.32, "外语学院", 12, WHITE, bold=True)
+    c.text(11.76, 6.72, 0.72, 0.32, "09 / 09", 10, "AAB8C6", align="right")
     deck.save_slide(c)
 
 
@@ -719,6 +754,7 @@ def main():
     slide_06(deck)
     slide_07(deck)
     slide_08(deck)
+    slide_09(deck)
     deck.save()
 
 
