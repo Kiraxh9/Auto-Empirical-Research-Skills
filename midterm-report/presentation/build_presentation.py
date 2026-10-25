@@ -330,11 +330,91 @@ def slide_03(deck):
     deck.save_slide(c)
 
 
+def slide_04(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 3.20, 0.30, "03　研究设计", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 8.60, 0.52, "样本、语步与人机协作校订", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "以院系级文本为比较单位，后续统计与语言分析均基于人工校订标签",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    card_y, card_h = 2.20, 3.92
+    # Corpus sample.
+    c.rect(0.80, card_y, 2.75, card_h, WHITE, line=LINE, radius=0.11, width=0.8)
+    c.text(1.04, 2.42, 2.25, 0.32, "01　语料样本", 12, BLUE, bold=True)
+    c.text(1.04, 2.88, 2.25, 0.66, "60", 35, NAVY, bold=True, align="center")
+    c.text(1.04, 3.50, 2.25, 0.30, "个院系文本", 11, MUTED, align="center")
+    c.line(1.04, 3.93, 3.30, 3.93, LINE, 0.8)
+    c.rect(1.04, 4.15, 2.26, 0.48, PALE_BLUE, radius=0.08)
+    c.circle(1.22, 4.31, 0.14, BLUE)
+    c.text(1.50, 4.15, 1.58, 0.48, "中国　30个", 11, NAVY, bold=True, valign="middle")
+    c.rect(1.04, 4.77, 2.26, 0.48, PALE_ORANGE, radius=0.08)
+    c.circle(1.22, 4.93, 0.14, ORANGE)
+    c.text(1.50, 4.77, 1.58, 0.48, "美国　30个", 11, NAVY, bold=True, valign="middle")
+    c.text(1.04, 5.45, 2.26, 0.26, "官方网站英文 About Us", 9.5, MUTED, align="center")
+    c.text(1.04, 5.75, 2.26, 0.26, "院系级聚合文本", 10, BLUE, bold=True, align="center")
+
+    # Ten-move framework.
+    c.rect(3.80, card_y, 5.10, card_h, WHITE, line=LINE, radius=0.11, width=0.8)
+    c.text(4.04, 2.42, 1.85, 0.32, "02　语步框架", 12, BLUE, bold=True)
+    c.text(5.90, 2.42, 2.74, 0.32, "24个细类 → 10个核心语步", 10, MUTED,
+           align="right", valign="middle")
+    c.line(4.04, 2.84, 8.66, 2.84, LINE, 0.8)
+    moves = [
+        ("M01", "机构身份与组织治理"), ("M02", "历史沿革与学脉传承"),
+        ("M03", "使命愿景与公共价值"), ("M04", "学科价值与研究取向"),
+        ("M05", "课程教学与培养目标"), ("M06", "师资与办学支撑"),
+        ("M07", "办学声誉与育人成效"), ("M08", "合作网络与社会服务"),
+        ("M09", "受众互动与行动引导"), ("M10", "信息导引与运行通告"),
+    ]
+    for i, (code, name) in enumerate(moves):
+        col = 0 if i < 5 else 1
+        row = i if i < 5 else i - 5
+        x = 4.04 + col * 2.32
+        y = 3.03 + row * 0.51
+        c.text(x, y, 0.43, 0.34, code, 9, BLUE if col == 0 else TEAL,
+               bold=True, valign="middle")
+        c.text(x + 0.46, y, 1.74, 0.34, name, 9.5, TEXT, valign="middle")
+        if row < 4:
+            c.line(x, y + 0.41, x + 2.18, y + 0.41, LINE, 0.5)
+    c.text(4.04, 5.75, 4.62, 0.25, "完整语步定义与语阶见附录", 9, MUTED)
+
+    # Human-in-the-loop annotation workflow.
+    c.rect(9.15, card_y, 3.25, card_h, WHITE, line=LINE, radius=0.11, width=0.8)
+    c.text(9.39, 2.42, 2.77, 0.32, "03　人机协作校订", 12, BLUE, bold=True)
+    workflow = [
+        (2.91, "AI预标注", PALE_BLUE, BLUE),
+        (3.69, "人工逐篇审阅", WHITE, NAVY),
+        (4.47, "立即修改并保存", PALE_ORANGE, ORANGE),
+    ]
+    for y, label, fill, color in workflow:
+        c.rect(9.43, y, 2.69, 0.48, fill, line=LINE if fill == WHITE else None,
+               radius=0.08, width=0.8)
+        c.text(9.43, y, 2.69, 0.48, label, 11.5, color, bold=True,
+               align="center", valign="middle")
+    c.text(10.54, 3.39, 0.46, 0.28, "↓", 15, MUTED, align="center")
+    c.text(10.54, 4.17, 0.46, 0.28, "↓", 15, MUTED, align="center")
+    c.rect(9.43, 5.20, 2.69, 0.68, NAVY, radius=0.09)
+    c.text(9.43, 5.27, 2.69, 0.20, "最终分析对象", 8.5, WHITE, align="center")
+    c.text(9.43, 5.48, 2.69, 0.30, "人工校订标签", 13, WHITE, bold=True, align="center")
+
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "04 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
     slide_02(deck)
     slide_03(deck)
+    slide_04(deck)
     deck.save()
 
 
