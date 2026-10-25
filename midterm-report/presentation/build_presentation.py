@@ -211,7 +211,7 @@ def slide_01(deck):
     c.text(0.80, 6.52, 3.00, 0.34, "外语学院", 13, NAVY, bold=True)
     c.text(0.80, 6.93, 6.60, 0.30, "汇报人：________　　指导教师：________", 11, MUTED)
     c.text(10.60, 6.90, 1.20, 0.30, "2026年", 11, MUTED, align="right")
-    c.text(11.90, 6.90, 0.65, 0.30, "01 / 07", 10, MUTED, align="right")
+    c.text(11.90, 6.90, 0.65, 0.30, "01 / 08", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -220,7 +220,59 @@ def slide_02(deck):
     c.rect(0, 0, 0.16, SLIDE_H, NAVY)
     c.rect(0.16, 0, 0.055, 0.92, ORANGE)
 
-    c.text(0.80, 0.48, 3.20, 0.30, "01　项目概览", 11, BLUE, bold=True)
+    c.text(0.80, 0.48, 3.20, 0.30, "01　研究定位", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 6.40, 0.52, "研究内容与目标", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "围绕五个相互关联的维度，比较中美外语院系英文简介的机构话语建构",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    c.text(0.80, 2.15, 4.60, 0.32, "研究内容｜五个比较维度", 12, BLUE, bold=True)
+    dimensions = [
+        ("01", "体裁构成与语步模式", "顺序 · 篇幅 · 出现率"),
+        ("02", "教育理念与培养目标", "核心能力 · 工具性—人文性"),
+        ("03", "学科形象与学术身份", "评价表达 · 自我指称 · 名词化"),
+        ("04", "国际化表述策略", "理想主义 · 工具主义 · 教育主义"),
+        ("05", "多语种资源与跨学科整合", "语种资源 · 学科融合 · 社会服务"),
+    ]
+    for i, (num, title, detail) in enumerate(dimensions):
+        y = 2.58 + i * 0.70
+        c.rect(0.80, y, 7.36, 0.58, WHITE, line=LINE, radius=0.08, width=0.8)
+        c.circle(1.00, y + 0.12, 0.34, BLUE if i < 4 else TEAL)
+        c.text(1.00, y + 0.12, 0.34, 0.34, num, 8.5, WHITE, bold=True,
+               align="center", valign="middle")
+        c.text(1.52, y + 0.07, 3.18, 0.44, title, 12.5, NAVY, bold=True, valign="middle")
+        c.text(4.74, y + 0.07, 3.18, 0.44, detail, 10, MUTED,
+               align="right", valign="middle")
+
+    c.rect(8.52, 2.15, 3.88, 3.93, PALE_BLUE, radius=0.14)
+    c.text(8.80, 2.36, 3.28, 0.34, "研究目标", 12, BLUE, bold=True)
+    goals = [
+        ("描述", "识别文本结构与语言表达的\n共性及差异", BLUE),
+        ("解释", "联系社会文化与制度语境\n阐释差异成因", TEAL),
+        ("转化", "形成话语策略建议库\n与研究论文", ORANGE),
+    ]
+    for i, (label, detail, color) in enumerate(goals):
+        y = 2.83 + i * 0.99
+        c.rect(8.80, y, 3.32, 0.82, WHITE, radius=0.09)
+        c.rect(8.80, y, 0.67, 0.82, color, radius=0.09)
+        c.text(8.80, y, 0.67, 0.82, label, 11, WHITE, bold=True,
+               align="center", valign="middle")
+        c.text(9.67, y + 0.07, 2.20, 0.68, detail, 10.5, TEXT, valign="middle", spacing=1.20)
+
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "02 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
+def slide_03(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 3.20, 0.30, "02　项目概览", 11, BLUE, bold=True)
     c.text(0.80, 0.84, 6.40, 0.52, "项目整体路线", 26, NAVY, bold=True)
     c.text(0.80, 1.43, 11.50, 0.42,
            "定量比较已完成，下一阶段由“描述差异”转向“解释差异与策略转化”",
@@ -274,7 +326,7 @@ def slide_02(deck):
     c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
     c.text(0.80, 6.91, 8.50, 0.28,
            "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
-    c.text(11.90, 6.91, 0.65, 0.28, "02 / 07", 10, MUTED, align="right")
+    c.text(11.90, 6.91, 0.65, 0.28, "03 / 08", 10, MUTED, align="right")
     deck.save_slide(c)
 
 
@@ -282,6 +334,7 @@ def main():
     deck = Deck()
     slide_01(deck)
     slide_02(deck)
+    slide_03(deck)
     deck.save()
 
 
