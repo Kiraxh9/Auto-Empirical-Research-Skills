@@ -574,6 +574,71 @@ def slide_06(deck):
     deck.save_slide(c)
 
 
+def slide_07(deck):
+    c = deck.add_slide()
+    c.rect(0, 0, 0.16, SLIDE_H, NAVY)
+    c.rect(0.16, 0, 0.055, 0.92, ORANGE)
+
+    c.text(0.80, 0.48, 4.20, 0.30, "05　研究结果｜语言实现", 11, BLUE, bold=True)
+    c.text(0.80, 0.84, 10.80, 0.52, "语言实现：相同语步，不同表达重心", 26, NAVY, bold=True)
+    c.text(0.80, 1.43, 11.50, 0.42,
+           "关键词差异主要体现在议题选择与语义组合，而非语步是否出现",
+           14, TEXT, valign="middle")
+    c.rect(0.80, 1.94, 0.65, 0.045, ORANGE)
+
+    cards = [
+        ("M03", "使命愿景与公共价值", "table_2_5_m03_keywords.tsv",
+         "人才培养与国际／国家指向", ["talents", "cultivate", "aims", "international"],
+         "公共价值与共同体", ["diversity", "equity", "inclusion", "community"]),
+        ("M04", "学科价值与研究取向", "table_2_6_m04_keywords.tsv",
+         "学科名称与研究范畴", ["foreign", "translation", "linguistics", "literature"],
+         "研究主题与兴趣", ["historical", "gender", "race", "art"]),
+        ("M05", "课程教学与培养目标", "table_2_7_m05_keywords.tsv",
+         "项目供给与能力培养", ["doctoral", "teaching", "talents", "cross-cultural"],
+         "学习机会与职业发展", ["minor", "offerings", "seminar", "opportunities", "careers"]),
+        ("M08", "合作网络与社会服务", "table_2_8_m08_keywords.tsv",
+         "国际交流、合作与培训", ["international", "exchange", "cooperation", "joint", "training"],
+         "海外学习与公共参与", ["abroad", "outreach", "community", "engagement", "public"]),
+    ]
+    positions = [(0.80, 2.18), (6.72, 2.18), (0.80, 4.22), (6.72, 4.22)]
+    card_w, card_h = 5.68, 1.82
+    for spec, (x, y) in zip(cards, positions):
+        code, name, filename, cn_group, cn_terms, us_group, us_terms = spec
+        keyword_path = ROOT.parent / "analysis" / filename
+        with keyword_path.open(encoding="utf-8-sig", newline="") as f:
+            rows = list(csv.DictReader(f, delimiter="\t"))
+        available = {row["词项"] for row in rows}
+        assert set(cn_terms + us_terms).issubset(available), (code, cn_terms, us_terms)
+
+        c.rect(x, y, card_w, card_h, WHITE, line=LINE, radius=0.11, width=0.8)
+        c.rect(x, y, card_w, 0.06, NAVY)
+        c.text(x + 0.20, y + 0.15, 0.55, 0.30, code, 14, BLUE, bold=True, valign="middle")
+        c.text(x + 0.86, y + 0.15, 4.58, 0.30, name, 12.5, NAVY, bold=True, valign="middle")
+        c.line(x + 0.20, y + 0.51, x + 5.48, y + 0.51, LINE, 0.7)
+
+        for j, (country, group, terms) in enumerate([
+            ("中国", cn_group, cn_terms), ("美国", us_group, us_terms)
+        ]):
+            ry = y + 0.61 + j * 0.61
+            is_cn = country == "中国"
+            c.rect(x + 0.20, ry, 0.54, 0.26,
+                   PALE_BLUE if is_cn else PALE_ORANGE, radius=0.07)
+            c.text(x + 0.20, ry, 0.54, 0.26, country, 9,
+                   BLUE if is_cn else ORANGE, bold=True, align="center", valign="middle")
+            c.text(x + 0.88, ry - 0.01, 4.54, 0.27, group, 10.5, TEXT,
+                   bold=True, valign="middle")
+            c.text(x + 0.88, ry + 0.29, 4.54, 0.23, " · ".join(terms), 9.2,
+                   MUTED, valign="middle")
+
+    c.text(0.84, 6.30, 11.50, 0.20,
+           "注：页面列出代表性区分词项；完整每万词频次、log2比率与BH校正q值见附录。", 8.5, MUTED)
+    c.line(0.80, 6.72, 12.55, 6.72, LINE, 0.8)
+    c.text(0.80, 6.91, 8.50, 0.28,
+           "基于语料库技术的中美外语院系英文简介话语比较分析", 9, MUTED)
+    c.text(11.90, 6.91, 0.65, 0.28, "07 / 08", 10, MUTED, align="right")
+    deck.save_slide(c)
+
+
 def main():
     deck = Deck()
     slide_01(deck)
@@ -582,6 +647,7 @@ def main():
     slide_04(deck)
     slide_05(deck)
     slide_06(deck)
+    slide_07(deck)
     deck.save()
 
 
